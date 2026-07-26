@@ -726,6 +726,35 @@ rectangle of absence, and she caught herself smoothing them
 out with the flat of her hand, slowly, like closing an
 account she already suspected would not stay closed.
 
+She did the day sheet that night the way she did every night,
+and when she got to the bottom of it — receipts squared, the
+till honest, Marco's sixty resolved in a folder — she found
+herself holding the pen over the empty space beneath the total.
+
+Her father's second line. One for the money. One for the truth.
+
+She had not written one since the week he died. She had told
+herself it was because the practice was sentimental and the
+practice was his, and both of those were true, and neither was
+the reason.
+
+The reason was that for four years there had been nothing to
+put on it that she could stand to see in her own handwriting.
+
+She held the pen there for a while, and the radiator knocked
+twice, and downstairs the compressor cycled.
+
+Then she capped the pen and turned off the lamp.
+
+*Not tonight,* she thought, going up the back stair in the
+dark.
+
+It would be eleven weeks before she wrote a second line again,
+and when she did it would be three words long, and she would
+lock it in a drawer with a business card and a stack of takeout
+menus, and it would be, by some distance, the most dangerous
+document in the building.
+
 Sixty dollars said this wasn't going to stay boring. And she
 was never wrong about a drawer.
 
@@ -4936,7 +4965,7 @@ called one in a way that made a man lose face publicly." She
 tapped the pad. "*That's* the vulnerability. Not the courier.
 The day somebody makes Sal call a debt in public, the whole
 thing comes apart in a month, because every other man at that
-table will suddenly need to know what his own number is."
+table will need to know what his own number is, all at once."
 
 Cole looked at his page of block letters for a long moment.
 
@@ -6126,7 +6155,7 @@ person in the organization and permanently unable to leave it.
 A war, probably — Nico had eight men who ate off his route, and
 frightened men do arithmetic badly. And Danny in a federal
 building in the middle of it, with four hundred dollars a month
-posting to his commissary from people suddenly in need of
+posting to his commissary from people newly in need of
 silence.
 
 *If I don't hand it up:* the quarter closes in five weeks and
@@ -8093,7 +8122,7 @@ The line hummed.
 The eleven days had a shape, and the shape was work.
 
 The restaurant was sealed, the accounts frozen, and fourteen
-people were suddenly out of a job in the second week of March,
+people were out of a job overnight in the second week of March,
 which Elena discovered was a problem with a solution: she spent
 the first four days finding every one of them a station
 somewhere else in the city. She called in favors she had spent
@@ -8817,6 +8846,52 @@ titled DURESS AND REFUSAL, doing its quiet work,
 authored by a man whose name was conspicuously absent
 from the meeting.
 
+She had not slept. She had spent the night at Okafor's kitchen
+table with a legal pad, and had arrived at the Dirksen building
+at nine-fifteen in a plain gray suit she had bought in 2019 for
+her father's memorial mass and had worn twice since.
+
+In the elevator Okafor said, quietly, "Last chance to take the
+number and the new town."
+
+"No."
+
+"Elena." It was the second time. "I have to say this on the
+record between us, so say no again after you hear it. Once you
+walk into that room under your own name, every protection I can
+give you is paper. There's no relocation, no alias, no marshals
+at your door. If somebody wants to find you in three years,
+they will type your name into a search bar."
+
+"I know."
+
+"Then tell me why. Not the speech — the real one. I'm your
+lawyer; I get the real one."
+
+The elevator climbed four floors.
+
+"Because I have watched people disappear out of this family my
+whole life," Elena said, "and the neighborhood tells two
+stories about every one of them, and neither story is ever
+*she chose*. If I take a number, then in ten years I'm a rumor
+— she ran, she flipped, they got her, who knows. And Danny
+grows up inside that rumor, and Lucia does, and whatever
+happens to the people on that payroll, it happens to them
+inside a story where the bookkeeper vanished." She watched the
+floor numbers. "I'd rather be a woman with a name, in a city,
+who did a thing and said so out loud, and let people decide
+what they think about it in front of me."
+
+Okafor looked at her.
+
+"That's the best answer I've ever gotten to that question,"
+she said, "and I've asked it about forty times, and it's still
+a terrible idea."
+
+"Noted," Elena said, "for the file."
+
+The doors opened.
+
 "Ms. Moretti," Raman said. "Your counsel represents
 that you have a document."
 
@@ -9381,8 +9456,8 @@ month. Right now I'm out and there's braciole. But I'm gonna be
 mad, Lena, and you're gonna sit there and take it."
 
 "That's the arrangement," Elena said, and put her hand over her
-brother's wrist, and Lucia turned around to the stove very
-suddenly and stayed there a while.
+brother's wrist, and Lucia turned around to the stove all at
+once and stayed there a while.
 
 ·
 
@@ -9599,6 +9674,51 @@ in his hand and the specific hollow feeling of a man who has
 gotten exactly what he asked for.
 
 ·
+
+On the way out of the building he ran into a second-year agent
+named Delgado at the security desk, who did not know, because
+nobody outside the eleventh floor knew yet, and who said
+brightly:
+
+"Brennan. Hey. Is it true you're going to training division?"
+
+"It's true."
+
+"Man." Delgado made a face of genuine sympathy. "That's a
+waste. You're the guy who reads the paper. Everybody says it —
+Brennan reads the paper. Nobody reads the paper anymore."
+
+Cole stood in the lobby of the federal building with a letter
+of reprimand in his inside pocket and found that he had no idea
+what to say to that.
+
+"Delgado," he said finally. "Ask me something."
+
+"Uh. Okay?"
+
+"Ask me what I learned this year."
+
+The kid blinked. "What'd you learn this year?"
+
+"That the paper is a person," Cole said. "Every ledger, every
+invoice, every set of books you're ever going to read — some
+human being sat down and made those marks, one at a time, and
+the marks tell you what they were doing and the *way* they made
+them tells you who they were while they did it. Learn to read
+the second thing. It's harder and nobody will ever promote you
+for it and it's the only part of this job that's actually
+worth anything."
+
+Delgado stared at him.
+
+"Is that gonna be in the training module?"
+
+"It's going to be the whole first hour," Cole said, "and half
+of you are going to think it's soft, and one of you won't, and
+that's the one this is for."
+
+He went out through the revolving doors into the March
+afternoon.
 
 That evening he did two things in his apartment.
 
@@ -10693,6 +10813,29 @@ is optional, and it is not the one you think.*
 
 For thirty years she had kept everyone's first line and no one's
 second.
+
+She thought, sometimes, about the sixty dollars.
+
+It came back to her at odd hours — closing out, or walking the
+river, or lying awake in July after four days on a witness
+stand. A busboy with a bad molar and a round number missing
+from a drawer, in February, in a building that no longer
+existed as anything but a lease in receivership.
+
+She had covered it out of her own purse and written it up as a
+variance and collected it back at five dollars a week, and had
+thought at the time that she was being accurate.
+
+She had been being something else, and it had taken her a year
+and a federal investigation to find the word for it, and the
+word turned out to be one nobody in her family had ever used
+about money.
+
+Marco worked at the bakery on Grand now. He came in on Sundays
+with the baby. He had never once mentioned the sixty dollars,
+and she had never once mentioned it, and there was an entire
+grammar in that silence which she now understood completely and
+which had nothing to do with the family she was born into.
 
 *Covers: 38. Till: balanced,* she wrote, in the narrow upright
 hand, sevens crossed.

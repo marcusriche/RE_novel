@@ -269,6 +269,29 @@ is optional, and it is not the one you think.*
 For thirty years she had kept everyone's first line and no one's
 second.
 
+She thought, sometimes, about the sixty dollars.
+
+It came back to her at odd hours — closing out, or walking the
+river, or lying awake in July after four days on a witness
+stand. A busboy with a bad molar and a round number missing
+from a drawer, in February, in a building that no longer
+existed as anything but a lease in receivership.
+
+She had covered it out of her own purse and written it up as a
+variance and collected it back at five dollars a week, and had
+thought at the time that she was being accurate.
+
+She had been being something else, and it had taken her a year
+and a federal investigation to find the word for it, and the
+word turned out to be one nobody in her family had ever used
+about money.
+
+Marco worked at the bakery on Grand now. He came in on Sundays
+with the baby. He had never once mentioned the sixty dollars,
+and she had never once mentioned it, and there was an entire
+grammar in that silence which she now understood completely and
+which had nothing to do with the family she was born into.
+
 *Covers: 38. Till: balanced,* she wrote, in the narrow upright
 hand, sevens crossed.
 

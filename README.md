@@ -19,7 +19,7 @@ Unified Seed Matrix:
 | `binding/` | The **offline-agent-v1 binding configuration** (Addendum M): `schedule.py` (authored editorial layer) + `offline_client.py` (the `ModelClient` adapter). |
 | `run_book.py` | Driver: runs the §11.1 loop over the seed row, 45 scenes, Path B; writes the artifacts. |
 | `artifacts/` | `scene_ledger.json` (per-scene structural ledger), `scene_briefs.md` (PRIMARY-PROSE work orders), `run_summary.md`. |
-| `manuscript/` | The novel — 16 chapters + epilogue rendered from the scene briefs under kernel VK-EN-MD-01. |
+| `manuscript/` | The novel — 16 chapters + epilogue (80,185 words) rendered from the scene briefs under kernel VK-EN-MD-01, plus the per-title IP log. `CLEAN_EXIT.md` is the assembled deliverable. |
 
 ## How to verify
 
@@ -86,7 +86,8 @@ provisional) was evaluated on every shipped winner and never failed.
   at the warrant execution (weight 0.9 → 1.0, stays open) and closes at the
   Ph7 proffer; CE-04 (Promise) pays verbatim (L7 discipline) and closes at
   the release door.
-- **Word count**: the manuscript is an abridged-length rendering
-  (20,344 words assembled) of the 80k-word seed target — an operator decision recorded
-  in `manuscript/HCL-CLEAN-EXIT-B01.md` with the R22 editor pass
-  (`Editor_Pass_Count = 1`).
+- **Word count**: the manuscript is rendered at the seed's
+  `Word_Count_Target`. `Word_Count_Actual` = **80,185** words assembled
+  (16 chapters + epilogue; mean ≈ 1,780 words per engine scene). The R22
+  editor pass (`Editor_Pass_Count = 1`) and the full constraint verification
+  are logged in `manuscript/HCL-CLEAN-EXIT-B01.md`.
