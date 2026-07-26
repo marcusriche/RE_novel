@@ -1,37 +1,55 @@
-# RE_novel — Romance Engine v5.0, implemented, with one produced novel
+# RE_novel — Romance Engine v5.0, implemented, with two produced novels
 
 This repository implements the **Romance Engine** (Consolidated Operating
 Document v5.0, with Addendum M and the Calibration Corpus v0.1 in force) and
-uses it to produce one complete novel from the single populated row of the
-Unified Seed Matrix:
+uses it to produce complete novels from rows of the Unified Seed Matrix. Two
+titles have been produced, both through the same orchestrator and the same
+binding:
 
-> **Seed `01KYDG7NWVMNN9C7DTKZ76F54Q` — *Clean Exit*** (Sable Voss, Moretti
-> Family #1) — Mafia/Dark, enemies-to-lovers, Heat 4, HEA, Chicago, late
-> winter, 31-day story clock.
+> **Book 1 — Seed `01KYDG7NWVMNN9C7DTKZ76F54Q`, *Clean Exit*** (Sable Voss,
+> Moretti Family #1) — Mafia/Dark, enemies-to-lovers, Heat 4, HEA, Chicago,
+> late winter, 31-day story clock. **80,185 words.**
+>
+> **Book 2 — Seed `01KYF6MB0CBHSYJG5CC2TKW0WD`, *Safe Passage*** (row 3 of
+> the matrix) — Mafia/Dark, forced-proximity / reluctant-allies-to-lovers,
+> HEA, the Great Lakes freight corridor Chicago→Port Huron, May, 19-day
+> story clock. **71,217 words.**
 
 ## Layout
 
 | Path | What it is |
 |---|---|
-| `main.py` | The reference orchestrator (deterministic core §15.8, canonical scene loop §11.1, executable §15 fixture). Used verbatim as supplied. |
-| `seed/` | The Unified Seed Matrix workbook and the extracted `seed_row.json` (§16 Unified_Seed_Row). |
-| `tools/seed_from_xlsx.py` | Stdlib-only xlsx → seed-row extractor. |
-| `binding/` | The **offline-agent-v1 binding configuration** (Addendum M): `schedule.py` (authored editorial layer) + `offline_client.py` (the `ModelClient` adapter). |
-| `run_book.py` | Driver: runs the §11.1 loop over the seed row, 45 scenes, Path B; writes the artifacts. |
-| `artifacts/` | `scene_ledger.json` (per-scene structural ledger), `scene_briefs.md` (PRIMARY-PROSE work orders), `run_summary.md`. |
-| `manuscript/` | The novel — 16 chapters + epilogue (80,185 words) rendered from the scene briefs under kernel VK-EN-MD-01, plus the per-title IP log. `CLEAN_EXIT.md` is the assembled deliverable. |
+| `main.py` | The reference orchestrator (deterministic core §15.8, canonical scene loop §11.1, executable §15 fixture). Used verbatim as supplied, for both books. |
+| `seed/` | The Unified Seed Matrix workbooks and the extracted seed rows (`seed_row.json`, `seed_row_safe_passage.json`) — §16 Unified_Seed_Row. |
+| `tools/seed_from_xlsx.py` | Stdlib-only xlsx → seed-row extractor. Takes `<matrix.xlsx> [row_index]`. |
+| `tools/build_manuscript.py` | Assembles a book's chapter files into the single deliverable and reports word counts. |
+| `binding/` | The **offline-agent-v1 binding configuration** (Addendum M): `offline_client.py` (the `ModelClient` adapter, schedule-selectable) + one authored editorial schedule per title (`schedule.py`, `schedule_safe_passage.py`). |
+| `run_book.py` | Driver: runs the §11.1 loop over a seed row. `--seed / --schedule / --out / --scenes / --path`. |
+| `artifacts/`, `artifacts_safe_passage/` | Per book: `scene_ledger.json` (per-scene structural ledger), `scene_briefs.md` (PRIMARY-PROSE work orders), `run_summary.md`. |
+| `manuscript/` | *Clean Exit* — 16 chapters + epilogue, plus the per-title IP log. `CLEAN_EXIT.md` is the assembled deliverable. |
+| `manuscript_safe_passage/` | *Safe Passage* — 17 chapters + epilogue, plus the per-title IP log. `SAFE_PASSAGE.md` is the assembled deliverable. |
 
 ## How to verify
 
 ```bash
-python3 main.py --fixture          # reproduces every §15 ledger value exactly
-python3 run_book.py                # re-runs the scene loop; regenerates artifacts
-python3 tools/seed_from_xlsx.py seed/Romance_Engine_Unified_Seed_Matrix.xlsx  # re-extract the seed row
+python3 main.py --fixture                      # reproduces every §15 ledger value exactly
+
+# Book 1
+python3 run_book.py
+
+# Book 2
+python3 run_book.py \
+  --seed seed/seed_row_safe_passage.json \
+  --schedule binding.schedule_safe_passage \
+  --out artifacts_safe_passage
+
+python3 tools/build_manuscript.py              # rebuild both assembled manuscripts
+python3 tools/seed_from_xlsx.py seed/Romance_Engine_Unified_Seed_Matrix.xlsx 2
 ```
 
 The fixture requires no binding (Addendum M's proof instrument); `run_book.py`
-re-runs all 45 scenes deterministically — same ledger, same briefs, byte for
-byte.
+re-runs all 45 scenes of either title deterministically — same ledger, same
+briefs, byte for byte.
 
 ## The binding configuration (Addendum M compliance)
 
@@ -48,9 +66,9 @@ deterministic configuration that runs with no network access:
   under the §15.8 arithmetic. The BT fits, Stage-1/Stage-2 blends, shortlist,
   lookahead, utility selection, anchored confirmation and the ED floor all
   run in `main.py`, unmodified.
-- **PRIMARY-PROSE** — the loop emits scene briefs (`artifacts/scene_briefs.md`);
-  the finished prose was authored from those briefs by the bound agent
-  (Claude, acting as the PRIMARY-PROSE lane) and shipped as `manuscript/`.
+- **PRIMARY-PROSE** — the loop emits scene briefs; the finished prose was
+  authored from those briefs by the bound agent (Claude, acting as the
+  PRIMARY-PROSE lane) and shipped as the manuscript directories.
 - **Reconciliation** — `main.py` pins §7.2 reconciliation to the orchestrator
   but does not implement grant/CE lifecycle application; the binding performs
   those side effects at extraction time (consent grants, withdrawals, CE
@@ -58,36 +76,66 @@ deterministic configuration that runs with no network access:
 - **Caller-side initiator wiring** — `main.py`'s `evaluate_phase` computes the
   §6.3 initiator from `T_scene` only and notes the fracture/inversion
   initiators are "tracked by caller in full wiring"; `run_book.py` supplies
-  that wiring for the two scheduled fracture scenes (34: warrant executed;
-  39: reversal complete). Gates G1–G6 are still evaluated unmodified.
+  that wiring for each title's scheduled fracture scenes. Gates G1–G6 are
+  still evaluated unmodified.
+
+The adapter surface really is one `ModelClient` subclass, as Addendum M
+claims: adding Book 2 required a new schedule module and a seed row, and no
+change whatsoever to `main.py`.
 
 No calibration card exists for this configuration, so all floors and ρ
 readings are **provisional**, exactly as R11 requires; the ED floor (0.45,
-provisional) was evaluated on every shipped winner and never failed.
+provisional) was evaluated on every shipped winner in both books and never
+failed.
 
-## Production notes for this title
+## Book 1 — *Clean Exit*
 
 - **Scene count**: 45 scenes (operator override of the 90-scene reference
   allocation; phase blocks scaled proportionally, `3·4·5·5·5·6·6·5·6`).
-  All six §6.3 gates were passed at every phase boundary; zero regressions;
+  All six §6.3 gates passed at every phase boundary; zero regressions;
   zero review flags; zero unrealized deltas.
 - **Set pieces** land in their seeded phases: the on-the-record interview
   (Ph0), the staged threat against the brother (Ph2), the consent negotiation
   before first C3 contact (Ph5), the family-dinner confrontation over the
   ledger (Ph5), and the ledger's disposition resolving on the page (Ph7).
-- **Consent architecture (§4.5)**: every contact above C1 in the book sits
-  under an explicit on-page grant negotiated in an earlier shipped scene;
-  the post-betrayal withdrawal voids all standing grants the moment the beat
-  lands, and intimacy resumes only after an explicit on-page re-grant.
-  First_Kiss_Phase 5 and First_Intimacy_Phase 6 are honored as scheduling
-  priors *subordinate* to the grants, per §16.3.
 - **CE lifecycle**: CE-02 (Threat) closes at the Ph5 dinner; CE-03
   (Obligation) closes on the confidant's confession; CE-01 (Secret) misfires
   at the warrant execution (weight 0.9 → 1.0, stays open) and closes at the
   Ph7 proffer; CE-04 (Promise) pays verbatim (L7 discipline) and closes at
   the release door.
-- **Word count**: the manuscript is rendered at the seed's
-  `Word_Count_Target`. `Word_Count_Actual` = **80,185** words assembled
-  (16 chapters + epilogue; mean ≈ 1,780 words per engine scene). The R22
-  editor pass (`Editor_Pass_Count = 1`) and the full constraint verification
-  are logged in `manuscript/HCL-CLEAN-EXIT-B01.md`.
+- **Word count**: rendered at the seed's `Word_Count_Target`.
+  `Word_Count_Actual` = **80,185** (16 chapters + epilogue; mean ≈ 1,780
+  words per engine scene). R22 editor pass and full constraint verification
+  logged in `manuscript/HCL-CLEAN-EXIT-B01.md`.
+
+## Book 2 — *Safe Passage*
+
+- **Scene count**: 45 scenes against the same Mafia/Dark arc profile and the
+  same phase blocks, for direct comparability. Final run: 45 scenes,
+  0 flags.
+- **Set pieces** land in their seeded phases: the passage debt called in at
+  the yard (Ph0), the first deviation onto an unlisted crossing (Ph2), the
+  freighter-layover truth trade (Ph4), the consent negotiation before first
+  C3 contact (Ph5), and the handover at the border yard resolving on the
+  page (Ph7).
+- **Consent architecture (§4.5)** is the spine of this title rather than a
+  compliance layer. The custody imbalance is named on the page and converted
+  into a standing boundary (sc. 19); a real, funded exit is offered and
+  refused (sc. 21) *before* any grant exists; first kiss is her move with
+  that exit still standing open (sc. 22); withdrawal is performed by the
+  party who was in custody, for the clause that was actually broken (sc. 39);
+  and the re-grant is his initiative, from outside the gate, with widened
+  scope (sc. 43). `First_Kiss_Phase = 4` and `First_Intimacy_Phase = 5` are
+  honored as scheduling priors subordinate to the grants, per §16.3.
+- **CE lifecycle**: CE-03 (the passage secret) closes on the Alpena
+  breakwater; CE-02 (the licence threat) closes when the road boss walks out
+  onto gravel; CE-01 (the debt) is discharged by being *voided* rather than
+  paid; CE-04 (Promise) pays verbatim at the witness box.
+- **Four scheduling repairs** were required during dry runs — an inadmissible
+  contact, a missing band crossing at G4, a premature Phase-4 advance that
+  would have broken `First_Kiss_Phase`, and a register that ended warm but
+  not safe. Each is itemized in the IP log; in every case the schedule was
+  wrong and the engine's refusal to advance was the evidence.
+- **Word count**: the seed's band is 70,000–90,000. `Word_Count_Actual` =
+  **71,217** (17 chapters + epilogue). R22 editor pass and full constraint
+  verification logged in `manuscript_safe_passage/HCL-SAFE-PASSAGE-B02.md`.
