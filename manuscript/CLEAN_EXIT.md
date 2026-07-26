@@ -6009,6 +6009,94 @@ tape ran out and the machine clicked itself off.
 
 ·
 
+The eleven days had a shape, and the shape was work.
+
+The restaurant was sealed, the accounts frozen, and fourteen
+people were suddenly out of a job in the second week of March,
+which Elena discovered was a problem with a solution: she spent
+the first four days finding every one of them a station
+somewhere else in the city. She called in favors she had spent
+eleven years accumulating and had never once drawn on — Peraza,
+the fish house, two chefs who owed the restaurant for the
+walk-in summer, a catering company on the North Side that took
+both dish men at a dollar more an hour than she'd been paying
+them. She did it from a payphone and a borrowed desk, with a
+legal pad, in the order of who could least afford a week.
+
+Marco was last, because Marco was hardest — nineteen, a baby,
+no papers for the girlfriend, a record from the arrest sweep
+that had scooped him up on the night of the raid and released
+him at four in the morning without charges and without a ride.
+
+She found him a job at a bakery on Grand, of all places, whose
+owner had employed exactly one Moretti-adjacent person in
+thirty years and had liked her.
+
+"You don't have to do this," Marco said, in the parking lot,
+not looking at her.
+
+"You paid back sixty dollars five dollars a week for twelve
+weeks," Elena said, "in a year when I know exactly what your
+month looked like. I'm doing arithmetic, Marco. It's the only
+thing I do."
+
+On day five, Okafor made her sit down and told her, in the
+flat voice of a professional delivering weather, that the
+government could charge her by Friday if it wanted to, and
+that the fact that it hadn't, six days on, meant one of two
+things: either they were building something bigger, or
+somebody in that building was holding a document that
+complicated her.
+
+"Which do you think it is?"
+
+"I think," Okafor said, "that a woman who was walked out of a
+raid and released without charges at two in the morning, with
+no seized ledger on the inventory, has either the best luck
+in Chicago or a friend."
+
+Elena said nothing at all.
+
+"I'd like to know which," Okafor said, "because if it's the
+second one, I need to know whether the friend is going to
+survive being one, because friends who don't survive it tend
+to become witnesses against the people they were being
+friendly to."
+
+"He'll survive it," Elena said.
+
+"You sound very certain about a man you've told me nothing
+about."
+
+"He'll survive it," she said again, "because he'll pay
+whatever it costs before anyone asks him to. That's the whole
+personality. It's not a virtue, it's a compulsion, and it's
+going to take his career apart, and there is nothing I can do
+about it from here except not lie to you about it."
+
+Okafor put down her pen. "Ms. Moretti. Is there anything you
+want to tell me?"
+
+"Yes," Elena said. "Not yet."
+
+On day nine she began to write. Not the ledger — the ledger
+needed nothing from her. A *decoding key*: forty-one pages, in
+her own hand, on ruled paper, explaining the coding system her
+father had built in 1996 and she had extended, so that if
+something happened to her the book would still be readable by
+somebody with two weeks and a legal pad.
+
+She had never written it down before. Writing it down was the
+end of her only real leverage, which was that the book was
+useless without her.
+
+She wrote it anyway. It took four nights.
+
+On day eleven she called Farrah Okafor at nine-fifty on a
+Sunday night and said: *I need the proffer.*
+
+·
+
 He was at Whitfield's door when the building opened. Before
 coffee, before counsel, before sense.
 
@@ -6140,6 +6228,69 @@ He intended to let it.
 
 
 ## Chapter Fourteen — Disposition
+
+Sal called her twice in the eleven days.
+
+The first call, on day three, was magnificent: two minutes of
+outrage on her behalf, the federal government, the disgrace, an
+old man's fury at the men who had walked through his brother's
+restaurant at dinner service — and then, gliding in under it,
+one question, asked warmly, at the exact center of the call.
+
+"They took the office. Did they take everything, piccola?"
+
+"Everything that was in it."
+
+"Ah." A pause of the kind she had spent her whole life
+translating. "Terrible. Terrible. Well. Paper is paper."
+
+The second call, on day nine, was not magnificent.
+
+"I want to see you Sunday."
+
+"The house?"
+
+"The house." A silence with nothing in it but a very old man
+breathing. "Elena. Whatever your father left. Whatever it says.
+Bring it to me and it stays in this family, and I'll put my
+hand on your head in front of everybody and there's an end of
+it. Don't make me hear about it from a stranger."
+
+She stood in her kitchen with her free hand flat on the counter
+and understood that her uncle was frightened, which she had
+never once seen, and that a frightened Salvatore Moretti was not
+a softer object but a harder one.
+
+"Zio," she said, "I told you where it sleeps."
+
+"Yes," he said. "You did." And hung up, without goodbye, for the
+first time in her life.
+
+She did not go to the house on Sunday.
+
+She went to the restaurant instead, at eight in the evening,
+and unlocked the alley door with her own key, and sat down in
+the one room left in the building that still had a light in it,
+and waited for whoever came — because someone was coming, and
+because for the first time in eleven years she wanted the
+meeting on ground she had chosen.
+
+She had made three preparations, and all of them were
+arithmetic.
+
+She had photographed nothing. She had told nobody where she
+would be. And she had written a single sentence on a card and
+left it in Farrah Okafor's mail slot at six p.m. that evening,
+with the decoding key sealed in a second envelope behind it:
+*If I don't call you before nine tomorrow morning, the second
+envelope goes to AUSA Raman and page 406 goes to Salvatore
+Moretti's counsel by hand.*
+
+It was, she reflected, the most Moretti thing she had ever
+done. Her father would have been appalled and would have
+understood completely.
+
+·
 
 Nico came for the ledger on Sunday night, alone, through the alley
 door of a shuttered restaurant, and Elena was waiting for him,
@@ -6792,6 +6943,140 @@ empty.
 her through the winter. *Paid in full, both directions.*
 
 She got in the car and let Lucia feed her family.
+
+·
+
+They ate at Lucia's that night — nobody could face the sealed
+restaurant, and Elena's apartment above it was worse — and
+Lucia cooked for eleven people in a kitchen built for four and
+would not permit anyone to help.
+
+Danny ate for forty minutes without speaking. Then he put down
+his fork and said, to the table:
+
+"I want to say the thing, and then I want to never say it
+again, so everybody hold still." He had gone red to the ears.
+"A hundred and three days. And the whole time, the thing that
+kept coming back — I'd be lying there at two in the morning
+thinking, somebody signed my name. Somebody sat down and
+*signed my name*, and I don't even know who, and everybody who
+does know is either family or dead." He looked at his sister.
+"And you knew. The whole time. You knew who and you knew when.
+Didn't you."
+
+The room went very quiet.
+
+"Yes," Elena said.
+
+"For how long?"
+
+"Fourteen months."
+
+Lucia's hand stopped on the back of a chair. Somebody's fork
+touched a plate.
+
+"I posted them," Elena said. "Nine transactions, under your
+authorization code. I posted every one of them in my own hand
+because posting them was my job and refusing would have raised
+a question I couldn't survive. Then I put them in the book,
+correctly, with the true margin letters — Sal four times, Nico
+five — because that's what the book is for, and because I told
+myself I was building the case that would eventually get you
+out." She kept her hands flat on the tablecloth. "And every day
+for fourteen months I was also just a woman doing the paperwork
+that put her brother in a federal building. Both of those are
+true. I've stopped trying to make only one of them true."
+
+Danny looked at her for a long time.
+
+"Is that why you didn't take the train?"
+
+"No," Elena said. "It's why I bought the ticket."
+
+Her brother got up, and came around the table, and put his arms
+around her from behind and his chin on the top of her head, the
+way he had done when he was fifteen and taller than her for the
+first time.
+
+"You should've told me a year ago," he said, into her hair.
+
+"I know."
+
+"I'd have been *so* mad."
+
+"I know."
+
+"I'm still mad." He tightened his arms. "I'll be mad in like a
+month. Right now I'm out and there's braciole. But I'm gonna be
+mad, Lena, and you're gonna sit there and take it."
+
+"That's the arrangement," Elena said, and put her hand over her
+brother's wrist, and Lucia turned around to the stove very
+suddenly and stayed there a while.
+
+·
+
+She spent the last week of March in a conference room being
+taken apart by her own lawyers.
+
+Trial prep is a species of violence nobody warns you about.
+Raman's second chair spent four hours doing a cross-examination
+he did not believe in, in order to find out where she broke,
+and he found it in ninety minutes:
+
+"You posted these transactions yourself."
+
+"Yes."
+
+"In your own handwriting."
+
+"Yes."
+
+"You knew the authorization code belonged to your brother."
+
+"Yes."
+
+"You knew he was not present for the transactions."
+
+"Some of them. I knew for five of them."
+
+"And you posted them anyway."
+
+"Yes."
+
+"And you kept posting them for fourteen months."
+
+"Yes."
+
+"So when you tell this jury that the family used your brother's
+name as *stationery*" — the second chair leaned in, doing his
+job — "isn't it more accurate to say, Ms. Moretti, that *you*
+were the stationery, and your brother was just the ink?"
+
+The room went silent. Okafor said, "Objection," to nobody,
+because there was no judge and this was a conference room in
+March.
+
+"Yes," Elena said.
+
+Everyone looked up.
+
+"That's accurate," she said. "That's the accurate version. And
+if they ask me that in June, that's the answer they'll get,
+because the first time I dress a number in that courtroom is
+the moment every other number I've given you becomes worthless."
+
+Raman put down her pen.
+
+"Ms. Moretti," she said, "I have been doing this for nineteen
+years, and I want you to understand that I am about to give you
+the only piece of trial advice I've ever given a witness that
+isn't tactical." She took off her reading glasses. "Don't
+practice that answer. Not once. If you rehearse it, it'll come
+out sounding like a strategy, and it isn't one. It's the truth,
+and it's the reason this jury is going to believe every other
+word you say, and the only way to ruin it is to make it
+smooth."
 
 ·
 
