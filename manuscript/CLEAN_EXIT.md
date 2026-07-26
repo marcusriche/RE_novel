@@ -590,6 +590,80 @@ the end of an answer about linen inventory, of all the freight
 in the world, *linen*, and he looked down at his pad and
 squared it again though it had not moved.
 
+At minute twenty-six he changed the subject, and she felt the
+change the way you feel a train switch tracks under you.
+
+"Halsted Vending," Cole said. "Two hundred and eleven machines
+across four counties. Who reconciles the coin?"
+
+"I told you. A machine counts it. I count the machine."
+
+"And when the count's off?"
+
+"The count is never off," Elena said. "Coin is the most honest
+money there is. It weighs what it's worth."
+
+He wrote that down, which annoyed her — it was true and it was
+her father's and she had not intended to give it away for
+nothing — and then he said, without any change of tone at all:
+
+"Do you reconcile the route gross against what the route
+manager remits?"
+
+The radiator knocked twice.
+
+It was, she understood immediately, the only genuinely
+dangerous question of the entire interview, and there was no
+possibility he knew that. He couldn't. He was three weeks into
+public filings; the skim lived in a green book in a floor safe
+under his feet and had never touched a document that existed
+outside this building. He had simply walked, blind, along the
+one wall in her entire fortress that had a door in it, and had
+knocked on the door because it was there.
+
+"That's not my entity," she said.
+
+"That wasn't the question."
+
+"It's my answer."
+
+He looked at her for a moment. Then he wrote something short —
+four or five characters, not a sentence — and moved on to the
+linen service, and she sat with her hands flat on the white
+cloth and understood two things at once.
+
+The first was that the government did not know about the skim.
+
+The second was that this particular man, given eight months and
+the public record, was going to find it anyway. Not because he
+had a source. Because he was the kind of reader who noticed the
+one place a fluent liar had gone briefly monosyllabic, and
+wrote four characters down, and came back to it later.
+
+She had known federal investigators before, at a distance, the
+way you know weather systems. She had never met one who read.
+
+"You keep looking at my hands," she said, which was
+unprofessional of her, and which she permitted herself as
+retaliation.
+
+"You keep not moving them."
+
+"Is that a finding?"
+
+"It's an observation," Cole said. "The findings come later, and
+they get typed."
+
+And at minute thirty-four, over a question about linen
+inventory, their eyes held one half-second past the end of an
+answer.
+
+Both of them looked away. He squared his pad, which had not
+moved. She refilled a water glass that was full.
+
+*Well,* she thought, with the detached horror of a woman
+watching a number come out wrong twice. *That's new.*
+
 At minute forty-one he clicked his pen closed. "Anything you'd
 like to add," he said, in the voice of a man shutting a door
 he'd rather have left open.
@@ -6603,7 +6677,74 @@ its own hours.
 
 ·
 
-Nico came to help her look on Saturday.
+She had two days between Lucia's confession and Nico's visit,
+and she spent them the way she had spent every crisis of her
+adult life: making the building tell the truth she needed it to
+tell.
+
+Friday she emptied the safe of everything but what belonged in
+a restaurant's safe. Cash reserves, banded and counted. Payroll
+folders. Her mother's rosary. The good-silver inventory in its
+sleeve. She left the compressed rectangle in the felt where the
+book had lain for eleven years, because trying to fluff it
+would have been the amateur move — a raised nap says *somebody
+worried about this*, and a compressed one says only *something
+used to sit here*, and the difference between those two
+statements was the difference between a suspicion and a
+conclusion.
+
+Then she carried three boxes of genuinely boring paper — 2011
+linen invoices, health-inspection certificates, a decade of
+vendor W-9s — from the storage room to the office and stacked
+them where anyone searching would find them first, because a
+search that yields nothing feels like a failure, and a search
+that yields tedium feels like a completed task.
+
+Saturday morning she bought an elastic band at a pharmacy on
+Chicago Avenue, the wide kind sold for back support, and cut it
+to length with kitchen shears, and spent forty minutes in her
+apartment learning to sit, stand, bend, kneel, and reach a
+filing cabinet's top drawer with three pounds of book flat
+against her spine. She practiced in front of the closet mirror.
+She practiced sitting down and standing up eleven times.
+
+At the end of it she understood something that had never once
+occurred to her in eleven years of white-collar crime: this was
+what her body was for. All those years of being the person who
+could stand at a table and be looked at — the freezing, the
+hands flat, the stillness — and it turned out to have been
+training for a Saturday afternoon in March when she would need
+to hold ninety seconds of absolute physical composure with the
+entire evidence of a criminal organization strapped under her
+sweater.
+
+Lucia came at two, without being asked, and stood in the
+kitchen doorway.
+
+"He's coming today."
+
+"Probably."
+
+"I'll be at the pass. All afternoon. With three of the boys."
+
+"Lucia—"
+
+"Twelve people in this building until eight o'clock," Lucia
+said, "and I have already told them we're deep-cleaning the
+line, and every one of them will remember what time everybody
+arrived, because I told Marco to write it on the prep list as
+a joke about the receiving log." Her chin came up. "You said be
+somewhere with witnesses. I am making the witnesses."
+
+Elena looked at her for a moment.
+
+"Thank you," she said.
+
+"Non si discute," said Lucia, and went to run her kitchen.
+
+·
+
+Nico came to help her look on Saturday.Nico came to help her look on Saturday.
 
 He brought two soldiers and the manners of a foreclosure —
 knocked at the alley door at four in the afternoon, when
@@ -7434,6 +7575,72 @@ She wrote it anyway. It took four nights.
 
 On day eleven she called Farrah Okafor at nine-fifty on a
 Sunday night and said: *I need the proffer.*
+
+·
+
+The last thing she did before Okafor got her out of the building
+was ask a question of a stranger.
+
+The agent who walked her down — Okafor-no-relation, mid-thirties,
+tired, decent — held the door for her at the elevator bank and
+Elena said, without preamble:
+
+"Am I charged with anything?"
+
+"No, ma'am."
+
+"Am I going to be?"
+
+He looked at her. It was four in the morning, everyone in the
+building had been up for twenty hours, and she watched a young
+federal agent decide, on his own authority, to answer a
+question he was not obliged to answer.
+
+"I don't know," he said. "Genuinely. I'd have told you yes
+tonight, four hours ago. But there's something moving in the
+file that's above me, and the AUSA's asking for a
+handwriting-and-coding workup on your production, and people
+don't order those to convict somebody."
+
+"They order those to understand somebody."
+
+"Yeah," he said, and pressed the button. "Ma'am — for what
+it's worth. My grandmother had a place on Twenty-Sixth Street.
+The families didn't leave anybody alone either." The doors
+opened. "That's not a professional statement."
+
+"No," Elena said. "Thank you."
+
+She rode down alone.
+
+Outside, at four in the morning on Dearborn, with Okafor's car
+double-parked and the ledger flat against her spine, she stood
+for a second in the cold and let herself do exactly one piece
+of unprofessional arithmetic.
+
+*Something moving in the file that's above him.* A
+coding workup. Ordered by a prosecutor who, forty-eight hours
+ago, had no reason on earth to believe there was a coding
+system worth working up.
+
+Somebody had told them.
+
+Somebody had walked into that building and put a document on a
+desk and explained, in block letters, to people with the power
+to charge her, that the invoice with her handwriting on it was
+not what it looked like.
+
+She got into Okafor's car and said nothing about it for eleven
+days.
+
+But she knew — sitting in the passenger seat with her lawyer
+swearing steadily about federal procedure and the river going
+past dark on the left — she knew, at four in the morning, in
+the specific way she knew a column would foot, that Cole
+Brennan had already begun paying, and that he had started
+before she had finished withdrawing.
+
+That, too, went in the book. Undated. Unposted. But entered.
 
 ·
 
@@ -8593,6 +8800,57 @@ He signed the letter of reprimand with his own pen, and took
 the reassignment, and walked out into a hallway that felt no
 different than it had at nine, because hallways don't know.
 
+In the hallway afterward, Amundsen caught up with him at the
+elevator, letter of reprimand in Cole's hand, and did a thing
+boards do not do.
+
+"Investigator. Off the record and unsolicited." The old man
+leaned on his cane. "I sat on the Reyes review. Not the panel —
+the reading committee, the one that gets the file first and
+decides what the panel sees."
+
+Cole said nothing.
+
+"There's a line in it," Amundsen said. "Your statement, page
+nine. You were asked what you'd told her, exactly, at her
+kitchen table, and you gave them a quotation. *I said the
+program would hold, and I said it in my own words instead of
+the pamphlet's, because I wanted her to believe it, and she
+did.*" He shifted his weight. "In thirty-one years, that's the
+only sentence out of an agent's mouth I've ever cut out and
+kept."
+
+"Why?"
+
+"Because it's an accurate description of the exact place where
+this job breaks," Amundsen said. "Not corruption. *Conviction.*
+The pamphlet doesn't know anything about the person in front of
+you, so you improve on it, in your own words, out of the best
+part of yourself. And you're right about ninety-five percent of
+the time." He pushed the elevator button with the tip of the
+cane. "The other five percent is what these hearing rooms are
+for."
+
+The doors opened.
+
+"I gave the board a word today," Cole said. "It cost me the
+soft version of this letter."
+
+"I know. I wrote it down." Amundsen almost smiled. "Judgment.
+Nobody's put that word in one of these files in my whole
+career. They all take *necessity* — it's free, it's true
+enough, and it means nothing." He stepped back to let the doors
+close. "Come teach the seminar in the fall. They'll all be
+twenty-six and certain, and they need to hear it from a man
+whose file says what yours says. Not from me. I'm just an old
+man who reads."
+
+Cole rode down eleven floors alone with a letter of reprimand
+in his hand and the specific hollow feeling of a man who has
+gotten exactly what he asked for.
+
+·
+
 That evening he did two things in his apartment.
 
 The first: he hung the Locke commendation back on the wall.
@@ -9392,6 +9650,56 @@ exercise any hard-won line of credit — to keep it warm, and
 because the terms permitted it, and because she had spent thirty
 years booking her life like contraband and had retired the
 practice in writing.
+
+There were four things about that May that Elena would keep,
+and none of them made any list.
+
+The first: on a Tuesday, a woman she had never met came in at
+five-fifteen with a shoebox of receipts and stood in the doorway
+and said, "I heard you don't judge." She ran a hair salon on
+Western; she had not filed in three years; she had been
+carrying the shoebox in her trunk since Christmas because she
+was too frightened to open it. Elena made her coffee and put on
+her reading glasses and they sat down at the corner table and
+went through it, one receipt at a time, for two hours, and at
+the end the woman put her head in her hands and cried, and
+Elena said, "It's four thousand one hundred dollars and an
+amended return. That's all it ever was," and thought: *this is
+the job. This was always the job. The other thirty years were
+an accident of who I was born to.*
+
+The second: Danny passed his first section on a Thursday. He
+came out of the testing center and called her from the parking
+lot and did not do a bit, and she stood in the dining room with
+a bar towel over her shoulder and let her brother be proud of
+himself for four full minutes without deflecting once.
+
+The third: a Sunday afternoon in early May, quiet, the room
+empty, when Lucia came out of the kitchen with two coffees and
+sat down across the corner table without being invited — which
+she had never once done at La Bilancia in twenty years, because
+there the seat had a family in it — and said, "Show me the
+books. Not the money. Mine. I want to see what a partner sees,"
+and Elena spent an hour teaching a fifty-six-year-old chef to
+read a profit-and-loss statement, and Lucia said at the end,
+"Madonna. It's just a recipe," and Elena said, "It's just a
+recipe."
+
+And the fourth: a night in the middle of the month when the
+last table would not leave, four people who had clearly needed
+a room to be in, and it got to eleven, and Lucia had gone, and
+Danny had gone, and Cole was at the corner table with his
+glasses on marking up a training memo, and Elena stood behind
+the empty bar looking at her own dining room with four
+strangers laughing at the far end of it.
+
+She had spent thirty years defending a plate-sized circle of
+light in a dark building.
+
+She looked at the room and understood, without any fanfare and
+while drying a glass, that the circle had moved.
+
+·
 
 Near close, when the room had thinned to coffee and the river
 outside had gone to black glass and bridge lights, she sat at last

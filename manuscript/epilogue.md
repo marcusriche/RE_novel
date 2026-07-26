@@ -169,6 +169,56 @@ because the terms permitted it, and because she had spent thirty
 years booking her life like contraband and had retired the
 practice in writing.
 
+There were four things about that May that Elena would keep,
+and none of them made any list.
+
+The first: on a Tuesday, a woman she had never met came in at
+five-fifteen with a shoebox of receipts and stood in the doorway
+and said, "I heard you don't judge." She ran a hair salon on
+Western; she had not filed in three years; she had been
+carrying the shoebox in her trunk since Christmas because she
+was too frightened to open it. Elena made her coffee and put on
+her reading glasses and they sat down at the corner table and
+went through it, one receipt at a time, for two hours, and at
+the end the woman put her head in her hands and cried, and
+Elena said, "It's four thousand one hundred dollars and an
+amended return. That's all it ever was," and thought: *this is
+the job. This was always the job. The other thirty years were
+an accident of who I was born to.*
+
+The second: Danny passed his first section on a Thursday. He
+came out of the testing center and called her from the parking
+lot and did not do a bit, and she stood in the dining room with
+a bar towel over her shoulder and let her brother be proud of
+himself for four full minutes without deflecting once.
+
+The third: a Sunday afternoon in early May, quiet, the room
+empty, when Lucia came out of the kitchen with two coffees and
+sat down across the corner table without being invited — which
+she had never once done at La Bilancia in twenty years, because
+there the seat had a family in it — and said, "Show me the
+books. Not the money. Mine. I want to see what a partner sees,"
+and Elena spent an hour teaching a fifty-six-year-old chef to
+read a profit-and-loss statement, and Lucia said at the end,
+"Madonna. It's just a recipe," and Elena said, "It's just a
+recipe."
+
+And the fourth: a night in the middle of the month when the
+last table would not leave, four people who had clearly needed
+a room to be in, and it got to eleven, and Lucia had gone, and
+Danny had gone, and Cole was at the corner table with his
+glasses on marking up a training memo, and Elena stood behind
+the empty bar looking at her own dining room with four
+strangers laughing at the far end of it.
+
+She had spent thirty years defending a plate-sized circle of
+light in a dark building.
+
+She looked at the room and understood, without any fanfare and
+while drying a glass, that the circle had moved.
+
+·
+
 Near close, when the room had thinned to coffee and the river
 outside had gone to black glass and bridge lights, she sat at last
 in the lamp's circle and pulled the day's ruled sheet toward her.
