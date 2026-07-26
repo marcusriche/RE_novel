@@ -1070,7 +1070,62 @@ father's funeral, the swallow-and-set.
 "Yeah," he said, quiet. "Say it again sometime. It's better
 than Abruzzo's version."
 
-"Time," said the officer at the wall, not unkindly.
+"Lena." He'd leaned in, the way you do when the handset is
+already private. "They're putting money on my books. In here. My
+commissary — there's like four hundred bucks on it and I never
+asked anybody for anything."
+
+"From who?"
+
+"It doesn't say from who. It just says a deposit." He looked at
+her through the glass. "That's not nothing, right? Money showing
+up isn't nothing."
+
+"No," Elena said. "It isn't nothing."
+
+It was a receipt, was what it was. The family paid the freight
+on its own — that was doctrine, that was the whole social
+contract, the reason a man went into a building and kept his
+mouth shut. Four hundred dollars a month on a young man's
+commissary account said: *you are still ours, we are still
+paying, and the payments will continue exactly as long as the
+silence does.*
+
+"Should I send it back?"
+
+"No." Fast, flat. "Take the money, use the money, thank
+whoever's face is in front of you. And Danny — every month when
+it posts, write down the date."
+
+"Why?"
+
+"Because that's what I do," Elena said, "and it's the only thing
+that's ever worked."
+
+Her brother looked at her for a moment through the smeared
+polycarbonate, and something moved behind his face that was not
+the bit and was not fear.
+
+"You're keeping a book on them," he said. "Aren't you."
+
+She didn't answer.
+
+"Okay," Danny said, sitting back. Fast, like a man dropping a
+hot pan. "Okay. Don't tell me. Actually, definitely don't tell
+me, if it's like a whole—" He made a shape with his free hand,
+inarticulate, that meant *thing*. "Just — Lena. Whatever it is.
+Is it enough?"
+
+"Enough for what?"
+
+"To get us out. Both of us. When you decide to."
+
+The officer at the wall shifted his weight, checking his watch
+without meaning anything by it.
+
+"Yes," Elena said.
+
+"Time," said the officer at the wall, not unkindly."Time," said the officer at the wall, not unkindly.
 
 Danny hung up the handset with both hands, careful, like it
 was something that could be hurt, and mouthed one word
@@ -1600,6 +1655,65 @@ the truth at two in the morning*, and she could feel the whole
 architecture shifting around that single unaccounted entry, the
 way a house settles around one new beam.
 
+Abruzzo came to the restaurant on Friday at eleven, which was
+itself an insult — he had never once come to her; she had always
+gone to the office on LaSalle with its bad reproductions of
+Roman ruins.
+
+He ate half a loaf of bread before he said anything of
+substance.
+
+"Terrible thing," he said. "Terrible. The kid's tough, he'll be
+fine. Facility's got a report, I read it, it's a stairwell
+thing. Happens more than you'd think." He wiped his mouth. "I
+want to talk about the *federal* piece, sweetheart. Because
+here's what's going to happen. They're going to reach out to
+you."
+
+"They already did. A subpoena. I produced."
+
+"Not paper. *You.*" He leaned back and made the shape with his
+hands that fat comfortable men make when explaining the world.
+"They'll send somebody nice. They'll do the thing where they
+tell you they can protect your brother. And what you say is
+nothing, and what you do is call me, and here's why." He
+lowered his voice, warmly. "Because the second you talk to
+them alone, you're a *problem*, Elena. Not to me. Not to the
+government. To the people who love you. And I have watched
+that go badly for forty years and I am too old to watch it
+again."
+
+Elena sat across her own table from her brother's lawyer and
+performed a small internal audit at speed.
+
+*Item.* He had not asked one question about Danny's case, the
+discovery, the vending counts, or the arraignment date.
+
+*Item.* He had come here, in person, within seventy-two hours
+of federal contact, to deliver a message about what she would
+do if approached.
+
+*Item.* The phrase *you're a problem to the people who love
+you* was not legal advice. It was Nico's espresso in a
+three-piece suit.
+
+"Marty," she said. "Are you my brother's lawyer, or the
+family's?"
+
+Abruzzo looked genuinely wounded, and she believed the wound,
+which was the worst part. He had known her since she was four.
+He had cried at her father's funeral, and had meant that too.
+
+"Sweetheart," he said, "in this family that has never once
+been two different jobs."
+
+"No," Elena agreed. "It hasn't."
+
+She had signed the retainer with Farrah Okafor eleven days
+earlier. She let him finish the bread.
+
+·
+
 That was what nobody told you about the crack in the
 armour. It didn't feel like breaking.
 
@@ -1785,6 +1899,59 @@ been taught its heading.
 
 She didn't dial. Lucia drove. The *almost* rode home with them
 in the back seat, new, and heavy, and hers.
+
+·
+
+Lucia came up the back stair that night with a plate, which was
+how she said everything.
+
+"You didn't eat at the hospital and you didn't eat here."
+
+"I'm not—"
+
+"Sit down, Elena."
+
+She sat. She ate about a third of it, which was a victory for
+both parties, and Lucia stood at the counter with her arms
+folded and watched the street through the kitchen window for a
+while.
+
+"When my sister came over," Lucia said, "there was a man on the
+boat. A good man — I want you to understand, a *good* man, he
+gave her his coat and he shared his water, three days he looked
+after her." She turned around. "And when they got to Naples he
+told her, very kindly, that she owed him for the coat and the
+water, and he had a friend who could arrange the payment, and
+she was eighteen years old and she nearly went with him."
+
+"What happened?"
+
+"My mother had sewn money into the hem of her dress and told her
+one thing before she left: *whatever anybody gives you on the
+road, they are already writing it down.*" Lucia's eyes were
+steady. "The good ones write it down too, cara. That's what
+nobody tells you. It isn't the bad ones you have to price. The
+bad ones you can see."
+
+Elena set down her fork.
+
+"Say his name, Lucia."
+
+"I don't know his name," Lucia said. "I know there's a card in
+your drawer, because I put the laundry away on Sunday, and I
+know you've stopped closing the office when you're on the phone,
+which you have done since you were twenty-two." She picked up
+the plate. "I'm not asking. I'm telling you what my mother told
+my sister. That's all. That's all I have."
+
+She was at the door when Elena said:
+
+"He told me the truth about Danny at two in the morning when
+nobody made him."
+
+Lucia stopped with her hand on the frame.
+
+"Then he's a good man," she said. "God help you."
 
 ·
 
@@ -2222,6 +2389,58 @@ The light changed. The thought didn't.
 She was in real trouble. She footed the column twice on the
 drive home, hoping for an error, and the total came back
 identical both times, the way true totals did.
+
+·
+
+She dropped Lucia at Ashland and drove the long way home along
+the river, which she did perhaps four times a year, when a
+thing needed thinking about at a speed that wasn't a desk's.
+
+*Price the room,* her father's voice said, at every light.
+*Never mind the noise. What did that room cost, and who paid?*
+
+She priced it.
+
+Sal had spent one story about her father, one blessing on Nico,
+and one public marking of Lucia's debt. Cost to him: nothing.
+Everything he had spent was somebody else's.
+
+Nico had spent an afternoon of correct behavior at a table
+where he outranked everyone and was seated below them all.
+Cost to him: pride, which he did not appear to carry.
+
+Lucia had spent twenty years, all at once, in front of
+nineteen witnesses, and had said *the sauce needs me* and had
+gone back into a kitchen.
+
+And Elena had spent one laugh, budgeted, and one steady hand,
+and had come out of that room with an intact position and a
+new liability she could not yet size: her uncle now knew that
+he could reach her by reaching her friend, and had wanted her
+to know it, which meant he was no longer certain of her, which
+meant the clock had started.
+
+*And what did you buy, piccola?*
+
+That was the question the river always got around to. She let
+it come.
+
+She had bought, she thought, turning onto her own street,
+about four more months of being the person everyone at that
+table believed she was.
+
+After that, one way or another, she was going to have to be
+somebody else in front of them, and there were only two
+versions of that available: a woman on a train, or a woman
+across a table from the government.
+
+She had been assuming for six years that it would be the
+train.
+
+She parked. She sat in the car outside the dark restaurant for
+a minute and a half, and admitted — for the first time, in
+words, in a specific order, to nobody — that she had begun to
+assume otherwise.
 
 ·
 
@@ -2670,6 +2889,117 @@ It worked for six weeks. It would have gone on working, she
 thought afterward, for years, if a woman in a restaurant had not
 laughed out loud at a federal officer's joke on a snowbound
 Tuesday in front of eleven witnesses and one friend.
+
+·
+
+The last Wednesday of the month was collection night, and
+collection night was the one evening of the year when the whole
+architecture of the family came into the restaurant and sat
+down in it.
+
+Elena had run it since she was twenty-three. It looked, to any
+customer in the room, like nothing at all: a big table in the
+back, twelve men, a long dinner, wine, a lot of laughing. What
+it actually was — and she was the only person in the building
+who could see the whole of it — was a clearing house.
+
+The mechanics were beautiful, in the way that anything refined
+by sixty years of paranoia is beautiful.
+
+Nobody handed anybody money. Money arrived earlier in the day,
+in the linen delivery, in the false bottom of a bread crate, in
+a gym bag left in the walk-in by a man delivering nothing.
+Elena counted it in the afternoon, alone, and by six o'clock
+the entire month's tribute existed only as figures on a single
+sheet of paper in her own hand, and the paper was in her
+pocket, and the cash was in four separate places in a building
+she had chosen personally.
+
+At dinner, the men talked. And in the talking, without a number
+being said aloud once, the month got settled: who was short and
+why, whose route had a problem, who needed a month, who was
+lying about needing a month. Sal presided. Nico watched.
+
+And Elena moved between the kitchen and that table with plates,
+listening, and by the end of the night she knew — with an
+accuracy no one else in the room approached — exactly what the
+organization had earned, what it had lost, who was stealing,
+who was frightened, and who would still be at that table in a
+year.
+
+This particular Wednesday she stood at the pass with an
+untouched plate of veal in her hands and watched three things
+happen in four minutes.
+
+The first: Sal asked Petey Ruggiero, warmly, how his wife's
+mother was doing in Naperville — and Petey's hand stopped
+halfway to his wine. Sal had never once, in eleven years, asked
+after Petey's wife's mother. Petey was short and had not said
+so, and Sal had just told him, in the only language they both
+spoke, *I know, and I am choosing the manner of your
+embarrassment.*
+
+The second: Nico did not look at Petey. Everyone else at that
+table looked at Petey, at least a flicker, the involuntary
+glance a body makes at a car crash. Nico looked at his plate,
+serenely, because Nico already knew, which meant Nico had known
+before Sal — which meant somebody was reporting to the enforcer
+before the don, and that had not been true two years ago.
+
+The third: Sal asked her, in front of everyone, when the
+quarterlies would be finished. Not the money — the *filings*.
+The paper.
+
+"Two weeks, Zio."
+
+"Two weeks," Sal repeated, pleased, to the table. "You see how
+she says it? Like a date on a stone."
+
+And Elena went back through the pass and set down the plate and
+stood for a second with both hands flat on the steel, because
+she had just been given a deadline in front of witnesses, and
+because the fog of quarterlies she'd been hiding forty thousand
+dollars behind had a fixed expiration now, and everyone at that
+table had heard it get set.
+
+Lucia, plating, did not look up. "He asked you in front of
+them."
+
+"He did."
+
+"That's new."
+
+"It's not new," Elena said. "It's a public covenant. He's
+building a record."
+
+"For what?"
+
+"For whichever direction he decides to go," she said, and went
+back out onto her floor and poured wine for twelve men, some of
+whom would be dead or indicted within the year, and every one
+of whom told her she looked well.
+
+At eleven the table broke up. Sal kissed her forehead in the
+doorway and said, "Your father would have liked tonight," and
+meant it entirely, and she stood in the cold with her arms
+around herself and watched three cars pull away.
+
+Then she went upstairs to her own kitchen and stood at the
+window with a glass of wine she didn't drink, and she thought
+about the fact that the only person in the world she wanted to
+describe the last four hours to — the seating, the mother in
+Naperville, the man who didn't look — was a federal
+investigator whose entire job was to convert that description
+into indictments.
+
+*Careful,* she told herself.
+
+She went to bed. She did not sleep well. But she did, at some
+point around two, catch herself doing something she had not
+done since she was a girl: composing it. Arranging the story of
+the evening into the order she would tell it in, choosing which
+detail to save for last, the way you do when you know you have
+an audience coming.
 
 ·
 
@@ -3703,6 +4033,116 @@ under narrow script, two hands, one page, the signature
 card complete. "It's terms."
 
 "Good. Terms I can audit."
+
+"One more thing," Cole said, when the napkin was folded and
+neither of them had stood up.
+
+"Terms are closed, Investigator."
+
+"Not a term. A warning, free of charge, and then I'll go." He
+turned his coffee cup a quarter-turn. "The minute you start
+giving me structure, you become the most dangerous person in
+your uncle's organization, and you'll feel it before anybody
+says anything. It doesn't announce itself. It's small. People
+stop finishing sentences when you walk in. Somebody you've known
+your whole life gets careful with you. A meeting moves and
+nobody tells you it moved."
+
+Elena looked at him across the formica.
+
+"That started in October," she said.
+
+He was quiet a moment.
+
+"Then you're further along than I thought and I'm later than I
+should be." He put a ten on the table, which she pushed back at
+him, which he accepted with the smallest inclination of his
+head. "Second half of the warning. The day you *feel* it and
+decide to do something about it — don't do the thing your
+family taught you."
+
+"Which is?"
+
+"Handle it yourself, quietly, so nobody has to know how bad it
+got." He stood, and put on his coat, and she watched him square
+himself to the door out of pure habit. "Every person I have ever
+lost, I lost in the four days they spent trying to solve it
+alone before they called me."
+
+She sat in the booth for twenty minutes after he left, with a
+napkin in her coat pocket and a waitress refilling a cup she
+wasn't drinking, doing an arithmetic that would not resolve.
+
+Because he was right. And because the ledger in her floor safe
+was, precisely and exactly, the thing she was handling herself,
+quietly, so nobody would have to know how bad it had gotten.
+
+And because there was no version of that sentence she could say
+out loud to a federal officer in a diner on Ohio Street without
+turning a napkin into a proffer and a man into a witness against
+her.
+
+*Someday,* she had promised him, eight minutes ago. *You tell me
+the fact of it, not the contents.*
+
+She had meant it when she said it. She discovered, sitting
+alone in the booth, that she had meant it the way people mean
+things they intend to do later — which is to say, not yet in a
+way that costs anything.
+
+She left a tip that was too large and walked to the train.
+
+·
+
+The first structure session was that Thursday, and it went
+badly, and the badness was instructive.
+
+He came in at half past midnight with a legal pad and she
+started at the top, the way she started everything, and within
+twenty minutes they were fighting.
+
+"That's not what I asked."
+
+"It's what you need."
+
+"Elena — I asked how the tribute physically moves. Who carries
+it, in what, how often. That's a chargeable act. What you're
+giving me is *sociology*."
+
+"What I'm giving you," she said, "is why it moves. You can have
+the courier's name; he's a nineteen-year-old with a Civic and
+his aunt is a hostess at the Greek place. Charge him. In two
+weeks there's a different nineteen-year-old, and you'll have
+spent a subpoena and a kid to learn nothing." She put down her
+pen. "You keep asking me for the blood. I keep telling you the
+blood isn't the organism."
+
+He sat back. She watched him do a thing she had not seen a man
+do at that desk in eleven years: think about whether she was
+right instead of whether she was being difficult.
+
+"Say the organism again," he said.
+
+"Obligation," Elena said. "Everyone at that table is carrying
+paper on everyone else, and none of it is written down anywhere
+but in my book and in their heads. Sal doesn't rule because
+he's frightening — he isn't, particularly. He rules because he
+holds more debt than anybody, and because he's never once
+called one in a way that made a man lose face publicly." She
+tapped the pad. "*That's* the vulnerability. Not the courier.
+The day somebody makes Sal call a debt in public, the whole
+thing comes apart in a month, because every other man at that
+table will suddenly need to know what his own number is."
+
+Cole looked at his page of block letters for a long moment.
+
+Then he tore it off, crumpled it, and started a new one at the
+top, and wrote — she watched it appear upside down, which she
+could read as easily as right-side up —
+
+*THE ORGANISM IS OBLIGATION.*
+
+"Okay," he said. "Teach me the book."
 
 Their hands were ten inches apart on the formica, closing
 the first joint account either had opened in years. Outside
@@ -7465,6 +7905,50 @@ Elena's coat like a countersignature.
 
 "Non si discute," Elena agreed.
 
+They signed the partnership papers a week later at a kitchen
+table on Ashland, in Lucia's sister's apartment, because
+Lucia refused to sign anything anywhere a lawyer had
+decorated.
+
+"Read it out loud," Lucia said. "All of it. I want to hear
+the money parts twice."
+
+So Elena read the whole thing out loud in a kitchen that
+smelled of coffee and lemon: contributions, distributions,
+the buy-sell provision, the clause about what happens if one
+partner dies and the clause about what happens if one partner
+wants out. Lucia's sister listened from the stove with her
+arms folded. The nephew with the diploma, twenty-four now and
+working in insurance, read the signature page over his aunt's
+shoulder twice.
+
+"Fifty-fifty," Lucia said, when Elena finished.
+
+"Fifty-fifty."
+
+"You put in the money."
+
+"You put in the twenty years," Elena said. "And the food is
+the business. Everything else is arithmetic, and arithmetic
+is cheap — I can do arithmetic for anybody on any street in
+this city. There's one person who can make that sfoglia."
+
+Lucia looked at the page for a long time.
+
+"In my country," she said, "there is a saying about a debt
+that is paid with a gift."
+
+"Is it a good saying?"
+
+"It's terrible. It says the gift is worse." Lucia picked up
+the pen. "So we won't use it. This isn't payment."
+
+"No."
+
+"It's a business," Lucia said, "with two names on it," and
+signed, and her sister put down a plate of biscotti that
+nobody had asked for and everybody ate.
+
 Walking out through the dark dining room where all of it had
 happened — past table six, past the four-top by the window, past
 the host stand — Elena understood what the last twenty minutes
@@ -7494,7 +7978,76 @@ that had authority over that account. *Accepted. Repairing.*
 
 ·
 
+She looked at nine places in four days.
+
+That was the other thing about the eleven days and the weeks
+that followed: she had been so long a woman with a plan she
+could not execute that having a plan she *could* execute made
+her nearly frantic. She walked the city with a legal pad. She
+priced hood systems and grease traps and three-compartment
+sinks. She learned the difference between a landlord who wanted
+a restaurant in the space and one who wanted a tenant, which
+is the difference between five years of partnership and five
+years of litigation.
+
+Two landlords recognized the name and stopped returning calls.
+One recognized it and offered her a discount, which she
+declined, because a man who wants the Moretti name on his
+building is a man who will one day want something from it.
+
+The sixth place had a leak and good bones and a rent that would
+have killed her in year one. The eighth had no leak and no
+bones. The ninth had a wall of windows on the river and a dead
+radiator and an old Greek landlord named Stavros who looked at
+her application for a while and then said:
+
+"You're the one testifying."
+
+"Yes."
+
+"My brother-in-law had a place on Halsted in '89. Same
+family — not yours, another one, they were all the same." He
+tapped the application against his knuckles. "They took four
+hundred a week for eleven years. Nobody testified. Everybody
+knew, nobody testified." He handed the lease across. "First,
+last, and I'll do the radiator."
+
+She read every line before she signed it. It took twenty
+minutes. Stavros waited with the patience of a man who
+appreciated an audit.
+
+·
+
+She saw her uncle once more before the trial, and only for
+eleven seconds, on a television bolted above the bar at the
+Greek place on Halsted where she was eating alone.
+
+Salvatore Moretti coming down the courthouse steps after his
+arraignment between two lawyers, in a good coat, waving off a
+microphone. Seventy-nine years old. He looked, on television,
+like exactly what he had always claimed to be — a pillar of
+the neighborhood, an old man harassed by the government — and
+for one second Elena felt the entire architecture of her
+childhood swing back and try to seat itself: *that's Zio,
+that's the hand on your head, that's the man who paid for your
+father's funeral and carried the casket in the rain.*
+
+All true. Every bit of it. He had done all of that and had held
+Lucia Ferro's wrist at a table for twenty years, and had asked
+Nico Gravano what a safe held, and had put her brother's ribs
+on a scale to buy her silence and then toasted her at dinner.
+
+Both true. Neither cancelling.
+
+She finished her food. She left a good tip. She walked home
+along the river in the dark and understood that she was not
+going to feel triumphant in June, and that she should stop
+waiting to.
+
+·
+
 The storefront was eleven hundred square feet of nothing on the
+north bank of the river.The storefront was eleven hundred square feet of nothing on the
 north bank of the river.
 
 Dust an inch thick on the sills. A dead radiator with a bloom of
@@ -7689,6 +8242,49 @@ She would testify in June, under her own name, and sleep in July.
 She read the calendar the way she read weather now — something
 that would arrive, be endured, and pass — in a city that held her
 whole life and no longer held a single lien on it.
+
+She had, by mid-May, only one piece of the year left to spend,
+and she had already decided how she would spend it.
+
+Okafor had asked her, in April, what she wanted the jury to
+take away, and Elena had thought about it for two days and had
+come back with an answer that made Raman's second chair put his
+head in his hands.
+
+"That the books were true."
+
+"That's not a theory of the case, Ms. Moretti."
+
+"It's the only one I've got." She had folded her hands on the
+conference table. "I'm not going to be a good witness in the
+way you want, because I'm not sorry in the way juries like.
+I'm not going to cry about my uncle. I did the arithmetic of a
+criminal organization for eleven years and I was extremely good
+at it, and the reason those men are going to prison is that I
+was good at it. If I sit up there and perform regret, the first
+thing every person in that box will think is: *she's performing
+something*, and they'll be right, and then everything I say
+about page four hundred and six is theater."
+
+"And your alternative?"
+
+"I read the book," Elena said. "Line by line. The way I'd read
+it to an auditor. And they can decide what kind of person
+writes a book like that. I've stopped being afraid of the
+answer."
+
+She would do exactly that, in the third week of June, for four
+days: a woman in a plain suit at a courtroom lectern with a
+green cloth-bound volume open in front of her, reading columns
+aloud in a voice with no weather in it. The reporters would
+call it *chilling* and *extraordinary* in about equal numbers.
+Two jurors would say afterward that they had never in their
+lives seen anyone so calm; one would say she was the most
+frightening person he had ever watched, and would mean it as
+praise.
+
+But that was June, and this was May, and in May the thing to
+be done was dinner.
 
 At 5:55 the bell over the door went, and she didn't look up,
 because she didn't need to.

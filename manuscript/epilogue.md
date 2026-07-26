@@ -62,6 +62,49 @@ She read the calendar the way she read weather now — something
 that would arrive, be endured, and pass — in a city that held her
 whole life and no longer held a single lien on it.
 
+She had, by mid-May, only one piece of the year left to spend,
+and she had already decided how she would spend it.
+
+Okafor had asked her, in April, what she wanted the jury to
+take away, and Elena had thought about it for two days and had
+come back with an answer that made Raman's second chair put his
+head in his hands.
+
+"That the books were true."
+
+"That's not a theory of the case, Ms. Moretti."
+
+"It's the only one I've got." She had folded her hands on the
+conference table. "I'm not going to be a good witness in the
+way you want, because I'm not sorry in the way juries like.
+I'm not going to cry about my uncle. I did the arithmetic of a
+criminal organization for eleven years and I was extremely good
+at it, and the reason those men are going to prison is that I
+was good at it. If I sit up there and perform regret, the first
+thing every person in that box will think is: *she's performing
+something*, and they'll be right, and then everything I say
+about page four hundred and six is theater."
+
+"And your alternative?"
+
+"I read the book," Elena said. "Line by line. The way I'd read
+it to an auditor. And they can decide what kind of person
+writes a book like that. I've stopped being afraid of the
+answer."
+
+She would do exactly that, in the third week of June, for four
+days: a woman in a plain suit at a courtroom lectern with a
+green cloth-bound volume open in front of her, reading columns
+aloud in a voice with no weather in it. The reporters would
+call it *chilling* and *extraordinary* in about equal numbers.
+Two jurors would say afterward that they had never in their
+lives seen anyone so calm; one would say she was the most
+frightening person he had ever watched, and would mean it as
+praise.
+
+But that was June, and this was May, and in May the thing to
+be done was dinner.
+
 At 5:55 the bell over the door went, and she didn't look up,
 because she didn't need to.
 
