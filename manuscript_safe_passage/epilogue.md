@@ -107,7 +107,7 @@ letters in a different alphabet first.
 
 Inside there was a photograph and nothing else.
 
-A girl of about twenty-two in a graduation gown, on a lawn, squinting
+A girl of about twenty-one in a graduation gown, on a lawn, squinting
 into the sun, holding a rolled paper. There is a woman's arm across her
 shoulders, cropped at the elbow, and you cannot see the woman's face.
 
@@ -115,14 +115,14 @@ No note. No names. Nothing on the back.
 
 Mira Dalca stood in a yard on Torrence Avenue in the fog at seven in the
 morning and looked at a photograph of a girl she had last seen at
-eleven o'clock at night in November 2021, aged eighteen, in the false
+eleven o'clock at night in November 2023, aged eighteen, in the false
 floor of a trailer between Portage and Fort Erie, with her mother's hand
 over her mouth.
 
 Number nine on a list that no longer exists.
 
 She has no way to reply. That is the design and it is her own design, and
-she taught it to the mother herself, in a yard, in the dark, in 2021:
+she taught it to the mother herself, in a yard, in the dark, in 2023:
 *nothing that can be traced back, ever, in either direction.*
 
 So there will never be a name, and there will never be a note, and there
@@ -135,6 +135,58 @@ It is the only one she will ever keep.
 It is in a frame in the dispatch shed above the board, where a fire
 extinguisher inspection certificate used to hang, and every driver who
 has asked about it has been told it is a cousin.
+
+·
+
+Gino Traversa is in a federal facility in Milan, Michigan, awaiting
+trial, and has not once, in five months, said one word to anybody about
+Mira Dalca.
+
+That is not loyalty and she has never once mistaken it for loyalty. It is
+the same thing it has always been: a man who learned at forty that a
+threat is an object and objects go in evidence bags, and who is not going
+to produce one now.
+
+He wrote to her in September.
+
+The letter came through his lawyer, on the lawyer's paper, four lines
+long, and Okafor read it first and then handed it over with a face that
+said *I have advised you and you are going to do this anyway.*
+
+It said:
+
+*Mira. They tell me you did eleven years of my reconciliation off the top
+of your head. I want you to know that I never once checked it. That is
+the only compliment I have got left to give anybody. G.T.*
+
+She read it in the shed with the door open and the fog coming in, and
+then she did the only thing that seemed to her to be accurate, which was
+to put it in the bin behind the shop with the oil rags and not burn it,
+because burning things is ceremony and she had finished with ceremony in
+May.
+
+·
+
+Benny Osei works four days a week now and has been to Ghana twice.
+
+The first time he went he left a list on the board of everything that
+could go wrong, in his own handwriting, in order of probability, eleven
+items long, and Adam Marek took a photograph of it and had it laminated,
+and it is still up there, and item four happened in the second week
+exactly as forecast.
+
+He calls her from Accra at absurd hours to ask about trucks.
+
+"Twelve," he said, in August, at four in the morning her time.
+
+"Twelve is fine. Twelve has been fine since May. Your dispatcher found a
+heat shield."
+
+"My dispatcher," Benny said, with enormous satisfaction, down eleven
+thousand kilometres of telephone line, "is the second-best hire either of
+us has ever made," and hung up before she could ask him what the first
+one was, which she thought about for the rest of the day and has never
+raised since.
 
 ·
 
