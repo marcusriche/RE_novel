@@ -225,6 +225,39 @@ in the lamp's circle and pulled the day's ruled sheet toward her.
 
 Receipts squared. Kitchen closed out. Two lines left.
 
+Danny came by the corner table at nine with the last check and
+put it down at her elbow with the reverence of a man delivering
+a subpoena.
+
+"Table four wants to know if we cater."
+
+"We do not cater."
+
+"That's what I said. Then the lady said her daughter's getting
+married in September and she'd pay whatever, and I said—" he
+paused for effect, twenty-six years old and enjoying himself
+enormously "—that our chef doesn't do weddings, our bookkeeper
+doesn't do favors, and our waiter is studying for the CPA exam
+and cannot be bribed."
+
+"Was she charmed?"
+
+"She left twenty-two percent," Danny said, and went to flip the
+sign.
+
+Cole took off his glasses and rubbed his eyes and looked around
+the empty room the way he looked at everything — load paths,
+sightlines, exits — and then, differently.
+
+"Wednesday's the eighteenth," he said. "That's the first
+pretrial conference."
+
+"I know. It's on the calendar under the lamp."
+
+"You want company?"
+
+"No," Elena said. "I want you at that table when I get back."
+
 Her father had ended every day of his working life with the same
 discipline. One line for the money. One line for the truth. He had
 told her, at this same lamp, when she was fourteen and impatient

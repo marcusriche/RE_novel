@@ -1940,6 +1940,37 @@ earlier. She let him finish the bread.
 That was what nobody told you about the crack in the
 armour. It didn't feel like breaking.
 
+He wrote nothing down about the call. That was the entry — the
+absence of one. In nine years he had documented every contact
+with every subject in every case, including the ones that
+embarrassed him, and on the morning of the fifteenth of
+February he sat at his desk with the contact log open and did
+not make a record, and closed it.
+
+Then he did the only thing available to him that was lawful,
+which was to make the noticing permanent.
+
+He walked the protective-status flag through the standards
+office himself, in person, with a paper form, and got it
+stamped, and got a copy, and sent the copy to the facility's
+compliance officer with a cover note requiring
+acknowledgment — three separate offices, two signatures, one
+tracking number.
+
+A phone call to a woman at two in the morning could be denied.
+A flag with a tracking number could not be lost twice without
+somebody's name on the losing.
+
+That was the shape of the whole rest of the winter, in
+miniature, and he did not see it at the time: one thing done
+outside the system in the dark, and then a great deal of very
+careful work inside the system to make the dark thing true.
+
+He would eventually list that morning in a thirty-one-page
+document as the second entry in the chronology, and would write
+beside it, without any softening: *This is the day I learned I
+could get away with it.*
+
 It felt like breathing.
 
 
@@ -2475,6 +2506,58 @@ turning, her breath a small white flag over her shoulder.
 "The ice is pretty when it breaks," she said. "Nobody tells
 you that about things breaking."
 
+She got two blocks before she stopped, at the corner of Kinzie
+and Wells, and stood there with her hands in her pockets doing
+something she had not done since her father's funeral, which
+was to argue with herself out loud in the street.
+
+*You refused protection for your brother.*
+
+No. She had refused *witness protection for herself*, which was
+a different instrument entirely, and which would have required
+her to become a number in a program run by a bureaucracy that
+had already, this winter, lost a protective-status request for
+five straight weeks.
+
+*He would have made it hold.*
+
+Probably. And when he was reassigned, or promoted, or run over
+by a bus, it would have been held by whoever came next, and
+whoever came next would not have read four hundred pages of her
+handwriting.
+
+*You refused because the terms were his.*
+
+That one landed, and she stood on the corner and let it.
+
+Every offer she had ever been made in her life had come with
+its terms already written by the offeror. Sal's seat at the
+table. Nico's espresso. Abruzzo's protection. The family's
+whole warm gravity, all of it structured so that the only
+available answer was *thank you*.
+
+And a man had stood at a railing tonight and offered her the
+best thing he had, sincerely, at real cost — and had written
+the terms himself, all of them, before she arrived.
+
+*Name yours,* he'd said. Instantly. Without a beat.
+
+She started walking again.
+
+By the time she reached her own street she had, without
+consenting to it, drafted the first four lines of an offer of
+her own — structure, not source documents; a transfer; a lane
+for the innocents — and she stopped on her own doorstep with
+her key in her hand and said, out loud, to a frozen street in
+February:
+
+"Oh, that's a bad idea."
+
+She went upstairs and wrote it down anyway, on the back of a
+delivery receipt, and put it in the drawer with the takeout
+menus and a card, and it sat there for eleven days before it
+became a napkin.
+
 He stayed on the riverwalk until full dark, until the cold
 had worked through the coat and the plates downstream had
 jammed themselves into a temporary stillness, and his hands
@@ -2843,6 +2926,65 @@ investigation because of how she reads a room."
 
 The refrigerator hummed. The el ran. The finding stood.
 He went to bed and did not amend it.
+
+·
+
+The Sunday after the long table, Elena did an audit nobody had
+asked for.
+
+She sat at the office desk with eleven years of the tribute
+sheets in front of her — not the money, the *rhythm*: who paid
+on time, month by month, going back to 2015 — and she built a
+chart, because the only way she had ever been able to see
+anything was to put it in a column.
+
+What she was looking for was fear. Fear has a signature in a
+payment record the same way appetite does: late payments
+cluster before a war and vanish afterward; early payments
+cluster when men are frightened of being noticed.
+
+The chart, when she finished it at two in the morning, told her
+three things, and she wrote each one on a card and then burned
+two of them.
+
+*One.* Since October, six of the eleven paying units had moved
+their remittance forward by an average of four days. Nobody had
+been told to. Six separate men, independently, had decided to
+be a little early. That was not discipline. That was six men
+who had heard something.
+
+*Two.* Halsted Vending had gone the other way — later every
+month since August, by increments too small to be noticed by
+anyone who was not, in fact, watching for exactly this. A man
+who is stealing more begins to be late. He is buying time to
+cover, and the time compounds.
+
+*Three,* and this was the card she kept, in her own hand, in
+the safe, on top of the book:
+
+*Sal knows something is wrong and does not know what. Nico
+knows what and is preparing. Six men below them can smell the
+weather. The house has about a year, and there is no version of
+the next twelve months in which the bookkeeper is not asked to
+choose a side, in writing, with her own name on it.*
+
+She had built the sentence to be accurate, and it was, and it
+was also — she realized, reading it back at two in the morning
+with the lamp on — the first sentence she had ever written
+about her family in which she referred to herself in the third
+person.
+
+She sat with that for a long time.
+
+Then she wrote a fourth card, which she did not put in the safe
+and did not burn. She put it in her coat pocket and carried it
+for eleven days and threw it away on a Thursday without ever
+having read it again, because she had written it and that was
+the whole function of it:
+
+*You are not deciding whether to leave. You decided that at
+twenty-two and have been paying interest on the deferral ever
+since.*
 
 ·
 
@@ -4627,7 +4769,84 @@ She left a tip that was too large and walked to the train.
 
 ·
 
-The first structure session was that Thursday, and it went
+He sat in his car outside the diner for a long time after she
+paid for both coffees, and did the thing he had promised
+himself, two years and one grave ago, that he would always do
+before he broke anything.
+
+He wrote out the case against himself.
+
+*Count one.* Running a source outside the reporting structure.
+Not a gray area — the reporting structure is the entire
+mechanism by which one man's judgment is prevented from being
+the only thing standing between a human being and a river. He
+knew this better than any agent in the building. It was, in a
+precise sense, the only thing he knew.
+
+*Count two.* Making promises the government has not authorized.
+Fourteen names walking, a transfer, a lane. He could deliver
+the transfer. He could probably deliver the lane, by
+positioning, which is not the same as delivering it, and she
+had accepted terms from him that he could not enforce if he
+were removed from the case tomorrow — and if there was one
+thing this winter had taught him, it was how removable he had
+become.
+
+*Count three.* Conflict. Undisclosed, undeclared, and by now
+so plainly visible in his own conduct that a competent SAC had
+already, on a Monday, in her own office, invited him twice to
+say it out loud.
+
+He read the three counts back.
+
+Every one of them was true. Every one of them was, on the
+merits, disqualifying.
+
+And then he wrote, underneath, the only line of defense he had,
+and it was not a defense, and he knew it:
+
+*If I decline the napkin, she does it anyway. She's been doing
+it alone since October. The only thing my refusal changes is
+whether she does it with somebody watching the street.*
+
+He looked at that for a while.
+
+It was, he recognized with a kind of tired clarity, exactly the
+sentence Ray Locke had used at the inquiry. *It was happening
+anyway.* Four words that had let a man take an envelope and
+sleep.
+
+The difference — and there was one, he was almost certain there
+was one, and the almost was going to cost him everything —
+was that Ray had used it to explain a payment he received.
+
+Cole started the car.
+
+That night he opened a new file, on his personal machine, not
+on any Bureau system, and titled it with the only honest name
+available:
+
+*THINGS I HAVE DECIDED, AND WHEN.*
+
+The first entry was dated that Monday. It read: *Accepted terms
+from E.M. off the reporting structure. No coercion, no
+consideration, both parties fully informed of the arrangement's
+illegality on my side. Reason: she is doing this with or
+without me. This is a preference dressed as a reason and I am
+recording it as such so that I cannot later claim otherwise.*
+
+He kept that file for eleven weeks. It ran to nine entries.
+Every one of them was dated.
+
+It was the document that saved him at the OPR hearing, and the
+board's chair would tell him so afterward in a hallway, and
+Cole would think, standing at an elevator with a letter of
+reprimand in his hand: *I learned that from a bookkeeper. Date
+everything. The date is the only part nobody can argue with.*
+
+·
+
+The first structure session was that ThursdayThe first structure session was that Thursday, and it went
 badly, and the badness was instructive.
 
 He came in at half past midnight with a legal pad and she
@@ -5499,6 +5718,61 @@ dishonest drawers. He closed the drawer anyway. The drawer
 was getting full. He was aware — fully, professionally aware
 — that he now maintained exactly the kind of drawer he had
 spent two years training agents to find.
+
+·
+
+He kept the unfiled 302 in the drawer for eleven days and did
+exactly one thing with the information in it, which was to
+change where he parked.
+
+Not for himself. He moved his car to the open lot on Adams,
+lit, cameras, an attendant until midnight — because a man who
+is threatened in a garage and keeps parking in the garage is
+either brave or performing, and he had no use for either — and
+then he did the thing that mattered, which was to stop driving
+past her street.
+
+Entirely. Not once, after the garage, in either direction, at
+any hour.
+
+It cost him more than he expected. He had been doing it two,
+three nights a week since February: a slow pass, engine off for
+two minutes, her windows dark or lit, and then home. He had
+told himself it was assessment. It was, he understood now,
+standing in his kitchen at one in the morning with a threat in
+a drawer, the exact behavior that Nicolo Gravano had described
+to him in a parking structure — *she's ours, we've been
+watching her since before you had a badge* — with the pronouns
+changed.
+
+The distinction between protection and surveillance is not a
+philosophical one. It is entirely a question of who benefits
+from the information, and the honest answer, at one in the
+morning, on Adams Street, was: *me. It makes me feel better. It
+does nothing for her at all.*
+
+So he stopped.
+
+And then, because the loss of it left a hole and he was not a
+man who could sit in a hole, he did the useful version instead:
+he pulled the last four years of incident reports for her block
+and read them, and found that the nearest patrol beat ran a
+gap between 00:40 and 01:20 on weeknights, and he wrote a
+two-paragraph request through the district liaison — badged,
+logged, entirely proper, citing an ongoing investigation and a
+documented threat to a records custodian — asking for a marked
+unit to include the block in its pattern during that window.
+
+It was approved in four days by a sergeant he had never met.
+
+For the next six weeks a Chicago police cruiser turned onto her
+street twice a night at unpredictable intervals, and Elena
+Moretti noticed it in the second week, and assumed it was for
+the restaurant, and mentioned it once to Lucia as a nuisance.
+
+She never learned. He never told her. It was, in a season of
+things he did wrong in the dark, the one thing he did entirely
+right, and it went in nobody's ledger at all.
 
 ·
 
@@ -7348,6 +7622,52 @@ how to do with her hands — to clean the floor of a restaurant
 that would not open again.
 
 ·
+
+There was a moment, in the doorway of her own restaurant, that
+nobody in that room registered except Elena, and it decided
+everything that came after.
+
+An agent — young, thorough, doing his job properly — stopped her
+at the threshold and said, "Ma'am, I need to check the coat."
+
+She had three pounds of green cloth boards strapped flat against
+her spine under a wool coat that was, at that moment, draped over
+her shoulders by somebody else's hand.
+
+"It's my coat," Elena said. "Your colleague put it on me."
+
+"I just need to check the pockets."
+
+He checked the pockets. Both of them, thoroughly: keys, phone,
+a pen, eleven dollars, a receipt from a pharmacy on Chicago
+Avenue for one wide elastic band, which he read and did not
+read.
+
+He did not pat down her back, because she was not under arrest,
+because the warrant covered a premises and not a person, and
+because a young agent doing his job properly in front of six
+phone cameras does not run his hands down the spine of an
+uncharged woman on a public street.
+
+The whole thing took nine seconds.
+
+"Thank you, ma'am."
+
+She said, "Of course," in the voice she used for health
+inspectors, and walked out of the building.
+
+Nine seconds. That was the whole margin. Later — much later,
+after the proffer, after the trial, after a lease with her own
+name on every line — she would think about those nine seconds
+with something that was not quite gratitude and not quite
+horror, and would understand that every single thing that
+happened afterward, to everyone, had run through the eye of a
+young man's professional courtesy on a cold street.
+
+*Paper doesn't flinch,* her father used to say.
+
+Neither, it turned out, did paper's daughter, for nine seconds,
+with her whole life against her back.
 
 In the transport, watching the blue lights strobe
 off the river through the wire mesh, Elena sat very
@@ -9327,6 +9647,94 @@ this later, separately, to different people, in nearly
 identical words — the most intimate hour either of them
 had ever kept.
 
+They stayed at the railing about an hour, which neither of them
+planned and neither of them mentioned afterward.
+
+They talked about ordinary things, badly, the way people do
+when the extraordinary has just been transacted and the nervous
+system needs somewhere to put itself. The training curriculum.
+Danny's walk-in map. Whether the storefront's dead radiator was
+a negotiation or a warning. Whether Lucia would allow a printed
+menu (she would not; she had already ruled).
+
+At one point Elena laughed at something, and then stopped, and
+put her hand over her own mouth for a second.
+
+"What."
+
+"Nothing. It's stupid." She lowered the hand. "It's the fourth
+time this year I've laughed out loud, and I know that because
+I've been counting, and I know I've been counting because I
+started counting in February, and every single one of them has
+been in a room with you." She shook her head. "That's not a
+compliment, Investigator. That's a data point about the
+preceding six years, and it's grim."
+
+"I'll take it as both."
+
+"You would."
+
+The city ran its lights on the water. A tour boat that had no
+business being out this early in the season went by mostly
+empty, its guide's amplified voice arriving in fragments —
+*bridge* — *nineteen twenty-two* — *the only city in America
+to* — and both of them watched it out of sight.
+
+"I have to tell you something about June," Elena said
+eventually. "Not tonight. But soon, and properly, sitting
+down."
+
+"Okay."
+
+"You're not going to like it and you're not going to say so."
+
+"That's likely," Cole agreed. "What is it?"
+
+"They're going to call you." She kept her eyes on the water.
+"Not as a witness against my uncle — Raman won't touch you,
+you're radioactive. As a *defense* witness. Abruzzo's
+successor is going to subpoena the agent who broke every rule
+in the manual for the government's star witness, and put him
+on the stand, and ask him about a coat hook."
+
+The river went by.
+
+"Yes," Cole said. "I know."
+
+She turned her head.
+
+"I've known for two weeks. Okafor called me — properly, through
+my counsel, correctly, all of it." He said it evenly. "I'll
+answer every question they ask me and I'll answer it honestly,
+and it's going to be four of the worst hours of my life, and
+the jury is going to watch a man explain what he did and why."
+
+"It could sink the case. My testimony rests on—"
+
+"Your testimony rests on a book, in your hand, that you decoded
+on the record before I was ever mentioned," Cole said. "Raman
+built it that way on purpose in the first week — she never once
+put my name near your credibility. She's very good, Elena.
+She's been fireproofing you since March."
+
+Elena looked at him for a long moment.
+
+"You knew that too."
+
+"I've had a lot of free evenings."
+
+She put her hands in her pockets, which she did when she was
+about to say something true, and he had learned it, and he
+waited.
+
+"I'm not going to be able to protect you from it," she said.
+
+"No."
+
+"And you're going to sit there and take it."
+
+"That's the arrangement," Cole said.
+
 "Tomorrow," Elena said at last, stepping back,
 buttoning her coat with the old economy in her hands,
 "I want to show you a storefront."
@@ -10025,6 +10433,39 @@ outside had gone to black glass and bridge lights, she sat at last
 in the lamp's circle and pulled the day's ruled sheet toward her.
 
 Receipts squared. Kitchen closed out. Two lines left.
+
+Danny came by the corner table at nine with the last check and
+put it down at her elbow with the reverence of a man delivering
+a subpoena.
+
+"Table four wants to know if we cater."
+
+"We do not cater."
+
+"That's what I said. Then the lady said her daughter's getting
+married in September and she'd pay whatever, and I said—" he
+paused for effect, twenty-six years old and enjoying himself
+enormously "—that our chef doesn't do weddings, our bookkeeper
+doesn't do favors, and our waiter is studying for the CPA exam
+and cannot be bribed."
+
+"Was she charmed?"
+
+"She left twenty-two percent," Danny said, and went to flip the
+sign.
+
+Cole took off his glasses and rubbed his eyes and looked around
+the empty room the way he looked at everything — load paths,
+sightlines, exits — and then, differently.
+
+"Wednesday's the eighteenth," he said. "That's the first
+pretrial conference."
+
+"I know. It's on the calendar under the lamp."
+
+"You want company?"
+
+"No," Elena said. "I want you at that table when I get back."
 
 Her father had ended every day of his working life with the same
 discipline. One line for the money. One line for the truth. He had
