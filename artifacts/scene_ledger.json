@@ -1,0 +1,5608 @@
+{
+  "seed_id": "01KYDG7NWVMNN9C7DTKZ76F54Q",
+  "title": "Clean Exit",
+  "binding_configuration": "offline-agent-v1",
+  "path": "B",
+  "scenes_total": 45,
+  "arc_profile_E": [
+    6,
+    8,
+    10,
+    10,
+    10,
+    12,
+    12,
+    10,
+    12
+  ],
+  "review_flags": [],
+  "unrealized_deltas": [],
+  "scenes": [
+    {
+      "scene": 1,
+      "phase": 0,
+      "scene_in_phase": 0,
+      "title": "The Weight of Ink",
+      "pov": "A",
+      "day": 1,
+      "location": "La Bilancia, back office, night",
+      "T_raw_dominant": 0.254,
+      "lambda_t": 0.2039,
+      "T_scene": 0.22,
+      "T_dominant": 0.2714,
+      "T_bleed": 0.1,
+      "S_causal": 0.0058,
+      "T_causal": 0.0142,
+      "kappa_t": 0.1,
+      "T_eff": 0.2211,
+      "band": "establishment",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.22,
+      "achieved_T": 0.22,
+      "pool": [
+        "s1-plan",
+        "s1-alt1",
+        "s1-alt2",
+        "s1-alt3",
+        "s1-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s1-alt1",
+        "s1-plan"
+      ],
+      "move": {
+        "id": "s1-plan",
+        "family": "deflect_withhold",
+        "actor": "A",
+        "target": "C",
+        "motif": "green banker's lamp",
+        "scene_shape": "quiet-close",
+        "intended_delta": "hold the secret; establish the exit",
+        "linked_CEs": [
+          "CE-01",
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "establishment",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 0,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.2,
+            "attraction_sexual": 0.6,
+            "trust": 0.1,
+            "affection": 0.1,
+            "fear": 0.41,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "hostile",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.3,
+            "attraction_sexual": 0.55,
+            "trust": 0.2,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.5,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 0.3
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.2
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.15
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.2
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "phase": 0,
+      "scene_in_phase": 1,
+      "title": "Case File",
+      "pov": "B",
+      "day": 2,
+      "location": "Federal building, task-force room",
+      "T_raw_dominant": 0.3183,
+      "lambda_t": 0.2264,
+      "T_scene": 0.27,
+      "T_dominant": 0.3429,
+      "T_bleed": 0.1,
+      "S_causal": 0.0086,
+      "T_causal": 0.0212,
+      "kappa_t": 0.1,
+      "T_eff": 0.2715,
+      "band": "establishment",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.27,
+      "achieved_T": 0.27,
+      "pool": [
+        "s2-plan",
+        "s2-alt1",
+        "s2-alt2",
+        "s2-alt3",
+        "s2-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s2-alt1",
+        "s2-plan"
+      ],
+      "move": {
+        "id": "s2-plan",
+        "family": "probe_test",
+        "actor": "B",
+        "target": "A",
+        "motif": "her handwriting",
+        "scene_shape": "file-study",
+        "intended_delta": "learn the bookkeeper before the interview",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "establishment",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 0,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.2,
+            "attraction_sexual": 0.6,
+            "trust": 0.1,
+            "affection": 0.1,
+            "fear": 0.41,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "hostile",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.34,
+            "attraction_sexual": 0.55,
+            "trust": 0.2,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.58,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 0.4
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.25
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.2
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.25
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "phase": 0,
+      "scene_in_phase": 2,
+      "title": "On the Record",
+      "pov": "A",
+      "day": 3,
+      "location": "La Bilancia, front of house, afternoon",
+      "T_raw_dominant": 0.4685,
+      "lambda_t": 0.23,
+      "T_scene": 0.42,
+      "T_dominant": 0.4971,
+      "T_bleed": 0.24,
+      "S_causal": 0.0114,
+      "T_causal": 0.0277,
+      "kappa_t": 0.1,
+      "T_eff": 0.4216,
+      "band": "complication",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.42,
+      "achieved_T": 0.42,
+      "pool": [
+        "s3-plan",
+        "s3-alt1",
+        "s3-alt2",
+        "s3-alt3",
+        "s3-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s3-alt1",
+        "s3-plan"
+      ],
+      "move": {
+        "id": "s3-plan",
+        "family": "probe_test",
+        "actor": "B",
+        "target": "A",
+        "motif": "recorder on the tablecloth",
+        "scene_shape": "interview",
+        "intended_delta": "first contact under oath of tape",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 1,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.2,
+            "attraction_sexual": 0.67,
+            "trust": 0.1,
+            "affection": 0.1,
+            "fear": 0.49,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "hostile",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.34,
+            "attraction_sexual": 0.63,
+            "trust": 0.2,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.63,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 0.5
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.3
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.25
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.3
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "phase": 1,
+      "scene_in_phase": 1,
+      "title": "Paper Cuts",
+      "pov": "B",
+      "day": 4,
+      "location": "Fulton Market / canvass",
+      "T_raw_dominant": 0.3703,
+      "lambda_t": 0.2306,
+      "T_scene": 0.32,
+      "T_dominant": 0.3972,
+      "T_bleed": 0.14,
+      "S_causal": 0.0152,
+      "T_causal": 0.0367,
+      "kappa_t": 0.1,
+      "T_eff": 0.3225,
+      "band": "establishment",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.32,
+      "achieved_T": 0.32,
+      "pool": [
+        "s4-plan",
+        "s4-alt1",
+        "s4-alt2",
+        "s4-alt3",
+        "s4-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s4-alt1",
+        "s4-plan"
+      ],
+      "move": {
+        "id": "s4-plan",
+        "family": "probe_test",
+        "actor": "B",
+        "target": "C",
+        "motif": "receipts",
+        "scene_shape": "canvass",
+        "intended_delta": "test the perimeter; the books deflect him everywhere",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "establishment",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 1,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.2,
+            "attraction_sexual": 0.67,
+            "trust": 0.1,
+            "affection": 0.1,
+            "fear": 0.49,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "hostile",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.34,
+            "attraction_sexual": 0.63,
+            "trust": 0.15,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 0.6
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.35
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.3
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.35
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "phase": 1,
+      "scene_in_phase": 2,
+      "title": "A Visit from the Family",
+      "pov": "A",
+      "day": 5,
+      "location": "Back office, two espressos",
+      "T_raw_dominant": 0.4071,
+      "lambda_t": 0.2015,
+      "T_scene": 0.38,
+      "T_dominant": 0.4314,
+      "T_bleed": 0.26,
+      "S_causal": 0.0184,
+      "T_causal": 0.044,
+      "kappa_t": 0.1,
+      "T_eff": 0.3827,
+      "band": "complication",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.38,
+      "achieved_T": 0.38,
+      "pool": [
+        "s5-plan",
+        "s5-alt1",
+        "s5-alt2",
+        "s5-alt3",
+        "s5-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s5-alt1",
+        "s5-plan"
+      ],
+      "move": {
+        "id": "s5-plan",
+        "family": "demand_threaten",
+        "actor": "D",
+        "target": "A",
+        "motif": "two espressos",
+        "scene_shape": "veiled-threat",
+        "intended_delta": "the family's first squeeze",
+        "linked_CEs": [
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 1,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.2,
+            "attraction_sexual": 0.67,
+            "trust": 0.14,
+            "affection": 0.1,
+            "fear": 0.49,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "hostile",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.34,
+            "attraction_sexual": 0.63,
+            "trust": 0.15,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 0.65
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.45
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.35
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.4
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "phase": 1,
+      "scene_in_phase": 3,
+      "title": "Visiting Hours",
+      "pov": "A",
+      "day": 6,
+      "location": "MCC Chicago, visitation",
+      "T_raw_dominant": 0.3993,
+      "lambda_t": 0.2303,
+      "T_scene": 0.35,
+      "T_dominant": 0.4269,
+      "T_bleed": 0.1706,
+      "S_causal": 0.0217,
+      "T_causal": 0.0515,
+      "kappa_t": 0.175,
+      "T_eff": 0.3559,
+      "band": "complication",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.35,
+      "achieved_T": 0.35,
+      "pool": [
+        "s6-plan",
+        "s6-alt1",
+        "s6-alt2",
+        "s6-alt3",
+        "s6-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s6-alt1",
+        "s6-plan"
+      ],
+      "move": {
+        "id": "s6-plan",
+        "family": "probe_test",
+        "actor": "A",
+        "target": "B",
+        "motif": "glass between",
+        "scene_shape": "visit-and-call",
+        "intended_delta": "the promise renewed; a test call placed",
+        "linked_CEs": [
+          "CE-04",
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 1,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.25,
+            "attraction_sexual": 0.67,
+            "trust": 0.19,
+            "affection": 0.1,
+            "fear": 0.49,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "hostile",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.39,
+            "attraction_sexual": 0.63,
+            "trust": 0.15,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 0.75
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.5
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.4
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.5
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "phase": 1,
+      "scene_in_phase": 4,
+      "title": "Courthouse Steps",
+      "pov": "B",
+      "day": 7,
+      "location": "Dirksen courthouse, after Danny's hearing",
+      "T_raw_dominant": 0.5685,
+      "lambda_t": 0.23,
+      "T_scene": 0.52,
+      "T_dominant": 0.5967,
+      "T_bleed": 0.341,
+      "S_causal": 0.0253,
+      "T_causal": 0.0596,
+      "kappa_t": 0.175,
+      "T_eff": 0.525,
+      "band": "complication",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.52,
+      "achieved_T": 0.52,
+      "pool": [
+        "s7-plan",
+        "s7-alt1",
+        "s7-alt2",
+        "s7-alt3",
+        "s7-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s7-alt1",
+        "s7-plan"
+      ],
+      "move": {
+        "id": "s7-plan",
+        "family": "probe_test",
+        "actor": "B",
+        "target": "A",
+        "motif": "his card, second time",
+        "scene_shape": "collision",
+        "intended_delta": "second offer, second refusal, first heat",
+        "linked_CEs": [
+          "CE-01",
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 2,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.25,
+            "attraction_sexual": 0.75,
+            "trust": 0.19,
+            "affection": 0.1,
+            "fear": 0.44,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "hostile",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.45,
+            "attraction_sexual": 0.71,
+            "trust": 0.15,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 0.85
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.55
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.45
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.6
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "phase": 2,
+      "scene_in_phase": 1,
+      "title": "Quiet Corrections",
+      "pov": "A",
+      "day": 8,
+      "location": "Back office",
+      "T_raw_dominant": 0.4682,
+      "lambda_t": 0.2299,
+      "T_scene": 0.42,
+      "T_dominant": 0.4968,
+      "T_bleed": 0.2408,
+      "S_causal": 0.0314,
+      "T_causal": 0.0729,
+      "kappa_t": 0.175,
+      "T_eff": 0.4274,
+      "band": "complication",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.42,
+      "achieved_T": 0.42,
+      "pool": [
+        "s8-plan",
+        "s8-alt1",
+        "s8-alt2",
+        "s8-alt3",
+        "s8-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s8-alt1",
+        "s8-plan"
+      ],
+      "move": {
+        "id": "s8-plan",
+        "family": "deflect_withhold",
+        "actor": "A",
+        "target": "D",
+        "motif": "red ink",
+        "scene_shape": "stall",
+        "intended_delta": "refuse the marked money without saying no",
+        "linked_CEs": [
+          "CE-01",
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 2,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.25,
+            "attraction_sexual": 0.75,
+            "trust": 0.22,
+            "affection": 0.1,
+            "fear": 0.44,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "hostile",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.45,
+            "attraction_sexual": 0.71,
+            "trust": 0.15,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 0.95
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.65
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.5
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.65
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "phase": 2,
+      "scene_in_phase": 2,
+      "title": "Off Channel",
+      "pov": "B",
+      "day": 9,
+      "location": "His apartment, 2 a.m.",
+      "T_raw_dominant": 0.5482,
+      "lambda_t": 0.2299,
+      "T_scene": 0.5,
+      "T_dominant": 0.5767,
+      "T_bleed": 0.321,
+      "S_causal": 0.0364,
+      "T_causal": 0.0833,
+      "kappa_t": 0.325,
+      "T_eff": 0.5135,
+      "band": "complication",
+      "register_tag_AB": "hostile",
+      "register_tag_BA": "flat",
+      "target_T": 0.5,
+      "achieved_T": 0.5,
+      "pool": [
+        "s9-plan",
+        "s9-alt1",
+        "s9-alt2",
+        "s9-alt3",
+        "s9-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s9-alt1",
+        "s9-plan"
+      ],
+      "move": {
+        "id": "s9-plan",
+        "family": "reveal_misfire",
+        "actor": "B",
+        "target": "A",
+        "motif": "phone at 2 a.m.",
+        "scene_shape": "line-crossing",
+        "intended_delta": "he warns her before the system does",
+        "linked_CEs": [
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 2,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.25,
+            "attraction_sexual": 0.75,
+            "trust": 0.3,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.52,
+            "attraction_sexual": 0.71,
+            "trust": 0.2,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.75
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.55
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.7
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "phase": 2,
+      "scene_in_phase": 3,
+      "title": "Ward Rules",
+      "pov": "A",
+      "day": 9,
+      "location": "County hospital custody ward",
+      "T_raw_dominant": 0.5817,
+      "lambda_t": 0.208,
+      "T_scene": 0.55,
+      "T_dominant": 0.607,
+      "T_bleed": 0.417,
+      "S_causal": 0.0406,
+      "T_causal": 0.0922,
+      "kappa_t": 0.325,
+      "T_eff": 0.5635,
+      "band": "first_crisis",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "flat",
+      "target_T": 0.55,
+      "achieved_T": 0.55,
+      "pool": [
+        "s10-plan",
+        "s10-alt1",
+        "s10-alt2",
+        "s10-alt3",
+        "s10-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s10-alt1",
+        "s10-plan"
+      ],
+      "move": {
+        "id": "s10-plan",
+        "family": "demand_threaten",
+        "actor": "D",
+        "target": "A",
+        "motif": "visitor badge",
+        "scene_shape": "explicit-threat",
+        "intended_delta": "the threat says its own name",
+        "linked_CEs": [
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 2,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.25,
+            "attraction_sexual": 0.75,
+            "trust": 0.34,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.14,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.52,
+            "attraction_sexual": 0.71,
+            "trust": 0.2,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.85
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.6
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.75
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "phase": 2,
+      "scene_in_phase": 4,
+      "title": "Hypotheticals",
+      "pov": "A",
+      "day": 10,
+      "location": "Payphone, Clark & Grand",
+      "T_raw_dominant": 0.5681,
+      "lambda_t": 0.2298,
+      "T_scene": 0.52,
+      "T_dominant": 0.5963,
+      "T_bleed": 0.3421,
+      "S_causal": 0.0442,
+      "T_causal": 0.0995,
+      "kappa_t": 0.325,
+      "T_eff": 0.5355,
+      "band": "complication",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "flat",
+      "target_T": 0.52,
+      "achieved_T": 0.52,
+      "pool": [
+        "s11-plan",
+        "s11-alt1",
+        "s11-alt2",
+        "s11-alt3",
+        "s11-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s11-alt1",
+        "s11-plan"
+      ],
+      "move": {
+        "id": "s11-plan",
+        "family": "probe_test",
+        "actor": "A",
+        "target": "B",
+        "motif": "if someone kept records",
+        "scene_shape": "hypothetical",
+        "intended_delta": "she tests him with a fiction",
+        "linked_CEs": [
+          "CE-01",
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 2,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.25,
+            "attraction_sexual": 0.81,
+            "trust": 0.39,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.19,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.52,
+            "attraction_sexual": 0.71,
+            "trust": 0.26,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 0.95
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.65
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.8
+        }
+      ]
+    },
+    {
+      "scene": 12,
+      "phase": 2,
+      "scene_in_phase": 5,
+      "title": "Ice Out",
+      "pov": "B",
+      "day": 11,
+      "location": "Riverwalk under the Kinzie Street rail bridge",
+      "T_raw_dominant": 0.7125,
+      "lambda_t": 0.2314,
+      "T_scene": 0.66,
+      "T_dominant": 0.7362,
+      "T_bleed": 0.4823,
+      "S_causal": 0.0479,
+      "T_causal": 0.107,
+      "kappa_t": 0.4,
+      "T_eff": 0.6746,
+      "band": "first_crisis",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.66,
+      "achieved_T": 0.66,
+      "pool": [
+        "s12-plan",
+        "s12-alt1",
+        "s12-alt2",
+        "s12-alt3",
+        "s12-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s12-alt1",
+        "s12-plan"
+      ],
+      "move": {
+        "id": "s12-plan",
+        "family": "bargain_trade",
+        "actor": "B",
+        "target": "A",
+        "motif": "river ice breaking",
+        "scene_shape": "offer-refused",
+        "intended_delta": "protection for cooperation; refused; near-touch",
+        "linked_CEs": [
+          "CE-01",
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 3,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.32,
+            "attraction_sexual": 0.81,
+            "trust": 0.39,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.15,
+            "vulnerability": 0.19,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.52,
+            "attraction_sexual": 0.78,
+            "trust": 0.26,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.15,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.7
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.85
+        }
+      ]
+    },
+    {
+      "scene": 13,
+      "phase": 3,
+      "scene_in_phase": 1,
+      "title": "Sunday Gravy",
+      "pov": "A",
+      "day": 13,
+      "location": "Sal Moretti's house, family table",
+      "T_raw_dominant": 0.6179,
+      "lambda_t": 0.2158,
+      "T_scene": 0.58,
+      "T_dominant": 0.6434,
+      "T_bleed": 0.4321,
+      "S_causal": 0.0574,
+      "T_causal": 0.1254,
+      "kappa_t": 0.4,
+      "T_eff": 0.6011,
+      "band": "first_crisis",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.58,
+      "achieved_T": 0.58,
+      "pool": [
+        "s13-plan",
+        "s13-alt1",
+        "s13-alt2",
+        "s13-alt3",
+        "s13-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s13-alt1",
+        "s13-plan"
+      ],
+      "move": {
+        "id": "s13-plan",
+        "family": "deflect_withhold",
+        "actor": "A",
+        "target": "D",
+        "motif": "the long table",
+        "scene_shape": "family-dinner",
+        "intended_delta": "surveillance wears a napkin",
+        "linked_CEs": [
+          "CE-02",
+          "CE-03"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 3,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.32,
+            "attraction_sexual": 0.81,
+            "trust": 0.39,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.19,
+            "vulnerability": 0.19,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.52,
+            "attraction_sexual": 0.78,
+            "trust": 0.26,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.15,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.8
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.9
+        }
+      ]
+    },
+    {
+      "scene": 14,
+      "phase": 3,
+      "scene_in_phase": 2,
+      "title": "Flip Her",
+      "pov": "B",
+      "day": 14,
+      "location": "Task force, SAC's office",
+      "T_raw_dominant": 0.6497,
+      "lambda_t": 0.2304,
+      "T_scene": 0.6,
+      "T_dominant": 0.6759,
+      "T_bleed": 0.4229,
+      "S_causal": 0.0604,
+      "T_causal": 0.1311,
+      "kappa_t": 0.4,
+      "T_eff": 0.621,
+      "band": "first_crisis",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.6,
+      "achieved_T": 0.6,
+      "pool": [
+        "s14-plan",
+        "s14-alt1",
+        "s14-alt2",
+        "s14-alt3",
+        "s14-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s14-alt1",
+        "s14-plan"
+      ],
+      "move": {
+        "id": "s14-plan",
+        "family": "deflect_withhold",
+        "actor": "B",
+        "target": "A",
+        "motif": "source protocol",
+        "scene_shape": "institutional-pressure",
+        "intended_delta": "he shields her from the flip order",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 3,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.32,
+            "attraction_sexual": 0.81,
+            "trust": 0.39,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.19,
+            "vulnerability": 0.19,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.52,
+            "attraction_sexual": 0.78,
+            "trust": 0.3,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.68,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.21,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.85
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 0.95
+        }
+      ]
+    },
+    {
+      "scene": 15,
+      "phase": 3,
+      "scene_in_phase": 3,
+      "title": "Clean Hands",
+      "pov": "A",
+      "day": 15,
+      "location": "Back office; production of records",
+      "T_raw_dominant": 0.7017,
+      "lambda_t": 0.2311,
+      "T_scene": 0.65,
+      "T_dominant": 0.7259,
+      "T_bleed": 0.473,
+      "S_causal": 0.0629,
+      "T_causal": 0.136,
+      "kappa_t": 0.4,
+      "T_eff": 0.6691,
+      "band": "first_crisis",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.65,
+      "achieved_T": 0.65,
+      "pool": [
+        "s15-plan",
+        "s15-alt1",
+        "s15-alt2",
+        "s15-alt3",
+        "s15-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s15-alt1",
+        "s15-plan"
+      ],
+      "move": {
+        "id": "s15-plan",
+        "family": "deflect_withhold",
+        "actor": "A",
+        "target": "B",
+        "motif": "boxes of paper",
+        "scene_shape": "production",
+        "intended_delta": "she gives him everything that says nothing",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 3,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.32,
+            "attraction_sexual": 0.81,
+            "trust": 0.45,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.19,
+            "vulnerability": 0.25,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.78,
+            "trust": 0.3,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.21,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 0.9
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 16,
+      "phase": 3,
+      "scene_in_phase": 4,
+      "title": "Passage Due",
+      "pov": "A",
+      "day": 16,
+      "location": "Kitchen after close",
+      "T_raw_dominant": 0.756,
+      "lambda_t": 0.234,
+      "T_scene": 0.7,
+      "T_dominant": 0.7776,
+      "T_bleed": 0.519,
+      "S_causal": 0.0657,
+      "T_causal": 0.141,
+      "kappa_t": 0.4,
+      "T_eff": 0.7169,
+      "band": "first_crisis",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.7,
+      "achieved_T": 0.7,
+      "pool": [
+        "s16-plan",
+        "s16-alt1",
+        "s16-alt2",
+        "s16-alt3",
+        "s16-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s16-alt1",
+        "s16-plan"
+      ],
+      "move": {
+        "id": "s16-plan",
+        "family": "realign_betray",
+        "actor": "D",
+        "target": "C",
+        "motif": "knife roll",
+        "scene_shape": "debt-called",
+        "intended_delta": "the confidant becomes the family's instrument",
+        "linked_CEs": [
+          "CE-03"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 3,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.37,
+            "attraction_sexual": 0.81,
+            "trust": 0.45,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.19,
+            "vulnerability": 0.25,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.78,
+            "trust": 0.3,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.21,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 17,
+      "phase": 3,
+      "scene_in_phase": 5,
+      "title": "Cover Story",
+      "pov": "B",
+      "day": 16,
+      "location": "West Loop street, night",
+      "T_raw_dominant": 0.8616,
+      "lambda_t": 0.2346,
+      "T_scene": 0.8,
+      "T_dominant": 0.8756,
+      "T_bleed": 0.6235,
+      "S_causal": 0.0688,
+      "T_causal": 0.1467,
+      "kappa_t": 0.4,
+      "T_eff": 0.8117,
+      "band": "climax",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.8,
+      "achieved_T": 0.8,
+      "pool": [
+        "s17-plan",
+        "s17-alt1",
+        "s17-alt2",
+        "s17-alt3",
+        "s17-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s17-alt1",
+        "s17-plan"
+      ],
+      "move": {
+        "id": "s17-plan",
+        "family": "reveal_misfire",
+        "actor": "A",
+        "target": "B",
+        "motif": "performed contempt",
+        "scene_shape": "seen-together",
+        "intended_delta": "a lie performed in public, the truth said in private",
+        "linked_CEs": [
+          "CE-01",
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 4,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.37,
+            "attraction_sexual": 0.9,
+            "trust": 0.45,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.26,
+            "vulnerability": 0.25,
+            "commitment": 0.1,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.86,
+            "trust": 0.35,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.21,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 18,
+      "phase": 4,
+      "scene_in_phase": 1,
+      "title": "The Ticket",
+      "pov": "A",
+      "day": 17,
+      "location": "Union Station, then her apartment",
+      "T_raw_dominant": 0.4674,
+      "lambda_t": 0.2296,
+      "T_scene": 0.42,
+      "T_dominant": 0.496,
+      "T_bleed": 0.2427,
+      "S_causal": 0.0832,
+      "T_causal": 0.1722,
+      "kappa_t": 0.4,
+      "T_eff": 0.4599,
+      "band": "complication",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.42,
+      "achieved_T": 0.42,
+      "pool": [
+        "s18-plan",
+        "s18-alt1",
+        "s18-alt2",
+        "s18-alt3",
+        "s18-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s18-alt1",
+        "s18-plan"
+      ],
+      "move": {
+        "id": "s18-plan",
+        "family": "deflect_withhold",
+        "actor": "A",
+        "target": "C",
+        "motif": "unbought ticket",
+        "scene_shape": "almost-gone",
+        "intended_delta": "she doesn't leave, and doesn't say why",
+        "linked_CEs": [
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 4,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.43,
+            "attraction_sexual": 0.9,
+            "trust": 0.45,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.26,
+            "vulnerability": 0.25,
+            "commitment": 0.14,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.86,
+            "trust": 0.35,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.21,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 19,
+      "phase": 4,
+      "scene_in_phase": 2,
+      "title": "Redirection",
+      "pov": "B",
+      "day": 18,
+      "location": "Task force",
+      "T_raw_dominant": 0.4873,
+      "lambda_t": 0.2296,
+      "T_scene": 0.44,
+      "T_dominant": 0.516,
+      "T_bleed": 0.2628,
+      "S_causal": 0.0863,
+      "T_causal": 0.1774,
+      "kappa_t": 0.4,
+      "T_eff": 0.4798,
+      "band": "complication",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.44,
+      "achieved_T": 0.44,
+      "pool": [
+        "s19-plan",
+        "s19-alt1",
+        "s19-alt2",
+        "s19-alt3",
+        "s19-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s19-alt1",
+        "s19-plan"
+      ],
+      "move": {
+        "id": "s19-plan",
+        "family": "realign_betray",
+        "actor": "B",
+        "target": "D",
+        "motif": "org chart",
+        "scene_shape": "quiet-steering",
+        "intended_delta": "he aims the case at the enforcer",
+        "linked_CEs": [
+          "CE-01",
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 4,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.43,
+            "attraction_sexual": 0.9,
+            "trust": 0.45,
+            "affection": 0.1,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.6,
+            "emotional_safety": 0.26,
+            "vulnerability": 0.25,
+            "commitment": 0.14,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.86,
+            "trust": 0.39,
+            "affection": 0.1,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.3,
+            "emotional_safety": 0.1,
+            "vulnerability": 0.1,
+            "commitment": 0.29,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 20,
+      "phase": 4,
+      "scene_in_phase": 3,
+      "title": "Family Meal",
+      "pov": "B",
+      "day": 19,
+      "location": "La Bilancia, snowed-in staff meal",
+      "T_raw_dominant": 0.4477,
+      "lambda_t": 0.2297,
+      "T_scene": 0.4,
+      "T_dominant": 0.4761,
+      "T_bleed": 0.2225,
+      "S_causal": 0.0896,
+      "T_causal": 0.183,
+      "kappa_t": 0.4,
+      "T_eff": 0.4439,
+      "band": "complication",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.4,
+      "achieved_T": 0.4,
+      "pool": [
+        "s20-plan",
+        "s20-alt1",
+        "s20-alt2",
+        "s20-alt3",
+        "s20-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s20-alt1",
+        "s20-plan"
+      ],
+      "move": {
+        "id": "s20-plan",
+        "family": "probe_test",
+        "actor": "B",
+        "target": "A",
+        "motif": "staff meal",
+        "scene_shape": "snowbound",
+        "intended_delta": "an hour with no case in it",
+        "linked_CEs": [
+          "CE-04",
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 4,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.43,
+            "attraction_sexual": 0.9,
+            "trust": 0.45,
+            "affection": 0.2,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.52,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.25,
+            "commitment": 0.14,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.86,
+            "trust": 0.39,
+            "affection": 0.19,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.22,
+            "emotional_safety": 0.16,
+            "vulnerability": 0.1,
+            "commitment": 0.36,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 21,
+      "phase": 4,
+      "scene_in_phase": 4,
+      "title": "The Leak",
+      "pov": "A",
+      "day": 20,
+      "location": "Back office audit",
+      "T_raw_dominant": 0.5161,
+      "lambda_t": 0.2326,
+      "T_scene": 0.46,
+      "T_dominant": 0.5359,
+      "T_bleed": 0.283,
+      "S_causal": 0.0932,
+      "T_causal": 0.1889,
+      "kappa_t": 0.4,
+      "T_eff": 0.5008,
+      "band": "complication",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.46,
+      "achieved_T": 0.46,
+      "pool": [
+        "s21-plan",
+        "s21-alt1",
+        "s21-alt2",
+        "s21-alt3",
+        "s21-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s21-alt1",
+        "s21-plan"
+      ],
+      "move": {
+        "id": "s21-plan",
+        "family": "probe_test",
+        "actor": "A",
+        "target": "C",
+        "motif": "columns that don't foot",
+        "scene_shape": "audit",
+        "intended_delta": "she finds the leak and misreads it",
+        "linked_CEs": [
+          "CE-03"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 4,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.43,
+            "attraction_sexual": 0.9,
+            "trust": 0.49,
+            "affection": 0.2,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.52,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.25,
+            "commitment": 0.21,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.86,
+            "trust": 0.39,
+            "affection": 0.19,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.22,
+            "emotional_safety": 0.16,
+            "vulnerability": 0.1,
+            "commitment": 0.36,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 22,
+      "phase": 4,
+      "scene_in_phase": 5,
+      "title": "Terms",
+      "pov": "A",
+      "day": 21,
+      "location": "Neutral diner, Ohio Street",
+      "T_raw_dominant": 0.6169,
+      "lambda_t": 0.2329,
+      "T_scene": 0.56,
+      "T_dominant": 0.6356,
+      "T_bleed": 0.3835,
+      "S_causal": 0.0971,
+      "T_causal": 0.1953,
+      "kappa_t": 0.4,
+      "T_eff": 0.5944,
+      "band": "first_crisis",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.56,
+      "achieved_T": 0.56,
+      "pool": [
+        "s22-plan",
+        "s22-alt1",
+        "s22-alt2",
+        "s22-alt3",
+        "s22-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s22-alt1",
+        "s22-plan"
+      ],
+      "move": {
+        "id": "s22-plan",
+        "family": "bargain_trade",
+        "actor": "A",
+        "target": "B",
+        "motif": "two coffees, one napkin",
+        "scene_shape": "midpoint-alliance",
+        "intended_delta": "she proposes the alliance; midpoint",
+        "linked_CEs": [
+          "CE-01",
+          "CE-02",
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 5,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.43,
+            "attraction_sexual": 0.9,
+            "trust": 0.59,
+            "affection": 0.2,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.42,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.25,
+            "commitment": 0.29,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "cold",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.86,
+            "trust": 0.47,
+            "affection": 0.19,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.12,
+            "emotional_safety": 0.16,
+            "vulnerability": 0.1,
+            "commitment": 0.44,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 23,
+      "phase": 5,
+      "scene_in_phase": 1,
+      "title": "Night Ledgers",
+      "pov": "A",
+      "day": 22,
+      "location": "Back office, two chairs",
+      "T_raw_dominant": 0.633,
+      "lambda_t": 0.2315,
+      "T_scene": 0.58,
+      "T_dominant": 0.6556,
+      "T_bleed": 0.4036,
+      "S_causal": 0.0999,
+      "T_causal": 0.1998,
+      "kappa_t": 0.4,
+      "T_eff": 0.6136,
+      "band": "first_crisis",
+      "register_tag_AB": "cold",
+      "register_tag_BA": "steady",
+      "target_T": 0.58,
+      "achieved_T": 0.58,
+      "pool": [
+        "s23-plan",
+        "s23-alt1",
+        "s23-alt2",
+        "s23-alt3",
+        "s23-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s23-alt1",
+        "s23-plan"
+      ],
+      "move": {
+        "id": "s23-plan",
+        "family": "probe_test",
+        "actor": "A",
+        "target": "B",
+        "motif": "two chairs, one lamp",
+        "scene_shape": "working-nights",
+        "intended_delta": "proximity as method",
+        "linked_CEs": [
+          "CE-01",
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 5,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.43,
+            "attraction_sexual": 0.96,
+            "trust": 0.59,
+            "affection": 0.28,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.42,
+            "emotional_safety": 0.39,
+            "vulnerability": 0.25,
+            "commitment": 0.29,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.92,
+            "trust": 0.47,
+            "affection": 0.19,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.12,
+            "emotional_safety": 0.21,
+            "vulnerability": 0.1,
+            "commitment": 0.44,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 24,
+      "phase": 5,
+      "scene_in_phase": 2,
+      "title": "Name the Exit",
+      "pov": "A",
+      "day": 23,
+      "location": "Back office doorway, 1 a.m.",
+      "T_raw_dominant": 0.6949,
+      "lambda_t": 0.2322,
+      "T_scene": 0.64,
+      "T_dominant": 0.7156,
+      "T_bleed": 0.4637,
+      "S_causal": 0.1041,
+      "T_causal": 0.2065,
+      "kappa_t": 0.4,
+      "T_eff": 0.6697,
+      "band": "first_crisis",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "steady",
+      "target_T": 0.64,
+      "achieved_T": 0.64,
+      "pool": [
+        "s24-plan",
+        "s24-alt1",
+        "s24-alt2",
+        "s24-alt3",
+        "s24-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s24-alt1",
+        "s24-plan"
+      ],
+      "move": {
+        "id": "s24-plan",
+        "family": "negotiate_consent",
+        "actor": "A",
+        "target": "B",
+        "motif": "the named door",
+        "scene_shape": "consent-c2",
+        "intended_delta": "the almost-kiss stopped and negotiated",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": {
+          "kind": "ask",
+          "act_class": "C2"
+        }
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 5,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.43,
+            "attraction_sexual": 0.96,
+            "trust": 0.59,
+            "affection": 0.34,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.42,
+            "emotional_safety": 0.46,
+            "vulnerability": 0.31,
+            "commitment": 0.29,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [
+            "C2/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 0.92,
+            "trust": 0.52,
+            "affection": 0.19,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.12,
+            "emotional_safety": 0.27,
+            "vulnerability": 0.1,
+            "commitment": 0.44,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [
+            "C2/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 25,
+      "phase": 5,
+      "scene_in_phase": 3,
+      "title": "First",
+      "pov": "A",
+      "day": 24,
+      "location": "Back office, after close",
+      "T_raw_dominant": 0.7343,
+      "lambda_t": 0.232,
+      "T_scene": 0.68,
+      "T_dominant": 0.7556,
+      "T_bleed": 0.5037,
+      "S_causal": 0.1087,
+      "T_causal": 0.2136,
+      "kappa_t": 0.4,
+      "T_eff": 0.7074,
+      "band": "first_crisis",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "steady",
+      "target_T": 0.68,
+      "achieved_T": 0.68,
+      "pool": [
+        "s25-plan",
+        "s25-alt1",
+        "s25-alt2",
+        "s25-alt3",
+        "s25-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s25-alt1",
+        "s25-plan"
+      ],
+      "move": {
+        "id": "s25-plan",
+        "family": "release_transform",
+        "actor": "A",
+        "target": "B",
+        "motif": "ink-stained fingers",
+        "scene_shape": "first-kiss",
+        "intended_delta": "the kiss, on her initiative",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": {
+          "class": "C2",
+          "setting": "private"
+        },
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 5,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 0.96,
+            "trust": 0.59,
+            "affection": 0.46,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.32,
+            "emotional_safety": 0.54,
+            "vulnerability": 0.31,
+            "commitment": 0.29,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [
+            "C2/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.92,
+            "trust": 0.52,
+            "affection": 0.26,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.12,
+            "emotional_safety": 0.27,
+            "vulnerability": 0.1,
+            "commitment": 0.44,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [
+            "C2/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 26,
+      "phase": 5,
+      "scene_in_phase": 4,
+      "title": "Garage Level 3",
+      "pov": "B",
+      "day": 24,
+      "location": "Parking structure, night",
+      "T_raw_dominant": 0.7676,
+      "lambda_t": 0.222,
+      "T_scene": 0.72,
+      "T_dominant": 0.7862,
+      "T_bleed": 0.5655,
+      "S_causal": 0.1137,
+      "T_causal": 0.2213,
+      "kappa_t": 0.4,
+      "T_eff": 0.7448,
+      "band": "first_crisis",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "steady",
+      "target_T": 0.72,
+      "achieved_T": 0.72,
+      "pool": [
+        "s26-plan",
+        "s26-alt1",
+        "s26-alt2",
+        "s26-alt3",
+        "s26-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s26-alt1",
+        "s26-plan"
+      ],
+      "move": {
+        "id": "s26-plan",
+        "family": "demand_threaten",
+        "actor": "D",
+        "target": "B",
+        "motif": "engine ticking",
+        "scene_shape": "warned-off",
+        "intended_delta": "touch her and the family buries you both",
+        "linked_CEs": [
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 5,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 0.96,
+            "trust": 0.59,
+            "affection": 0.46,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.32,
+            "emotional_safety": 0.54,
+            "vulnerability": 0.31,
+            "commitment": 0.29,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [
+            "C2/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.92,
+            "trust": 0.52,
+            "affection": 0.26,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.12,
+            "emotional_safety": 0.27,
+            "vulnerability": 0.1,
+            "commitment": 0.52,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [
+            "C2/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Open",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 27,
+      "phase": 5,
+      "scene_in_phase": 5,
+      "title": "The Long Table",
+      "pov": "A",
+      "day": 25,
+      "location": "Sal's dining room",
+      "T_raw_dominant": 0.8322,
+      "lambda_t": 0.2243,
+      "T_scene": 0.78,
+      "T_dominant": 0.8469,
+      "T_bleed": 0.624,
+      "S_causal": 0.1192,
+      "T_causal": 0.2295,
+      "kappa_t": 0.4,
+      "T_eff": 0.8002,
+      "band": "climax",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "steady",
+      "target_T": 0.78,
+      "achieved_T": 0.78,
+      "pool": [
+        "s27-plan",
+        "s27-alt1",
+        "s27-alt2",
+        "s27-alt3",
+        "s27-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s27-alt1",
+        "s27-plan"
+      ],
+      "move": {
+        "id": "s27-plan",
+        "family": "deflect_withhold",
+        "actor": "A",
+        "target": "D",
+        "motif": "the old book named aloud",
+        "scene_shape": "dinner-confrontation",
+        "intended_delta": "she lies to the head of the family at his own table",
+        "linked_CEs": [
+          "CE-01",
+          "CE-02"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [
+          "CE-02"
+        ],
+        "misfired": []
+      },
+      "phase_after": 5,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 0.96,
+            "trust": 0.59,
+            "affection": 0.46,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.32,
+            "emotional_safety": 0.54,
+            "vulnerability": 0.31,
+            "commitment": 0.35,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [
+            "C2/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.92,
+            "trust": 0.52,
+            "affection": 0.26,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.12,
+            "emotional_safety": 0.27,
+            "vulnerability": 0.1,
+            "commitment": 0.52,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "steady",
+          "grants": [
+            "C2/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 28,
+      "phase": 5,
+      "scene_in_phase": 6,
+      "title": "Terms of Surrender",
+      "pov": "A",
+      "day": 26,
+      "location": "Her apartment",
+      "T_raw_dominant": 0.9254,
+      "lambda_t": 0.2464,
+      "T_scene": 0.85,
+      "T_dominant": 0.9334,
+      "T_bleed": 0.6554,
+      "S_causal": 0.0858,
+      "T_causal": 0.1765,
+      "kappa_t": 0.4,
+      "T_eff": 0.8606,
+      "band": "climax",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "steady",
+      "target_T": 0.85,
+      "achieved_T": 0.85,
+      "pool": [
+        "s28-plan",
+        "s28-alt1",
+        "s28-alt2",
+        "s28-alt3",
+        "s28-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s28-alt1",
+        "s28-plan"
+      ],
+      "move": {
+        "id": "s28-plan",
+        "family": "negotiate_consent",
+        "actor": "B",
+        "target": "A",
+        "motif": "coat on the hook",
+        "scene_shape": "consent-c3c4",
+        "intended_delta": "the negotiation before anything further",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": {
+          "class": "C2",
+          "setting": "private"
+        },
+        "consent_action": {
+          "kind": "ask",
+          "act_class": "C3"
+        }
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 6,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.59,
+            "affection": 0.46,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.24,
+            "emotional_safety": 0.62,
+            "vulnerability": 0.39,
+            "commitment": 0.35,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "fond",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.92,
+            "trust": 0.52,
+            "affection": 0.26,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.17,
+            "commitment": 0.52,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 29,
+      "phase": 6,
+      "scene_in_phase": 1,
+      "title": "The Window",
+      "pov": "B",
+      "day": 26,
+      "location": "Task force, evening",
+      "T_raw_dominant": 0.8401,
+      "lambda_t": 0.234,
+      "T_scene": 0.78,
+      "T_dominant": 0.8549,
+      "T_bleed": 0.6054,
+      "S_causal": 0.0742,
+      "T_causal": 0.1565,
+      "kappa_t": 0.4,
+      "T_eff": 0.7938,
+      "band": "climax",
+      "register_tag_AB": "fond",
+      "register_tag_BA": "tender",
+      "target_T": 0.78,
+      "achieved_T": 0.78,
+      "pool": [
+        "s29-plan",
+        "s29-alt1",
+        "s29-alt2",
+        "s29-alt3",
+        "s29-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s29-alt1",
+        "s29-plan"
+      ],
+      "move": {
+        "id": "s29-plan",
+        "family": "deflect_withhold",
+        "actor": "B",
+        "target": "D",
+        "motif": "raid clock",
+        "scene_shape": "boxed-in",
+        "intended_delta": "the raid window opens; he is out of lanes",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 6,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.59,
+            "affection": 0.46,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.24,
+            "emotional_safety": 0.62,
+            "vulnerability": 0.39,
+            "commitment": 0.35,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "fond",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.92,
+            "trust": 0.52,
+            "affection": 0.26,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.22,
+            "commitment": 0.58,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 30,
+      "phase": 6,
+      "scene_in_phase": 2,
+      "title": "Inventory of Scars",
+      "pov": "A",
+      "day": 27,
+      "location": "Her apartment, night",
+      "T_raw_dominant": 0.8185,
+      "lambda_t": 0.2335,
+      "T_scene": 0.76,
+      "T_dominant": 0.8348,
+      "T_bleed": 0.5855,
+      "S_causal": 0.0775,
+      "T_causal": 0.1624,
+      "kappa_t": 0.4,
+      "T_eff": 0.7756,
+      "band": "climax",
+      "register_tag_AB": "fond",
+      "register_tag_BA": "tender",
+      "target_T": 0.76,
+      "achieved_T": 0.76,
+      "pool": [
+        "s30-plan",
+        "s30-alt1",
+        "s30-alt2",
+        "s30-alt3",
+        "s30-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s30-alt1",
+        "s30-plan"
+      ],
+      "move": {
+        "id": "s30-plan",
+        "family": "release_transform",
+        "actor": "A",
+        "target": "B",
+        "motif": "reading glasses",
+        "scene_shape": "first-night",
+        "intended_delta": "first full intimacy under standing terms",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": {
+          "class": "C4",
+          "setting": "private"
+        },
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 6,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.65,
+            "affection": 0.46,
+            "fear": 0.39,
+            "respect": 0.4,
+            "resentment": 0.18,
+            "emotional_safety": 0.62,
+            "vulnerability": 0.47,
+            "commitment": 0.35,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.57,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.3,
+            "commitment": 0.58,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Open",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 31,
+      "phase": 6,
+      "scene_in_phase": 3,
+      "title": "What Lucia Carried",
+      "pov": "A",
+      "day": 28,
+      "location": "Kitchen, dawn",
+      "T_raw_dominant": 0.8901,
+      "lambda_t": 0.2438,
+      "T_scene": 0.82,
+      "T_dominant": 0.9025,
+      "T_bleed": 0.6274,
+      "S_causal": 0.0811,
+      "T_causal": 0.1686,
+      "kappa_t": 0.4,
+      "T_eff": 0.8321,
+      "band": "climax",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.82,
+      "achieved_T": 0.82,
+      "pool": [
+        "s31-plan",
+        "s31-alt1",
+        "s31-alt2",
+        "s31-alt3",
+        "s31-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s31-alt1",
+        "s31-plan"
+      ],
+      "move": {
+        "id": "s31-plan",
+        "family": "reveal_misfire",
+        "actor": "C",
+        "target": "A",
+        "motif": "flour on the pass",
+        "scene_shape": "confession",
+        "intended_delta": "the confidant confesses the debt and the reports",
+        "linked_CEs": [
+          "CE-03",
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [
+          "CE-03"
+        ],
+        "misfired": []
+      },
+      "phase_after": 6,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.7,
+            "affection": 0.46,
+            "fear": 0.43,
+            "respect": 0.4,
+            "resentment": 0.18,
+            "emotional_safety": 0.62,
+            "vulnerability": 0.47,
+            "commitment": 0.35,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.57,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.3,
+            "commitment": 0.58,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 32,
+      "phase": 6,
+      "scene_in_phase": 4,
+      "title": "Chain of Custody",
+      "pov": "B",
+      "day": 28,
+      "location": "Evidence annex, night",
+      "T_raw_dominant": 0.9401,
+      "lambda_t": 0.2515,
+      "T_scene": 0.86,
+      "T_dominant": 0.9475,
+      "T_bleed": 0.656,
+      "S_causal": 0.0613,
+      "T_causal": 0.1328,
+      "kappa_t": 0.4,
+      "T_eff": 0.8674,
+      "band": "climax",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.86,
+      "achieved_T": 0.86,
+      "pool": [
+        "s32-plan",
+        "s32-alt1",
+        "s32-alt2",
+        "s32-alt3",
+        "s32-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s32-alt1",
+        "s32-plan"
+      ],
+      "move": {
+        "id": "s32-plan",
+        "family": "reveal_misfire",
+        "actor": "B",
+        "target": "A",
+        "motif": "one page, folded once",
+        "scene_shape": "evidence",
+        "intended_delta": "her handwriting in the marked chain; he palms the page",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 6,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.7,
+            "affection": 0.46,
+            "fear": 0.43,
+            "respect": 0.4,
+            "resentment": 0.18,
+            "emotional_safety": 0.62,
+            "vulnerability": 0.47,
+            "commitment": 0.35,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.51,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.36,
+            "commitment": 0.65,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 33,
+      "phase": 6,
+      "scene_in_phase": 5,
+      "title": "Carry It",
+      "pov": "A",
+      "day": 29,
+      "location": "Back office; then the street",
+      "T_raw_dominant": 0.9957,
+      "lambda_t": 0.264,
+      "T_scene": 0.9,
+      "T_dominant": 0.9962,
+      "T_bleed": 0.6755,
+      "S_causal": 0.0644,
+      "T_causal": 0.1388,
+      "kappa_t": 0.4,
+      "T_eff": 0.9056,
+      "band": "climax",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.9,
+      "achieved_T": 0.9,
+      "pool": [
+        "s33-plan",
+        "s33-alt1",
+        "s33-alt2",
+        "s33-alt3",
+        "s33-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s33-alt1",
+        "s33-plan"
+      ],
+      "move": {
+        "id": "s33-plan",
+        "family": "deflect_withhold",
+        "actor": "A",
+        "target": "D",
+        "motif": "empty safe, open door",
+        "scene_shape": "searched",
+        "intended_delta": "D searches; the ledger is already on her body",
+        "linked_CEs": [
+          "CE-01",
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 6,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.75,
+            "affection": 0.46,
+            "fear": 0.43,
+            "respect": 0.4,
+            "resentment": 0.18,
+            "emotional_safety": 0.62,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.51,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.36,
+            "commitment": 0.65,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 0.9,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 34,
+      "phase": 6,
+      "scene_in_phase": 6,
+      "title": "Service",
+      "pov": "B",
+      "day": 29,
+      "location": "La Bilancia, dinner service; the raid",
+      "T_raw_dominant": 1.0,
+      "lambda_t": 0.2725,
+      "T_scene": 0.8973,
+      "T_dominant": 1.0,
+      "T_bleed": 0.6576,
+      "S_causal": 0.068,
+      "T_causal": 0.1452,
+      "kappa_t": 0.4,
+      "T_eff": 0.9032,
+      "band": "climax",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.93,
+      "achieved_T": 0.8973,
+      "pool": [
+        "s34-plan",
+        "s34-alt1",
+        "s34-alt2",
+        "s34-alt3",
+        "s34-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s34-alt1",
+        "s34-plan"
+      ],
+      "move": {
+        "id": "s34-plan",
+        "family": "realign_betray",
+        "actor": "B",
+        "target": "A",
+        "motif": "warrant on the pass",
+        "scene_shape": "all-is-lost",
+        "intended_delta": "the warrant executes mid-service; the betrayal reveal",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": [
+          "CE-01"
+        ]
+      },
+      "phase_after": 7,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.6,
+            "affection": 0.46,
+            "fear": 0.53,
+            "respect": 0.4,
+            "resentment": 0.33,
+            "emotional_safety": 0.62,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.51,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.43,
+            "commitment": 0.71,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/private",
+            "C3/private",
+            "C4/private"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 35,
+      "phase": 7,
+      "scene_in_phase": 1,
+      "title": "Smaller Questions",
+      "pov": "A",
+      "day": 29,
+      "location": "Field office, interview room B",
+      "T_raw_dominant": 0.7968,
+      "lambda_t": 0.2329,
+      "T_scene": 0.74,
+      "T_dominant": 0.8141,
+      "T_bleed": 0.567,
+      "S_causal": 0.063,
+      "T_causal": 0.136,
+      "kappa_t": 0.4,
+      "T_eff": 0.7541,
+      "band": "climax",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "tender",
+      "target_T": 0.74,
+      "achieved_T": 0.74,
+      "pool": [
+        "s35-plan",
+        "s35-alt1",
+        "s35-alt2",
+        "s35-alt3",
+        "s35-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s35-alt1",
+        "s35-plan"
+      ],
+      "move": {
+        "id": "s35-plan",
+        "family": "deflect_withhold",
+        "actor": "A",
+        "target": "B",
+        "motif": "the recorder, again",
+        "scene_shape": "mirror-interview",
+        "intended_delta": "scene 3 mirrored; consent withdrawn",
+        "linked_CEs": [
+          "CE-01",
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": {
+          "kind": "withdraw",
+          "act_class": "C2"
+        }
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 7,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.5,
+            "affection": 0.46,
+            "fear": 0.53,
+            "respect": 0.4,
+            "resentment": 0.38,
+            "emotional_safety": 0.5,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.51,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.48,
+            "commitment": 0.71,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 36,
+      "phase": 7,
+      "scene_in_phase": 2,
+      "title": "The Page",
+      "pov": "B",
+      "day": 30,
+      "location": "SAC's office, 7 a.m.",
+      "T_raw_dominant": 0.7333,
+      "lambda_t": 0.2317,
+      "T_scene": 0.68,
+      "T_dominant": 0.7541,
+      "T_bleed": 0.5071,
+      "S_causal": 0.066,
+      "T_causal": 0.1417,
+      "kappa_t": 0.4,
+      "T_eff": 0.6982,
+      "band": "first_crisis",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "tender",
+      "target_T": 0.68,
+      "achieved_T": 0.68,
+      "pool": [
+        "s36-plan",
+        "s36-alt1",
+        "s36-alt2",
+        "s36-alt3",
+        "s36-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s36-alt1",
+        "s36-plan"
+      ],
+      "move": {
+        "id": "s36-plan",
+        "family": "release_transform",
+        "actor": "B",
+        "target": "A",
+        "motif": "the folded page, unfolded",
+        "scene_shape": "costly-proof",
+        "intended_delta": "he surrenders his own violation to save her standing",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 7,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.5,
+            "affection": 0.46,
+            "fear": 0.53,
+            "respect": 0.4,
+            "resentment": 0.38,
+            "emotional_safety": 0.5,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.51,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.56,
+            "commitment": 0.8,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 37,
+      "phase": 7,
+      "scene_in_phase": 3,
+      "title": "His Own Page",
+      "pov": "A",
+      "day": 30,
+      "location": "La Bilancia, shuttered, night",
+      "T_raw_dominant": 0.8236,
+      "lambda_t": 0.2143,
+      "T_scene": 0.78,
+      "T_dominant": 0.8379,
+      "T_bleed": 0.6448,
+      "S_causal": 0.0694,
+      "T_causal": 0.1479,
+      "kappa_t": 0.4,
+      "T_eff": 0.793,
+      "band": "climax",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "tender",
+      "target_T": 0.78,
+      "achieved_T": 0.78,
+      "pool": [
+        "s37-plan",
+        "s37-alt1",
+        "s37-alt2",
+        "s37-alt3",
+        "s37-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s37-alt1",
+        "s37-plan"
+      ],
+      "move": {
+        "id": "s37-plan",
+        "family": "bargain_trade",
+        "actor": "A",
+        "target": "D",
+        "motif": "his own page, turned toward him",
+        "scene_shape": "secret-leverage",
+        "intended_delta": "she prices the enforcer with his own line items",
+        "linked_CEs": [
+          "CE-01"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 7,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.54,
+            "affection": 0.46,
+            "fear": 0.53,
+            "respect": 0.4,
+            "resentment": 0.38,
+            "emotional_safety": 0.5,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "flat",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.51,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.76,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.56,
+            "commitment": 0.8,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Open",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 38,
+      "phase": 7,
+      "scene_in_phase": 4,
+      "title": "Disposition",
+      "pov": "A",
+      "day": 31,
+      "location": "US Attorney proffer room",
+      "T_raw_dominant": 0.8186,
+      "lambda_t": 0.2335,
+      "T_scene": 0.76,
+      "T_dominant": 0.8346,
+      "T_bleed": 0.586,
+      "S_causal": 0.0732,
+      "T_causal": 0.1547,
+      "kappa_t": 0.4,
+      "T_eff": 0.7748,
+      "band": "climax",
+      "register_tag_AB": "flat",
+      "register_tag_BA": "tender",
+      "target_T": 0.76,
+      "achieved_T": 0.76,
+      "pool": [
+        "s38-plan",
+        "s38-alt1",
+        "s38-alt2",
+        "s38-alt3",
+        "s38-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s38-alt1",
+        "s38-plan"
+      ],
+      "move": {
+        "id": "s38-plan",
+        "family": "release_transform",
+        "actor": "A",
+        "target": "B",
+        "motif": "the ledger on the table",
+        "scene_shape": "proffer",
+        "intended_delta": "the ledger's disposition resolves on the page",
+        "linked_CEs": [
+          "CE-01",
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "climax",
+      "ce_events": {
+        "closed": [
+          "CE-01"
+        ],
+        "misfired": []
+      },
+      "phase_after": 7,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.64,
+            "affection": 0.46,
+            "fear": 0.53,
+            "respect": 0.4,
+            "resentment": 0.23,
+            "emotional_safety": 0.5,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "fond",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.59,
+            "affection": 0.34,
+            "fear": 0.05,
+            "respect": 0.83,
+            "resentment": 0.06,
+            "emotional_safety": 0.34,
+            "vulnerability": 0.56,
+            "commitment": 0.8,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Closed",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 39,
+      "phase": 7,
+      "scene_in_phase": 5,
+      "title": "Ice Out II",
+      "pov": "B",
+      "day": 31,
+      "location": "Riverwalk, dusk",
+      "T_raw_dominant": 0.7512,
+      "lambda_t": 0.2309,
+      "T_scene": 0.7,
+      "T_dominant": 0.7745,
+      "T_bleed": 0.5261,
+      "S_causal": 0.0219,
+      "T_causal": 0.0519,
+      "kappa_t": 0.4,
+      "T_eff": 0.7062,
+      "band": "first_crisis",
+      "register_tag_AB": "fond",
+      "register_tag_BA": "tender",
+      "target_T": 0.7,
+      "achieved_T": 0.7,
+      "pool": [
+        "s39-plan",
+        "s39-alt1",
+        "s39-alt2",
+        "s39-alt3",
+        "s39-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s39-alt1",
+        "s39-plan"
+      ],
+      "move": {
+        "id": "s39-plan",
+        "family": "release_transform",
+        "actor": "B",
+        "target": "A",
+        "motif": "river running clear",
+        "scene_shape": "reckoning",
+        "intended_delta": "one honest number; the reversal completes",
+        "linked_CEs": [
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "first_crisis",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 8,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.64,
+            "affection": 0.54,
+            "fear": 0.43,
+            "respect": 0.4,
+            "resentment": 0.08,
+            "emotional_safety": 0.58,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.59,
+            "affection": 0.41,
+            "fear": 0.05,
+            "respect": 0.83,
+            "resentment": 0.06,
+            "emotional_safety": 0.41,
+            "vulnerability": 0.56,
+            "commitment": 0.8,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Closed",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Open",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 40,
+      "phase": 8,
+      "scene_in_phase": 1,
+      "title": "Owed to No One",
+      "pov": "A",
+      "day": 31,
+      "location": "MCC Chicago, release door, morning",
+      "T_raw_dominant": 0.4253,
+      "lambda_t": 0.2289,
+      "T_scene": 0.38,
+      "T_dominant": 0.4555,
+      "T_bleed": 0.2039,
+      "S_causal": 0.0159,
+      "T_causal": 0.0383,
+      "kappa_t": 0.4,
+      "T_eff": 0.3895,
+      "band": "complication",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.38,
+      "achieved_T": 0.38,
+      "pool": [
+        "s40-plan",
+        "s40-alt1",
+        "s40-alt2",
+        "s40-alt3",
+        "s40-alt4"
+      ],
+      "blocking_gate": "G2",
+      "anchored": [
+        "s40-alt1",
+        "s40-plan"
+      ],
+      "move": {
+        "id": "s40-plan",
+        "family": "release_transform",
+        "actor": "A",
+        "target": "C",
+        "motif": "the promise, kept verbatim",
+        "scene_shape": "promise-payoff",
+        "intended_delta": "Danny walks; the promise is quoted and closed",
+        "linked_CEs": [
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "complication",
+      "ce_events": {
+        "closed": [
+          "CE-04"
+        ],
+        "misfired": []
+      },
+      "phase_after": 8,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.7,
+            "affection": 0.6,
+            "fear": 0.43,
+            "respect": 0.4,
+            "resentment": 0.0,
+            "emotional_safety": 0.58,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.59,
+            "affection": 0.47,
+            "fear": 0.05,
+            "respect": 0.83,
+            "resentment": 0.06,
+            "emotional_safety": 0.41,
+            "vulnerability": 0.56,
+            "commitment": 0.8,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Closed",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Closed",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 41,
+      "phase": 8,
+      "scene_in_phase": 2,
+      "title": "Findings",
+      "pov": "B",
+      "day": 31,
+      "location": "OPR hearing room, midday",
+      "T_raw_dominant": 0.3834,
+      "lambda_t": 0.2282,
+      "T_scene": 0.34,
+      "T_dominant": 0.4158,
+      "T_bleed": 0.1633,
+      "S_causal": 0,
+      "T_causal": 0.0,
+      "kappa_t": 0.1,
+      "T_eff": 0.34,
+      "band": "establishment",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.34,
+      "achieved_T": 0.34,
+      "pool": [
+        "s41-plan",
+        "s41-alt1",
+        "s41-alt2",
+        "s41-alt3",
+        "s41-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s41-alt1",
+        "s41-plan"
+      ],
+      "move": {
+        "id": "s41-plan",
+        "family": "deflect_withhold",
+        "actor": "B",
+        "target": "A",
+        "motif": "the letter of reprimand",
+        "scene_shape": "findings",
+        "intended_delta": "he takes the letter and keeps the judgment",
+        "linked_CEs": [
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "establishment",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 8,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.7,
+            "affection": 0.6,
+            "fear": 0.43,
+            "respect": 0.4,
+            "resentment": 0.0,
+            "emotional_safety": 0.58,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.59,
+            "affection": 0.47,
+            "fear": 0.05,
+            "respect": 0.83,
+            "resentment": 0.06,
+            "emotional_safety": 0.41,
+            "vulnerability": 0.62,
+            "commitment": 0.87,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Closed",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Closed",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 42,
+      "phase": 8,
+      "scene_in_phase": 3,
+      "title": "Ask Me Again",
+      "pov": "A",
+      "day": 31,
+      "location": "Riverwalk, late afternoon",
+      "T_raw_dominant": 0.345,
+      "lambda_t": 0.2287,
+      "T_scene": 0.3,
+      "T_dominant": 0.376,
+      "T_bleed": 0.1226,
+      "S_causal": 0,
+      "T_causal": 0.0,
+      "kappa_t": 0.1,
+      "T_eff": 0.3,
+      "band": "establishment",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.3,
+      "achieved_T": 0.3,
+      "pool": [
+        "s42-plan",
+        "s42-alt1",
+        "s42-alt2",
+        "s42-alt3",
+        "s42-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s42-alt1",
+        "s42-plan"
+      ],
+      "move": {
+        "id": "s42-plan",
+        "family": "negotiate_consent",
+        "actor": "A",
+        "target": "B",
+        "motif": "the same railing, new terms",
+        "scene_shape": "consent-regrant",
+        "intended_delta": "she reopens the account on new terms",
+        "linked_CEs": [
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": {
+          "kind": "offer",
+          "act_class": "C2"
+        }
+      },
+      "band_at_draft": "establishment",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 8,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.78,
+            "affection": 0.7,
+            "fear": 0.31,
+            "respect": 0.4,
+            "resentment": 0.0,
+            "emotional_safety": 0.68,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/any"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.65,
+            "affection": 0.55,
+            "fear": 0.05,
+            "respect": 0.83,
+            "resentment": 0.06,
+            "emotional_safety": 0.49,
+            "vulnerability": 0.62,
+            "commitment": 0.87,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/any"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Closed",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Closed",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 43,
+      "phase": 8,
+      "scene_in_phase": 4,
+      "title": "Kitchen Accounts",
+      "pov": "A",
+      "day": 31,
+      "location": "La Bilancia kitchen, evening",
+      "T_raw_dominant": 0.3215,
+      "lambda_t": 0.2275,
+      "T_scene": 0.28,
+      "T_dominant": 0.3562,
+      "T_bleed": 0.1022,
+      "S_causal": 0,
+      "T_causal": 0.0,
+      "kappa_t": 0.1,
+      "T_eff": 0.28,
+      "band": "establishment",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.28,
+      "achieved_T": 0.28,
+      "pool": [
+        "s43-plan",
+        "s43-alt1",
+        "s43-alt2",
+        "s43-alt3",
+        "s43-alt4"
+      ],
+      "blocking_gate": "G5",
+      "anchored": [
+        "s43-alt1",
+        "s43-plan"
+      ],
+      "move": {
+        "id": "s43-plan",
+        "family": "release_transform",
+        "actor": "C",
+        "target": "A",
+        "motif": "two aprons",
+        "scene_shape": "repair",
+        "intended_delta": "Lucia's amends; the repair ledger opens",
+        "linked_CEs": [
+          "CE-04"
+        ],
+        "contact": null,
+        "consent_action": null
+      },
+      "band_at_draft": "establishment",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 8,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.51,
+            "attraction_sexual": 1.0,
+            "trust": 0.78,
+            "affection": 0.74,
+            "fear": 0.31,
+            "respect": 0.4,
+            "resentment": 0.0,
+            "emotional_safety": 0.68,
+            "vulnerability": 0.47,
+            "commitment": 0.4,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/any"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.67,
+            "attraction_sexual": 0.98,
+            "trust": 0.65,
+            "affection": 0.55,
+            "fear": 0.05,
+            "respect": 0.83,
+            "resentment": 0.06,
+            "emotional_safety": 0.49,
+            "vulnerability": 0.62,
+            "commitment": 0.87,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/any"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Closed",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Closed",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 44,
+      "phase": 8,
+      "scene_in_phase": 5,
+      "title": "Clean Exit",
+      "pov": "A",
+      "day": 31,
+      "location": "Empty storefront on the river, night",
+      "T_raw_dominant": 0.2815,
+      "lambda_t": 0.2135,
+      "T_scene": 0.25,
+      "T_dominant": 0.3135,
+      "T_bleed": 0.1019,
+      "S_causal": 0,
+      "T_causal": 0.0,
+      "kappa_t": 0.1,
+      "T_eff": 0.25,
+      "band": "establishment",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.25,
+      "achieved_T": 0.25,
+      "pool": [
+        "s44-plan",
+        "s44-alt1",
+        "s44-alt2",
+        "s44-alt3",
+        "s44-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s44-alt1",
+        "s44-plan"
+      ],
+      "move": {
+        "id": "s44-plan",
+        "family": "release_transform",
+        "actor": "A",
+        "target": "B",
+        "motif": "her name on a lease",
+        "scene_shape": "hea",
+        "intended_delta": "the title recontextualized; the HEA lands",
+        "linked_CEs": [
+          "CE-04"
+        ],
+        "contact": {
+          "class": "C2",
+          "setting": "private"
+        },
+        "consent_action": null
+      },
+      "band_at_draft": "establishment",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 8,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 1.0,
+            "trust": 0.78,
+            "affection": 0.84,
+            "fear": 0.21,
+            "respect": 0.4,
+            "resentment": 0.0,
+            "emotional_safety": 0.68,
+            "vulnerability": 0.47,
+            "commitment": 0.52,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/any"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.73,
+            "attraction_sexual": 0.98,
+            "trust": 0.65,
+            "affection": 0.63,
+            "fear": 0.05,
+            "respect": 0.83,
+            "resentment": 0.06,
+            "emotional_safety": 0.49,
+            "vulnerability": 0.62,
+            "commitment": 0.99,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/any"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Closed",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Closed",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    },
+    {
+      "scene": 45,
+      "phase": 8,
+      "scene_in_phase": 6,
+      "title": "Epilogue: Thaw",
+      "pov": "A",
+      "day": 0,
+      "location": "The new place, mid-May",
+      "T_raw_dominant": 0.1901,
+      "lambda_t": 0.1815,
+      "T_scene": 0.18,
+      "T_dominant": 0.2136,
+      "T_bleed": 0.1016,
+      "S_causal": 0,
+      "T_causal": 0.0,
+      "kappa_t": 0.1,
+      "T_eff": 0.18,
+      "band": "establishment",
+      "register_tag_AB": "tender",
+      "register_tag_BA": "tender",
+      "target_T": 0.18,
+      "achieved_T": 0.18,
+      "pool": [
+        "s45-plan",
+        "s45-alt1",
+        "s45-alt2",
+        "s45-alt3",
+        "s45-alt4"
+      ],
+      "blocking_gate": null,
+      "anchored": [
+        "s45-alt1",
+        "s45-plan"
+      ],
+      "move": {
+        "id": "s45-plan",
+        "family": "release_transform",
+        "actor": "A",
+        "target": "B",
+        "motif": "river running clear",
+        "scene_shape": "epilogue",
+        "intended_delta": "spring; the books balance",
+        "linked_CEs": [],
+        "contact": {
+          "class": "C2",
+          "setting": "private"
+        },
+        "consent_action": null
+      },
+      "band_at_draft": "establishment",
+      "ce_events": {
+        "closed": [],
+        "misfired": []
+      },
+      "phase_after": 8,
+      "edges": {
+        "A->B": {
+          "values": {
+            "attraction_romantic": 0.59,
+            "attraction_sexual": 1.0,
+            "trust": 0.78,
+            "affection": 0.84,
+            "fear": 0.21,
+            "respect": 0.4,
+            "resentment": 0.0,
+            "emotional_safety": 0.68,
+            "vulnerability": 0.47,
+            "commitment": 0.57,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/any"
+          ],
+          "moral_repair": 0.0
+        },
+        "B->A": {
+          "values": {
+            "attraction_romantic": 0.73,
+            "attraction_sexual": 0.98,
+            "trust": 0.65,
+            "affection": 0.63,
+            "fear": 0.05,
+            "respect": 0.83,
+            "resentment": 0.06,
+            "emotional_safety": 0.49,
+            "vulnerability": 0.62,
+            "commitment": 1.0,
+            "dominance": 0.1,
+            "perceived_reciprocity": 0.1
+          },
+          "register_tag": "tender",
+          "grants": [
+            "C2/any"
+          ],
+          "moral_repair": 0.0
+        }
+      },
+      "cer": [
+        {
+          "id": "CE-01",
+          "status": "Closed",
+          "w": 1.0,
+          "u": 1.0
+        },
+        {
+          "id": "CE-02",
+          "status": "Closed",
+          "w": 0.75,
+          "u": 1.0
+        },
+        {
+          "id": "CE-03",
+          "status": "Closed",
+          "w": 0.5,
+          "u": 1.0
+        },
+        {
+          "id": "CE-04",
+          "status": "Closed",
+          "w": 0.35,
+          "u": 1.0
+        }
+      ]
+    }
+  ]
+}

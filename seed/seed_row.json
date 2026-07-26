@@ -1,0 +1,398 @@
+{
+  "Seed_ID": "01KYDG7NWVMNN9C7DTKZ76F54Q",
+  "Release_Date": "2026-08-01",
+  "Distribution_Posture": "",
+  "Pseudonym": "Sable Voss",
+  "Series_Name": "Moretti Family",
+  "Title": "Clean Exit",
+  "Subgenre": "Mafia/Dark",
+  "Heat_Level": 4,
+  "Ending_Type": "HEA",
+  "Premise_Logline": "The family's bookkeeper holds the one ledger that can free her brother or bury him — and the investigator closing the case is the only man she cannot afford to trust.",
+  "A_Plot": "A works her exit from the family's operation using the ledger as leverage while B's task-force case closes around it.",
+  "B_Plot": "D stages a threat against A's brother to force her silence; C's called-in passage debt turns A's only confidant into the family's leverage.",
+  "Mandatory_Set_Pieces_with_Phase": [
+    {
+      "beat": "on-the-record interview: B questions A at the restaurant",
+      "phase": 0
+    },
+    {
+      "beat": "D stages the threat against A's brother",
+      "phase": 2
+    },
+    {
+      "beat": "consent negotiation before first C3 contact",
+      "phase": 5
+    },
+    {
+      "beat": "family dinner confrontation over the ledger",
+      "phase": 5
+    },
+    {
+      "beat": "the ledger's disposition resolves on the page",
+      "phase": 7
+    }
+  ],
+  "Central_Tropes": [
+    "enemies_to_lovers",
+    "forbidden_romance",
+    "morally_gray_love_interest",
+    "touch_her_and_die",
+    "secret_leverage"
+  ],
+  "Trope_Payoff_Schedule": [
+    {
+      "trope": "enemies_to_lovers",
+      "arm_phase": 0,
+      "window": [
+        5,
+        7
+      ]
+    },
+    {
+      "trope": "forbidden_romance",
+      "arm_phase": 1,
+      "window": [
+        3,
+        6
+      ]
+    },
+    {
+      "trope": "touch_her_and_die",
+      "arm_phase": 2,
+      "window": [
+        5,
+        7
+      ]
+    },
+    {
+      "trope": "morally_gray_love_interest",
+      "arm_phase": 1,
+      "window": [
+        6,
+        8
+      ]
+    },
+    {
+      "trope": "secret_leverage",
+      "arm_phase": 0,
+      "window": [
+        6,
+        8
+      ]
+    }
+  ],
+  "Antagonistic_Force": {
+    "name": "D",
+    "kind": "person",
+    "descriptor": "family enforcer tasked with forcing A's silence"
+  },
+  "Allies_Confidants": [
+    {
+      "name": "C",
+      "kind": "person",
+      "descriptor": "A's confidant; owes the family a passage debt"
+    }
+  ],
+  "Dominant_Pair": [
+    "A",
+    "B"
+  ],
+  "Initial_CER_Seed": [
+    {
+      "id": "CE-01",
+      "type": "Secret",
+      "w": 0.9,
+      "u": 0.2,
+      "deadline": {
+        "phase": 6
+      }
+    },
+    {
+      "id": "CE-02",
+      "type": "Threat",
+      "w": 0.75,
+      "u": 0.15,
+      "deadline": {
+        "phase": 5
+      }
+    },
+    {
+      "id": "CE-03",
+      "type": "Obligation",
+      "w": 0.5,
+      "u": 0.1,
+      "deadline": {
+        "phase": 6
+      }
+    },
+    {
+      "id": "CE-04",
+      "type": "Promise",
+      "w": 0.35,
+      "u": 0.1,
+      "deadline": {
+        "phase": 7
+      }
+    }
+  ],
+  "Arc_Profile_ID": "Mafia/Dark",
+  "Initial_Relationship_State": [
+    {
+      "from": "A",
+      "to": "B",
+      "attraction_sexual": 0.6,
+      "attraction_romantic": 0.2,
+      "trust": 0.1,
+      "resentment": 0.55,
+      "respect": 0.4,
+      "fear": 0.35
+    },
+    {
+      "from": "B",
+      "to": "A",
+      "attraction_sexual": 0.55,
+      "attraction_romantic": 0.3,
+      "trust": 0.2,
+      "resentment": 0.3,
+      "respect": 0.5,
+      "fear": 0.05
+    }
+  ],
+  "Operational_Clock": {
+    "story_days": 31,
+    "calendar_anchor": "2026-02-02"
+  },
+  "Continuity_Constraints": [
+    "A's brother is in pretrial custody for the entire story clock",
+    "the ledger exists as a single physical original; any copy is an on-page event, never assumed",
+    "B's task force operates under an active warrant from scene 1",
+    "A and D never meet without at least one witness until Phase 5"
+  ],
+  "VK_Kernel_ID": "VK-EN-MD-01",
+  "POV": "third_limited_dual",
+  "Tense": "past",
+  "Narrative_Distance": "close",
+  "Register": "controlled_dark",
+  "Sentence_Rhythm_Targets": {
+    "avg_clause_len": 8,
+    "fragment_tolerance": 0.5,
+    "run_on_tolerance": 0.1,
+    "punctuation_habits": "terse periods; sparse em dash; no semicolons in dialogue"
+  },
+  "Signature_Moves": [
+    "accounting language surfacing under emotional load",
+    "silences held one beat past comfort",
+    "exits named before they are used"
+  ],
+  "Taboo_List_and_Sensitive_Notes": {
+    "hard_no": [
+      "sexual content involving minors",
+      "non-consensual sexual content on-page",
+      "sexual coercion as a route to intimacy between the leads",
+      "graphic torture on-page"
+    ],
+    "handled_off_page": [
+      "family violence history",
+      "details of the brother's alleged offense"
+    ],
+    "notes": "All intimacy is consent-gated by the 4.5 architecture; coercion pressure runs through D and the case, never between the leads as a path to contact."
+  },
+  "Brand_Lexicon": {
+    "banned": [
+      "orbs",
+      "smirked",
+      "chuckled darkly",
+      "little one",
+      "suddenly"
+    ],
+    "preferred": [
+      "ledger",
+      "ink",
+      "frost",
+      "iron",
+      "smoke"
+    ]
+  },
+  "Redundancy_Rules": {
+    "surface_block_tighten": {
+      "Ph5": 3,
+      "Ph6": 3
+    },
+    "note": "tightens the Ph5-6 default window of 2; windows may tighten, never loosen"
+  },
+  "Platform_Hook_Profile": {
+    "chapter_end_threshold": 0.65,
+    "alternate_intensity": true
+  },
+  "Tu_Usted_Profile": "",
+  "Voce_Senhor_Profile": "",
+  "Tension_Engine": "leverage_and_exposure",
+  "Series_Potential": "open",
+  "Hook_Line": "She keeps the family's books. He's building the case that burns them. Only one of them walks away clean.",
+  "Keywords_01": "dark mafia romance",
+  "Keywords_02": "enemies to lovers romance",
+  "Keywords_03": "morally gray hero",
+  "Keywords_04": "forbidden love organized crime",
+  "Keywords_05": "protective hero dark romance",
+  "Keywords_06": "steamy romantic suspense",
+  "Keywords_07": "slow burn crime family romance",
+  "Keywords_08": "mafia romance",
+  "Keywords_09": "dark romance",
+  "Keywords_10": "enemies to lovers",
+  "Keywords_11": "organized crime romance",
+  "Keywords_12": "steamy dark romance",
+  "Keywords_13": "romantic suspense",
+  "Keywords_14": "dark mafia romance books",
+  "Keywords_15": "enemies to lovers dark romance",
+  "Blurb_Draft": "I keep the family's books. Every debt, every favor, every quiet correction — priced in my handwriting. The ledger I hide could clear my brother or convict him, depending on who reads it first, and I planned to be gone before anyone did. Then the task force sent him: an investigator with a dead partner behind him and a warrant in front of him, asking questions like he already owns the answers. He's supposed to dismantle everything I've balanced. I'm supposed to be the thread he pulls. The family gave me one order: stay quiet. His people gave him one case: close it. Neither of us was issued instructions for this.",
+  "Comparable_Titles": [
+    "Danielle Lori - The Sweetest Oblivion",
+    "Ana Huang - King of Wrath",
+    "Penelope Douglas - Corrupt"
+  ],
+  "Launch_Price_Tier": "USD_4_99",
+  "Promo_Platform_Compatibility": {
+    "amazon_ads": true,
+    "meta_ads": true,
+    "bookbub_ads": true,
+    "newsletter_promos": true
+  },
+  "Time_Period": "contemporary",
+  "Decade": "2020s",
+  "City_Or_Region": "Chicago",
+  "Country": "USA",
+  "Environment": "urban",
+  "Season": "late_winter",
+  "Climate": "humid_continental",
+  "Cultural_Tone": "organized_crime_noir",
+  "Terrain_Type": "dense_urban",
+  "Travel_Access": "road_rail_air",
+  "Historical_Accuracy_Level": "contemporary_realistic",
+  "Locale_Signature": [
+    "river ice breaking under the Kinzie Street rail bridge",
+    "a green banker's lamp over ruled paper in the restaurant's back office"
+  ],
+  "Pairing_Type": "MF",
+  "Dynamic": "enemies_to_lovers",
+  "Chemistry_Tone": "guarded_combustible",
+  "Meet_Cute": "on_the_record_interview",
+  "First_Kiss_Phase": 5,
+  "First_Intimacy_Phase": 6,
+  "Breakup_Beat": "betrayal_reveal",
+  "Reunion_Mode": "costly_proof",
+  "Gender_A": "female",
+  "Age_A": 29,
+  "Archetype_A": "reluctant_insider",
+  "Occupation_Primary_A": "bookkeeper for the family's front businesses",
+  "Occupation_Secondary_A": "restaurant floor manager",
+  "Goal_External_A": "exit the family's operation clean",
+  "Goal_Internal_A": "a life that is hers to keep, unpriced and unowed",
+  "Wound_A": "complicity debt: her bookkeeping put her brother within reach of conviction",
+  "Flaw_A": "preemptive withdrawal: she leaves people before they can be taken from her",
+  "Secret_A": "holds the ledger that convicts her brother",
+  "Backstory_A": "Raised inside the family's restaurant business; took over the books at twenty-two when her father's hands failed; has balanced its accounts, and its silences, ever since.",
+  "Physical_Description_A": "Dark hair pinned for work; ink-stained fingers; a stillness that reads as calm until it reads as warning.",
+  "Voice_Verbal_Tic_A": "answers dangerous questions with smaller questions",
+  "Body_Language_Default_A": "goes still; lays both hands flat on the nearest surface",
+  "Growth_Arc_A": "self_forgiveness",
+  "Fear_Profile_A": "exposure of the ledger; her brother sentenced; being the one left behind",
+  "Love_Language_A": "acts_of_service",
+  "Attachment_Style_A": "dismissive_avoidant",
+  "Gender_B": "male",
+  "Age_B": 36,
+  "Archetype_B": "principled_investigator",
+  "Occupation_Primary_B": "federal investigator, organized-crime task force",
+  "Occupation_Secondary_B": "none",
+  "Goal_External_B": "close the case without burning A",
+  "Goal_Internal_B": "keep one person out of the wreckage this time",
+  "Wound_B": "betrayed partnership: the partner he trusted sold their last case and a witness died for it",
+  "Flaw_B": "procedural armour: hides behind protocol so he never has to trust his own judgment of people",
+  "Secret_B": "the investigation already touches A's ledger",
+  "Backstory_B": "Second-generation law enforcement; his last major case collapsed when his partner sold it; he requested the family's file himself.",
+  "Physical_Description_B": "Broad and deliberate; a suit worn like procedure.",
+  "Voice_Verbal_Tic_B": "cites the regulation instead of the reason",
+  "Body_Language_Default_B": "watches hands before faces; squares to doorways",
+  "Growth_Arc_B": "judgment_over_procedure",
+  "Fear_Profile_B": "repeating the betrayal; getting a source killed",
+  "Love_Language_B": "quality_time",
+  "Attachment_Style_B": "fearful_avoidant",
+  "Inciting_Incident_Type": "investigation_contact",
+  "Subplot_A": "C's passage debt is called in, turning A's only confidant into the family's leverage",
+  "Subplot_B": "the brother's pretrial clock sets every party's deadline",
+  "Midpoint_Type": "uneasy_alliance",
+  "Black_Moment_Type": "betrayal_exposed",
+  "Climax_Mode": "confrontation_and_sacrifice",
+  "Resolution_Mode": "earned_exit",
+  "Save_The_Cat_Beat": "shields_a_subordinate",
+  "All_Is_Lost_Beat": "warrant_executed",
+  "Finale_Type": "dual_confrontation",
+  "Epilogue_Included": true,
+  "Pacing_Style": "escalating_pressure",
+  "Scene_Density": "standard",
+  "Dialogue_Ratio": 6,
+  "Comedy": 1,
+  "Darkness": 8,
+  "Suspense": 8,
+  "Cussing": 6,
+  "Violence": 6,
+  "Interiority_Ratio": 6,
+  "Lyricality": 4,
+  "Humor_Type": "gallows",
+  "Burn_Rate": "slow_burn",
+  "Book_Number": 1,
+  "Title_Slug": "",
+  "Title_Style": "iconic_phrase",
+  "Cover_Cue_Main": "suited male figure from behind, half in shadow, city river at night",
+  "Cover_Cue_Background": "frozen river and bridge lights, falling snow",
+  "Cover_Color_Mood": "black_crimson",
+  "Cover_Type": "photographic_moody",
+  "Cover_Dimensions": {
+    "KDP": {
+      "width_px": 1600,
+      "height_px": 2560
+    }
+  },
+  "Back_Cover_Copy": "Every debt in the family's ledger is priced in her handwriting. The investigator sent to collect has one case to close, one vow to keep - and no line item for her.",
+  "Dedication_Line": "For everyone who kept the books, kept the peace, and finally stopped.",
+  "Content_Warnings_Public": [
+    "organized crime and gun violence",
+    "explicit sexual content",
+    "threats and coercion by third parties",
+    "incarceration of a sibling"
+  ],
+  "ISBN_Print": "unassigned",
+  "ISBN_Ebook": "unassigned",
+  "Binding_Type": "ebook",
+  "Pre_Order_Duration": 0,
+  "Publishing_Channels": "",
+  "File_ID": "F-CLEAN-EXIT-B01",
+  "Template_Version": "5.0",
+  "Cover_Preset_ID": "COV-MD-01",
+  "Blurb_Preset_ID": "BLB-MD-01",
+  "Outline_Preset_ID": "OUT-MD-01",
+  "Agent_Profile": "path_a_day_one",
+  "QA_Flags": [],
+  "Sensitivity_Flags": [
+    "dark_content_review"
+  ],
+  "Revision_Pattern": "standard_three_pass",
+  "VK_Kernel_Override": "",
+  "Model_Binding_ID": "nemotron3u-nvfp4-trtllm",
+  "Serving_Profile_ID": "profile_bundle_default",
+  "Generation_Date": "2026-07-25",
+  "Word_Count_Target": 80000,
+  "Word_Count_Actual": 0,
+  "Editor_Pass_Count": 1,
+  "Human_Contribution_Log_Ref": "HCL-CLEAN-EXIT-B01",
+  "Cache_Profile_ID": "CACHE-VK-EN-MD-01-MORETTI",
+  "Launch_Date": "",
+  "First_Week_Sales": "",
+  "First_30Day_Sales": "",
+  "Completion_Rate": "",
+  "Dropoff_Pattern_Summary": "",
+  "Review_Sentiment_Score": "",
+  "Average_Rating": "",
+  "Pre_Order_Count": "",
+  "KU_Page_Reads_Cumulative": ""
+}
