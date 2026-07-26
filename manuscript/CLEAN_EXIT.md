@@ -2614,6 +2614,65 @@ long love of the thing about to be ruined.
 
 ·
 
+She delivered the first one eleven days later, in a parked car
+outside a laundromat on Grand, because Nico had said *nothing
+written* and a woman who has spent her life in kitchens
+understands that the medium is the message.
+
+"She works late," Lucia said, to the windshield. "Tuesdays the
+produce comes at six. She's in the office until one most nights.
+She takes the back stair up. That's all."
+
+"Who visits."
+
+"Suppliers. The wine rep. Her brother's lawyer once — the fat
+one, Abruzzo, he ate the whole bread basket."
+
+Nico let a silence go by, which Lucia had known he would, and
+which she had spent three days preparing for. In a kitchen a
+silence means the sauce needs another minute. In a car outside a
+laundromat it means: *I know there is more, and I am giving you
+the opportunity to say it before I find it another way, because
+finding it another way costs you the discount.*
+
+"That's the week," Lucia said.
+
+"Luciana."
+
+"That's the week, Nico."
+
+He looked at her — not unkindly; that was the horror of him, it
+had never once been unkind — and put the car in gear.
+
+"Next Thursday," he said. "And Luciana. A report that says *she
+works* every week is not a report. It's an alibi. I'd hate for
+Sal to think you needed one."
+
+She went home and sat in her kitchen with her coat still on
+until eleven o'clock at night, and understood the exact
+architecture of the thing she had entered: she could not give
+him nothing forever. Nothing forever was itself information.
+The only survivable strategy was to give him something true and
+small, every week, forever, and to spend the rest of her life
+choosing which true small thing.
+
+She had done harder work. She had run a line for twenty years.
+Portioning was the whole art.
+
+So she began, that night, to build a menu. What Elena's schedule
+contained that could be plated without harm. What could never
+leave the kitchen. What could be given in a form that satisfied
+the appetite and starved the intent — *a government car* rather
+than *the same government car*; *she works late* rather than *she
+works late with someone*.
+
+It worked for six weeks. It would have gone on working, she
+thought afterward, for years, if a woman in a restaurant had not
+laughed out loud at a federal officer's joke on a snowbound
+Tuesday in front of eleven witnesses and one friend.
+
+·
+
 They got caught on Green Street, which was nobody's fault and
 therefore, in this business, everybody's.
 
@@ -2750,6 +2809,51 @@ they were fluent in the same language, and the doorway
 stayed warm after they left it, and nothing broke except
 the last pretense either of them kept with themselves.
 
+The video did its work over the weekend, exactly as she had
+priced it.
+
+Sonny sent it to Nico Saturday night. Nico showed it to Sal on
+Sunday afternoon, on his phone, at the long table, before the
+soup — Elena heard the whole audio track from four seats away,
+her own voice, tinny and furious, threatening a federal officer
+with a lawyer she had no intention of calling.
+
+The table loved it. Angelo made her play it twice. Philomena
+wanted to know what she'd said in Italian and then laughed so
+hard she had to put down the brass cracker.
+
+"Steel and lace," Sal said, delighted, and patted her hand, and
+sent a case of Barolo to the restaurant on Tuesday with a note
+in his own hand: *for the niece who bites.*
+
+Elena put the case in the cellar and did not open it.
+
+That was the week she understood what she had actually done on
+Green Street, and it was not what she had told herself at the
+time.
+
+She had not protected an investigation, or a source, or even
+herself. She had built, in ninety seconds, under pressure, with
+a phone camera running, a *cover story for a relationship* —
+and she had built it well, the way she built everything, and the
+family had accepted it, and the acceptance meant she now had
+room to move.
+
+Which meant she had made room. Deliberately. In advance. For a
+thing she had not yet admitted she intended to do.
+
+She sat with that for a long time in the office one night, with
+the lamp on and the day sheet unfinished in front of her.
+
+Her father's second line. One for the money, one for the truth.
+She had not written a second line since he died — had not
+believed she was entitled to one — and she picked up the pen
+that night and held it over the page for a while.
+
+Then she put it down and turned off the lamp.
+
+Not yet. But close enough to frighten her.
+
 He wrote no notes that night. There was no section for
 it, and he had stopped inventing subparts.
 
@@ -2837,9 +2941,41 @@ book nobody could subpoena: *I am not leaving, and Danny is
 the reason I can say out loud, and the reason I cannot is
 walking around Dearborn Street with my sevens memorized.*
 
-"Just looking today?" the ticket agent said, when the line
-she never joined delivered her by inertia to the counter
-anyway — a small kindness of crowds, or her feet, unaudited.
+She had a whole liturgy for the great hall, assembled over six
+years of reconnaissance visits, and she performed it now for the
+last time without knowing it was the last.
+
+The bench by the west arch, where you could see the board and
+both ramps. The four minutes she allowed herself to price the
+crowd — who was traveling light and why, which families were
+moving and which were visiting, the one man in every hall who was
+running from something and could be identified by his luggage
+being too new. She had once explained this game to Danny and he
+had been unnerved by it for a week.
+
+She had chosen Carbondale for reasons as carefully footed as any
+column. Far enough that no cousin drove it casually. Big enough
+for a woman to be nobody. A university, which meant a rental
+market with month-to-month leases and landlords who didn't ask.
+Two hundred and nine restaurants in the county, which meant
+books to keep, and a person who keeps books can eat anywhere on
+earth.
+
+She had even chosen the name. Not a fake one — you don't take a
+fake name, that's how people get caught, that's amateur. Her
+mother's maiden name, which was legally hers to use and which
+nobody in Chicago had said out loud since 2009: Elena Fiore.
+
+*Fiore.* She'd tried it on in the great hall twice, silently,
+the way you try a coat.
+
+She stood under the board and the departures clacked and she
+did not get in line, and after some period of time she could
+not account for, a voice said:
+
+"Just looking today?" — the agent at the counter the line she
+never joined had delivered her to anyway, by inertia, or by her
+feet, unaudited.
 
 "Pricing," Elena said, and went back to work.
 
@@ -3057,6 +3193,65 @@ coffee watching the street put itself back together,
 and Elena stood beside him, close enough that their
 sleeves conducted, and neither moved.
 
+Somewhere around ten the old Polish man produced a deck of cards
+and taught four strangers a game with no discernible rules, and
+the nurses started a tab they were not going to be allowed to
+pay, and the cellist — his name was Adam and he had been on his
+way to a wedding gig in Milwaukee — asked whether anyone would
+mind, and then played twenty minutes of Bach in a restaurant
+dining room with the snow coming down outside the window.
+
+Elena watched Cole listen to it.
+
+That was the entry she posted that night, later, when the
+building was quiet. Not the bread, not the laugh. The way a
+man who catalogued exits for a living sat perfectly still for
+twenty minutes with his eyes on the middle distance and his
+shoulders down off his ears, and at the end put his hand flat
+on the tablecloth once, quietly, instead of applauding — the
+way you acknowledge something you don't want to break with
+noise.
+
+"Sarabande," he said, when Adam had finished. "The fifth
+suite."
+
+"You know it?"
+
+"My mother played cello. Badly, and constantly, for
+thirty-one years." He turned the coffee cup a quarter-turn.
+"I haven't heard that piece in a room since her funeral. I've
+heard it in cars. It's different in a room."
+
+"Everything's different in a room," Elena said.
+
+He looked at her.
+
+"That's the whole thesis of my life's work, Investigator.
+Numbers on a page mean nothing. Numbers in a room mean
+somebody's about to do something."
+
+"And what are the numbers in this room?"
+
+She did the arithmetic honestly, because she always did, and
+because the storm had made honesty temporarily affordable.
+
+"Eleven strangers, two waiters, one chef who's watching us
+right now and pretending to plate. Forty-one covers we didn't
+serve because the street's gone. A federal officer inside a
+subject premises with no warrant, no notes, and no
+supervision." She set down her cup. "And one bookkeeper who
+should have gone upstairs an hour ago and hasn't."
+
+The candle did what candles do.
+
+"That's a good set of books," Cole said.
+
+"They're accurate."
+
+"That's what I said."
+
+·
+
 "I should go while it's passable," he said.
 
 "You should."
@@ -3083,6 +3278,64 @@ had been eight — and neither of them itemized which
 hour, because both had already filed it, in the books
 that mattered, under an account that had no name yet
 and was accruing anyway.
+
+He drove home at one-fifteen through a city reduced to two
+plowed lanes and a lot of white, and did the thing he had been
+declining to do since February.
+
+He priced it.
+
+Not the relationship — there wasn't one, there were eight hours
+in a snowstorm and a near-touch on a railing and two phone calls
+he shouldn't have made. He priced the *disclosure*. Because
+somewhere in the last three weeks a fact had come into his
+possession that she did not have, and its name was September
+fourteenth, and every hour he held it the debt got larger.
+
+The original case memo. *Target items: financial records
+maintained outside the corporate structure ("the old book"),
+believed in the custody of E. Moretti.* He had read that
+sentence eight months ago, before he had ever heard her voice,
+and had built a case around it, and had then sat at a white
+tablecloth and let a woman decide what to tell him about her
+paper without ever once telling her that her paper was the
+entire reason he was in the chair.
+
+He could argue it. He *had* argued it, to himself, with real
+craft: an agent does not disclose target items to a subject.
+There is no version of the manual in which he tells her. It
+would be a felony. It would compromise a grand jury
+investigation. It would, in the most literal sense, be exactly
+what Ray had done.
+
+All true. All of it true, every word, and none of it survived
+the only question that mattered, which she had taught him to
+ask, in her own grammar, at a diner counter:
+
+*What is the entry, and whose page does it go on?*
+
+The entry was: I know a thing about her life that she does not
+know, and I am using the space it creates.
+
+And the page it went on was hers.
+
+He parked. He sat in the cold car outside his own building for
+a while with the engine ticking.
+
+There would be, he told himself, a right moment. In daylight.
+When the shape of the case was clearer and he could say *here
+is what I've known, here is what it means for you, here is
+what I intend to do about it*, and give her something better
+than a confession — give her a plan.
+
+That was the thought that let him go upstairs and sleep.
+
+He would remember it, later, with the exactness of a man who
+has been handed a receipt: the moment he first told himself
+there would be a right moment. Everything that happened
+afterward was interest on that one deferral.
+
+·
 
 That night Lucia's report was one line shorter than
 the truth.
@@ -3232,7 +3485,55 @@ And still the column footed. She checked it twice.
 
 ·
 
-She picked the diner on Ohio Street because it was nobody's —
+She called Okafor on Sunday from a payphone at Clark and Grand.
+
+"You're the only client I have who uses payphones," Okafor said.
+"It's very charming and very 1997."
+
+"How much of the truth do you need before you can't represent
+me anymore?"
+
+A pause on the line. "Say that again in a way I'm allowed to
+answer."
+
+"Hypothetically."
+
+"Ms. Moretti, if I had a dollar for every hypothetical—"
+
+"If a person held documents that were evidence of a criminal
+enterprise," Elena said, "and that person had participated in
+the enterprise, in a limited but real way, and had been under
+the sort of pressure a court might recognize — what would that
+person be trading, and to whom, and what would she be able to
+get for it?"
+
+The silence this time was different in quality. When Okafor
+spoke again she had put something down and picked something
+else up.
+
+"Immunity, if you go first and go clean, and if the documents
+are as good as your voice says they are. Nothing, if they come
+to you first. Everything depends on which of those two
+sentences happens, and the difference between them is
+sometimes forty-eight hours." A pause. "Do you have a
+timeline?"
+
+"I have a family."
+
+"That's not a timeline, that's a clock." Papers, moving. "Get
+here Tuesday. Bring nothing. Not one page — I want to be able
+to say I've never seen it."
+
+She did not go Tuesday. She went to a diner Monday morning
+instead, and made a different deal, with a different man, on a
+napkin.
+
+She thought about that decision for the rest of her life, in
+both directions, and never fully settled it.
+
+·
+
+She picked the diner on Ohio Street because it was nobody'sShe picked the diner on Ohio Street because it was nobody's —
 vinyl booths gone amber at the seams, a pie case like a
 reliquary, coffee that tasted of the urn's whole biography,
 bus fumes at the door. The family would not eat here on a bet;
