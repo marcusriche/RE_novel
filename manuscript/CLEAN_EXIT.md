@@ -5606,7 +5606,90 @@ more dishes, and she turned around with her back against
 the counter and her heart going like a meter and
 renegotiated the whole account.
 
-"New terms," Elena said.
+They ate at her small table with the window open two inches
+because she had burned the rosemary, and for the first hour
+neither of them said anything that could have gone in a report.
+
+He asked about the lamp again — he had thought about it, she
+could tell, for weeks — and she told him the rest of it: that
+her father had bought it in 1996 from a dead lawyer's estate on
+Taylor Street for eleven dollars, and had carried it home on
+the bus, and had told her when she was six that a man should
+own one thing that makes a small piece of the world behave.
+
+"And the rest of the world?"
+
+"Doesn't," she said. "That's the joke. That's the whole
+teaching. You get a plate-sized circle and inside it you're
+honest, and you spend your life defending the perimeter."
+
+He turned his glass a quarter-turn.
+
+"That's not a joke," he said. "That's a job description. I've
+had the same one for nine years and I always thought the point
+was to make the circle bigger."
+
+"Does it get bigger?"
+
+"No," Cole said. "It moves."
+
+She laughed — once, quietly, into her wine — and then found
+herself telling him about her mother, which she had not done
+with anyone in a decade. Rosanna Fiore Moretti, who had married
+into this and had never once been fluent in it: a woman from a
+family of shopkeepers who had spent twenty-four years at that
+long table asking the wrong questions in the wrong pauses, and
+who had died in 2017 still not understanding why the
+conversation always went quiet when she came in with the bread.
+
+"She thought they were being polite to her," Elena said. "She
+told me once, near the end, that she thought everyone in the
+family was very *shy*."
+
+"And you never told her."
+
+"I was nineteen the first time I could have. I decided she was
+happier." She set the glass down. "That's the family disease.
+Everyone in it deciding, out of love, what everyone else can
+hold. My father did it to my mother. Sal did it to my father.
+I did it to Danny for fourteen months and I'm still doing it,
+and one day I'm going to have to sit across a table from my
+brother and hand him the true number and watch what it does to
+his face." She looked up. "That's what I'm afraid of. Not
+prison, not Nico. That."
+
+Cole was quiet for a moment.
+
+"For what it's worth," he said, "I don't think it's love."
+
+"No?"
+
+"I think it's the thing that comes in the same box as love and
+gets mistaken for it, and the tell is that it always turns out
+to have been convenient for whoever was doing the deciding."
+
+Elena looked at him across her own kitchen table for a long
+moment — a federal investigator with her ink on his jaw two
+weeks ago and no case in the room tonight — and thought about
+a green cloth-bound volume in a floor safe eight feet below the
+chair he was sitting in, and about the exact shape of what she
+was, at that moment, deciding he could hold.
+
+"That's a hell of a sentence to say to me tonight," she said.
+
+"It wasn't aimed."
+
+"I know," she said. "That's what makes it a hell of a
+sentence."
+
+She got up and cleared the plates, and stood at the sink with
+her back to him and her hands in hot water for longer than the
+plates required, and made a decision she would keep for six
+days and one hour.
+
+Then she turned around and said:
+
+"New terms," Elena said."New terms," Elena said.
 
 Cole set down the towel. Outside her windows the city ran
 its cold credits, the el two blocks over stitching its
@@ -6128,6 +6211,60 @@ was a mercy, and each of them wrong in the
 identical direction, which is the only kind of
 symmetry that ever kills anyone.
 
+At three in the morning she woke and he was awake too, on his
+back, looking at the ceiling.
+
+"Say it," she said, into the dark.
+
+A pause.
+
+"There are things about this case," Cole said carefully, "that
+I can't tell you. You know that. Some of them are things you'd
+want to know."
+
+Elena lay very still.
+
+"That's not news," she said. "That's the arrangement. It's been
+the arrangement since a napkin."
+
+"I know. I'm telling you I'm aware of it, in this room, tonight,
+because—" He stopped. She felt him reorganize. "Because there's
+a version of this where you find something out in six months
+and look back at tonight and think, *he knew, and he lay there
+and said nothing.* And I want it on the record that I'm not
+lying to you. I'm withholding, which is different, and it's
+still not nothing, and I know exactly which one I'm doing."
+
+The refrigerator hummed in the other room.
+
+She could have said it then. It was the door — he had opened it
+himself, from his side, in the dark, at the exact cost to
+himself that opening it required. *There's a book. My father's,
+then mine. It's in the floor safe under the office.* Eleven
+words. She had them assembled.
+
+"I know the difference too," Elena said.
+
+That was all she said.
+
+She would think about those five words for a considerable
+portion of the rest of her life — the perfect, unfalsifiable,
+technically-honest craftsmanship of them, a sentence built by a
+professional to close a subject while conceding nothing, the
+exact species of answer she had spent her whole life listening
+to men give at a long table.
+
+He waited a moment. When nothing else came, he took her hand
+under the blanket and held it, and did not push, because he had
+built the room that way himself.
+
+"Okay," he said.
+
+They lay there. Two people holding hands in the dark, each
+declining, out of love, to say the thing the other one needed,
+and each certain — with the specific arrogance of the very
+competent — that they were being kind.
+
 The dread didn't wake her that night.
 
 It just took its half of the pillow.
@@ -6178,14 +6315,9 @@ in the schedule had ever called for.
 
 ·
 
-Lucia told her at dawn, in the kitchen, with flour on
-her hands, because the kitchen at dawn was the only
-confessional either of them had ever trusted.
-
-Elena had come down at five-fifty, sleepless and
-absurdly, dangerously happy, to find the lights on and
-the ovens already up and Lucia at the marble making
-sfoglia she had not scheduled for a Saturday.
+Lucia told her at dawn, in the kitchen, with flour on her hands,
+because the kitchen at dawn was the only confessional either of
+them had ever trusted.
 
 "They called the passage," Lucia said, to the dough.
 
