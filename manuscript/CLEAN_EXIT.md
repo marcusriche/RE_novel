@@ -3533,6 +3533,60 @@ Then she put it down and turned off the lamp.
 
 Not yet. But close enough to frighten her.
 
+He called her Sunday night, on the office line, at an hour when
+only a vendor or a lunatic would call.
+
+"Bilancia."
+
+"Your performance is on a phone in Bridgeport with about eleven
+hundred views," Cole said. "Sonny D'Amico has a modest
+following."
+
+"He's been trying to build a personal brand since 2019. It's
+one of the family's ongoing embarrassments." She sat down on
+the edge of the desk. "How do you know?"
+
+"Because a task force keeps an eye on the social-media output
+of people it may one day arrest, and because your ninety
+seconds got forwarded to me by an analyst with the subject line
+*this is amazing*." A pause. "For the record — and I want you
+to hear the tone this is in — it was amazing."
+
+"It was necessary."
+
+"It was necessary *and* it was the best piece of applied
+tradecraft I've seen in nine years, and I'd like it noted that
+you improvised it in one second without consulting anybody."
+
+Elena looked at the green lamp.
+
+"Here's what I need to say," she said, "and then I'd like to
+hang up before either of us says anything else." She kept her
+voice level. "Sonny's video buys us weeks. Weeks in which
+nobody in my family will think twice about a federal officer
+being seen near me, because the whole neighborhood now has
+proof of what happens when one is." She breathed. "I built
+that. Deliberately. On a street, in one second, without
+consulting anybody, exactly as you say. And I want you to
+understand what I built, because you're too decent to name it
+and I'm not."
+
+"Elena—"
+
+"I built cover," she said. "Not for the case. For us. There
+isn't an *us*, Investigator, and there is no version of this
+where there is one, and I want it on the record that I have
+already started protecting one anyway."
+
+The line held. She could hear the building around him, a
+different building, at nine o'clock on a Sunday night.
+
+"Noted," Cole said, finally, and his voice was rough in a way
+she had not heard from him before. "For the file."
+
+She hung up first, which she counted, at the time, as a
+victory.
+
 He wrote no notes that night. There was no section for
 it, and he had stopped inventing subparts.
 
@@ -3831,6 +3885,53 @@ weeks. He simply did not post it, and a bookkeeper he had
 lately spent a great deal of time listening to could have told
 him, for free, exactly what an unposted entry does to the
 integrity of a book.
+
+·
+
+He opened the shape file that night for the first time in a
+month, after the pushpin, at one-fifteen in the morning, on the
+task-force floor with the lights half off.
+
+MORETTI, E. — bookkeeper.
+
+Under the character reference he had been keeping since
+January, he wrote three new lines.
+
+*Produced 17 boxes ahead of schedule. Walked me to a five-month
+absence in a catering account she could have buried in eleven
+different ways. Wanted a witness.*
+
+*Performed a public harassment complaint against me on Green
+Street to build cover, improvised, flawless. Then gave me her
+real voice in a doorway eight inches away, sixty seconds later.*
+
+*Query from January — what is she buying and what is the note
+coming due — resolved as follows: she is buying time for her
+brother, and the note is her own handwriting, and it comes due
+the day somebody with a warrant learns to read it.*
+
+He looked at that last line for a while.
+
+Then he wrote a fourth, and it was the first sentence he had
+ever put in a shape file that was about himself:
+
+*Query: what am I buying, and what is my note?*
+
+He did not answer it. He shut the laptop, and took the elevator
+down, and drove home past a restaurant with one light on above
+the office and did not slow down, which cost him something he
+declined to itemize.
+
+The answer, had he written it, would have run about like this:
+*I am buying the belief that I am not Ray Locke, and I am
+paying for it in exactly the currency Ray Locke used, and the
+note comes due the first time she needs something from me that
+the manual says she cannot have.*
+
+It was a good enough analysis that he would, in fact, produce
+almost exactly that sentence eleven weeks later, in a
+thirty-one-page document, in block letters, at his own kitchen
+table, at his own expense.
 
 ·
 
@@ -5103,6 +5204,85 @@ finding, filed under a heading she had stopped pretending
 not to have.
 
 Then Thursday.
+
+There was one night — the ninth or tenth, she lost count later —
+when the work stopped early and neither of them moved, and Cole
+said, out of a long silence:
+
+"I want to ask you something I have no right to ask, and I want
+you to know I've thought about whether to, for about two weeks."
+
+"Ask."
+
+"When this ends." He turned his pen once on the desk. "The
+family goes down. It's going to; it's not close, and it isn't
+because of me — it was going down when I got here, it's just a
+question of who's standing where when it lands. When it does,
+what happens to you?"
+
+Elena looked at the flowchart between them.
+
+"There are three versions," she said. "You want them in order
+of probability or in the order I've spent the most nights on?"
+
+"Both, if they're different."
+
+"They're different." She sat back. "Most likely: nothing. I'm a
+bookkeeper for four legitimate businesses; the businesses get
+seized, the family gets charged, and I spend two years being
+deposed and then I'm a thirty-one-year-old woman with an
+excellent résumé and a last name nobody will hire."
+
+"That's the most likely?"
+
+"That's what happens if nobody in the organization decides I'm a
+problem." She let that sit. "Second version: somebody decides
+I'm a problem. Then it's a stairwell, or a car, or nothing at
+all — I just become a woman who moved away and stopped calling
+people, and the neighborhood tells two versions of the story for
+forty years."
+
+His jaw did the thing.
+
+"Third," Elena said.
+
+"Third."
+
+"Third is the one I've spent the most nights on." She met his
+eyes across the green light. "Third is I stop being someone
+things happen *to*. I put everything I know in front of people
+with the power to use it, on my terms, in daylight, at a price I
+set — and I lose the family, the name, the restaurant, the whole
+architecture of my life, all at once, on purpose, and I find out
+what's underneath."
+
+The lamp hummed.
+
+"And what's underneath?" Cole said.
+
+"I don't know," she said. "That's the entire problem with the
+third version. Every other person in my life who's tried it has
+been found in a river."
+
+He was quiet for a while.
+
+"For what it's worth," he said, "I've watched people take the
+third version maybe six times. Twice it went badly." He turned
+the pen again. "The other four are alive, and every one of them
+told me the same thing afterward, in almost the same words: that
+the worst day of it was better than the last year of the thing
+they'd been carrying."
+
+"That's a sales pitch, Investigator."
+
+"It's an accounting," Cole said. "You can audit it. I'll give
+you the case numbers."
+
+She looked at him for a long moment across a desk with a
+flowchart on it and a green lamp over it, and did not say what
+she was thinking, which was: *I am already doing the third
+version. I started in October. You're just the first person
+who's ever described it to me as something a person survives.*
 
 The transfer came through on a Thursday: DANIEL G.
 MORETTI, moved to the protective unit, medical follow-up
@@ -8041,6 +8221,90 @@ put on their inventory sheet as Item One."
 
 ·
 
+Okafor picked up on the fourth ring, at ten o'clock on a Sunday
+night, from what sounded like a kitchen with a television in it.
+
+"It's ten p.m."
+
+"I need the proffer, and I need it Monday, and I have the thing
+they put on their inventory sheet as Item One."
+
+There was a very long pause on the line, and then the sound of
+a television being turned off.
+
+"Where are you right now."
+
+"In my office."
+
+"In the *sealed* restaurant?"
+
+"It's my office."
+
+"Ms. Moretti—" Okafor stopped. Elena could hear her recompose,
+audibly, the way you hear a lawyer decide which of six problems
+to take first. "Are you alone?"
+
+"Now, yes."
+
+"Now."
+
+"Nicolo Gravano left about eleven minutes ago," Elena said.
+"He'd come for the book. He isn't coming back."
+
+Another pause, longer.
+
+"I'm going to ask you a question," Okafor said carefully, "and
+your answer determines what kind of night both of us are about
+to have. Is anybody injured?"
+
+"No. Nobody touched anybody. I showed him a page and did some
+arithmetic out loud, and he left, and I would very much like to
+never do that again as long as I live."
+
+"Jesus *Christ*, Elena."
+
+It was, in eight months, the first time Farrah Okafor had used
+her first name.
+
+"Stay where you are. Lock the door. I'm forty minutes out and
+I'm bringing my own coffee because I've seen your neighborhood."
+The sound of keys. "And Elena — when Raman asks you tomorrow
+whether you had contact with any member of that organization
+after the raid, you say yes, once, on the eighteenth, and you
+tell her every word of it, including the part where you used a
+page of that ledger as leverage. All of it. Because if that
+comes out later from him instead of from you, immunity is a
+piece of paper about a woman who lied to a prosecutor."
+
+"I know," Elena said.
+
+"Do you?"
+
+"I've been holding the leverage version of my life for eleven
+years," she said. "Tomorrow I'd like to try the other one."
+
+She sat in the green lamplight with the phone in her hand after
+the call ended, in the last hour she would ever spend alone in
+that office, and looked around the room.
+
+The desk her grandfather had bought. The place on the wall where
+the calendar had hung. The floor safe, standing open on nothing,
+its felt still compressed in a rectangle the size of a book.
+
+She had been eight years old the first time she was allowed to
+sit in that chair. She had learned long division at that desk
+with her feet not touching the floor. She had put her father's
+reading glasses in the top drawer the week he died and had never
+once opened it since, and she opened it now, and they were still
+there, and she put them in her coat pocket next to Lucia's
+forty-one lines.
+
+Then she turned off the green banker's lamp for the last time in
+that building, and sat in the dark for a minute, and went out
+through the kitchen the way she always had.
+
+·
+
 The proffer room at the US Attorney's office had bad
 carpet, good light, and a court reporter, which was all
 Elena had ever really asked of a room: witnesses and a
@@ -9414,6 +9678,61 @@ room: dust, dead radiator, black water. "Clean means unowed,
 Brennan. It never meant far away. It took me thirty years, one
 catastrophic federal investigation, and a man who wrote me
 thirty-one pages in block letters to learn one definition."
+
+"There's one more thing on the lease," Elena said, "and I want
+you to read it, because I'm not going to be able to say it out
+loud twice."
+
+He found it — a rider, one paragraph, typed by her and initialed
+by Stavros, which had nothing to do with rent:
+
+*Tenant may terminate without penalty upon thirty (30) days'
+written notice at any time during the first eighteen (18)
+months.*
+
+Cole read it twice.
+
+"You built yourself a door."
+
+"I built myself a door." She kept her chin level. "I want you to
+know it's there, because you're going to be in this room a lot,
+and I'd rather you knew from the beginning that there is a
+thirty-day exit clause in the first honest thing I've ever
+signed." She took a breath. "I spent six years with a train in
+my pocket, Brennan. I'm not going to pretend the reflex died. It
+didn't. It just stopped being the plan."
+
+He set the folder down.
+
+"Elena. There's a version of this where I get quietly hurt by
+that paragraph and don't say so, and we both know I'd be good at
+it."
+
+"That's why I showed you."
+
+"Then here's mine, in the same currency." He put both hands in
+his pockets, which she had learned was what he did instead of
+reaching. "I'm going to be at that corner table on Wednesdays
+whether or not the clause gets used. Not as leverage — as
+*information*, so you never have to run the calculation about
+what leaving would cost me. It'll cost me. It won't cost you
+anything, because I'm not going to charge you for it. That's the
+whole disclosure."
+
+She looked at him across eleven hundred square feet of dust.
+
+"You know what my father would have said about you?"
+
+"I've been dreading this."
+
+"He'd have said: that man prices everything and never invoices."
+She smiled, a little crookedly. "He'd have meant it as a
+warning."
+
+"Was he right?"
+
+"About the pricing," Elena said. "The rest of it we're going to
+find out."
 
 From the second box she lifted the last thing, wrapped in a bar
 towel, and set it on the crate, and plugged it into the one
