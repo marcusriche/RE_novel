@@ -87,6 +87,6 @@ provisional) was evaluated on every shipped winner and never failed.
   Ph7 proffer; CE-04 (Promise) pays verbatim (L7 discipline) and closes at
   the release door.
 - **Word count**: the manuscript is an abridged-length rendering
-  (~30–33k words) of the 80k-word seed target — an operator decision recorded
+  (20,344 words assembled) of the 80k-word seed target — an operator decision recorded
   in `manuscript/HCL-CLEAN-EXIT-B01.md` with the R22 editor pass
   (`Editor_Pass_Count = 1`).
