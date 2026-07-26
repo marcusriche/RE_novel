@@ -3832,6 +3832,94 @@ eyes, and both of their private ledgers ran the same entry
 in different hands: *no work performed. Best night this
 week.*
 
+The third night was the one that changed the case, and neither of
+them recognized it at the time.
+
+She had drawn the tribute chart across four sheets of butcher
+paper taped together on the office floor, because the desk
+wasn't big enough for a family, and they were both down on their
+knees on the linoleum at one in the morning like people
+assembling a bicycle on Christmas Eve.
+
+"Here." She drew a circle around a node. "Marzano's. The bakery.
+Everybody thinks it's a drop because it takes book action, and
+it does, but that's not what it's for. That's the *bank*."
+
+"Explain bank."
+
+"When a crew needs cash overnight and can't touch anything
+traceable, they don't go to Sal. Going to Sal costs you a
+favor, and favors are forever. They go to Marzano and they
+borrow against next month's take at a haircut, and Marzano
+covers it out of the register float, and it never touches
+anybody's books but mine." She sat back on her heels. "I've
+been reconciling that float for eleven years. It's the only
+number in the organization that tells you how *scared*
+everybody is in a given month."
+
+Cole looked at the four sheets of paper for a long moment.
+
+"Say that again."
+
+"The float?"
+
+"The float is a fear index," he said slowly. "If the float
+spikes, it means crews are borrowing short. If crews are
+borrowing short, it means their own income's disrupted or
+they're paying something down fast." He was already writing.
+"Elena, when did the float last spike?"
+
+"October," she said. "Twice. Big. And again the second week
+of January."
+
+"October's when your marked money arrived."
+
+"October is when *everybody's* marked money arrived," Elena
+said, and the office went very quiet, and both of them stayed
+down there on the floor looking at four taped-together sheets
+of butcher paper while the whole shape of it came up out of
+the page like a ship out of fog. "Oh," she said. "Oh, that's
+what that was."
+
+"Somebody seeded the whole organization at once."
+
+"Somebody seeded the whole organization at once and my uncle
+put a piece of it in a tomato crate and sent it to the one
+person who'd notice the serials." She put both hands flat on
+the paper. "It wasn't a loyalty test, Brennan. He was
+*laundering it through me on purpose because I'm the only one
+who'd do it cleanly enough to survive an audit.* And when I
+stalled, he assumed I was being careful. He's been giving me
+credit for cowardice for five months."
+
+Cole sat back against the desk leg.
+
+"Whose money is it?"
+
+"That's your side of the table," she said. "I only price
+things."
+
+He priced it anyway, that week, from the outside — and the
+answer, when it came, three weeks later, was a two-year-old
+DEA operation out of another district that had lost track of
+where its seeded cash had gone after the third hop, and had
+written it off, and would have gone to its grave never knowing
+that four hundred thousand dollars of federal money had been
+sitting in the Moretti family's circulatory system since
+autumn, doing exactly what it had been designed to do, quietly,
+because one woman with a locked drawer had refused to let her
+part of it move.
+
+None of that was in the memo he would eventually write. It was
+too complicated, and it belonged to other people's cases.
+
+But it was the night he stopped thinking of her as a source
+with information, and started thinking of her as the only
+other person in the building who could actually see the
+machine.
+
+·
+
 The lane list changed hands on the fifth night, and it was the
 only transaction of the month that made her hands cold.
 
@@ -3980,6 +4068,51 @@ whole exit named and used — and the doorway stayed warm
 the whole way home, and in two apartments across one
 cold city, two meticulous people lay awake performing
 the same failed audit of one un-had kiss.
+
+·
+
+He walked to his car that night and sat in it for four minutes
+without starting the engine, which was becoming a habit he
+noticed and declined to correct.
+
+*You didn't kiss her.*
+
+No.
+
+*Why not? She said yes. In terms. Twice, one of them for the
+record.*
+
+Because in every room he had ever entered for nine years, he
+had been the one with the power — the badge, the warrant, the
+authority to end somebody's afternoon — and he had watched what
+that did to people who wanted something from him, and he had
+promised himself a long time ago that he would never take
+anything from a person who had a reason to be afraid of him.
+
+She wasn't afraid of him. That was the strange, exhilarating,
+unprecedented fact of the entire winter. But she was a subject
+of a federal investigation and he was the investigator, and the
+asymmetry was structural, not personal, and it did not go away
+because two people had good intentions in a doorway at one in
+the morning.
+
+So he'd made her take the first draw. Twice. And would keep
+making her, because the only thing he had left to give her that
+the situation hadn't already contaminated was *jurisdiction* —
+the plain fact that everything between them would happen
+because she moved first, and would therefore, whatever else it
+was, be hers.
+
+He started the car.
+
+*And the other thing,* said the auditor in his head, in a voice
+that had lately begun to sound like hers. *The September thing.
+You didn't kiss her because you're carrying a page she hasn't
+seen, and you know it, and some honest quarter of you refuses
+to close a transaction while a term is undisclosed.*
+
+He drove home with that one riding shotgun. It was, he would
+think later, the last night he could have told her cheaply.
 
 ·
 
@@ -4229,7 +4362,71 @@ spent two years training agents to find.
 
 ·
 
-Sunday came for everyone.
+The week between the garage and the long table was the week the
+family started, very quietly, to come apart — and Elena watched
+it happen from inside, the way you watch a hairline crack in a
+foundation you have been grouting for eleven years.
+
+It started with the vending route.
+
+On Tuesday, Halsted's Thursday collection didn't happen. No
+explanation; the route man had "car trouble." On Wednesday, one
+of the two soldiers who ran the South Side leg didn't come to
+the meeting at the social club. On Thursday, Sal called her
+personally — not through the produce channel, personally, on
+the phone — and asked, with tremendous warmth, whether the
+vending entity's quarterly filings were current.
+
+"Current to the day, Zio."
+
+"Good. Good." A pause that had a shape. "And the route
+reconciliation. The gross against the kick."
+
+Elena stood in her office with the receiver against her ear and
+felt eleven years of arithmetic arrive at a doorway all at once.
+
+"That reconciliation," she said carefully, "hasn't been run
+since Papa did it."
+
+"Run it," Sal said.
+
+Which meant: someone had finally told Salvatore Moretti that
+his enforcer was eating, and he had not believed it, and he had
+now decided to find out — and the instrument he had chosen to
+find out with was his brother's daughter, who had been sitting
+on the answer since she was twenty-two.
+
+She hung up the phone and stood absolutely still in the middle
+of her office for a long time.
+
+Run the reconciliation and hand it up, and Nico Gravano was a
+dead man inside a week — which solved every problem she had,
+except that a dead Nico meant a war, and a war meant Danny in
+custody in the middle of it, and it meant her uncle owing her
+the largest debt in the organization's history, which was the
+one thing worse than being owed to.
+
+Refuse, and Sal would ask why.
+
+Stall, and the stalling would eventually be the answer.
+
+*Everything's soon now,* Nico would say to her two weeks later,
+in this same office, over an empty safe. He was not wrong. He
+just did not know that the clock he was hearing had been
+started by the woman he was threatening, on a Thursday, with a
+single word to her uncle on the telephone.
+
+"I'll have it for you," she told Sal, "after the quarter
+closes."
+
+The quarter closed in five weeks. It was the last stall she
+had, and she spent it deliberately, knowing exactly what she
+was buying with it, which was time to get her brother out
+before the building came down on everyone in it.
+
+·
+
+Sunday came for everyone.Sunday came for everyone.
 
 The house on Oakley did its Sunday things: the double-parked
 Buicks, the storm door's pneumatic sigh, the smell of gravy
@@ -4648,6 +4845,62 @@ he had never been any good at that either.
 
 ·
 
+On Wednesday he did the only lawful thing left, which was to go
+back to the affidavit and try to make the warrant narrower.
+
+He sat with the AUSA for two hours arguing scope like a defense
+attorney: the intercept supports records related to the catering
+entity, not the premises generally; a records raid during service
+hours creates an unnecessary risk of destruction and an
+unnecessary public spectacle; a Sunday execution with a custodian
+present gets you the same paper with a tenth of the exposure.
+
+Every word of it was good practice. Two of the four arguments
+landed. The window stayed at week's end and the hours stayed
+service hours, because the SAC wanted the paper live and the
+office populated and had said so.
+
+"You're arguing this like it's your first warrant," the AUSA
+said, not unkindly, packing up. "It's a records raid, Brennan.
+Nobody gets hurt. They'll be open again in a week."
+
+"It's a family restaurant with forty covers seated," Cole said.
+"They'll be open again in a week and the neighborhood will
+remember it for thirty years."
+
+"That's not a legal argument."
+
+"No," he agreed. "It isn't."
+
+That night he stood in his kitchen and ran the two options for
+the four-hundredth time, and then, at about one in the morning,
+he ran a third one for the first time.
+
+*Tell Whitfield everything. Now. Tonight.*
+
+Walk into the SAC's office in the morning, put the relationship
+on the table, take the suspension, and let a clean agent handle
+the execution — a clean agent who would not be compromised, and
+who would therefore have no reason to protect anyone, and who
+would take that restaurant apart at eight-forty on a Friday
+exactly as ordered, except that Elena would be facing it with
+nobody inside the perimeter at all.
+
+He turned that one over for an hour.
+
+The trouble was that it was the *right* answer and he knew it,
+and the reason he did not do it was not a reason. It was a
+picture: her face in a raid, finding no one she knew.
+
+He went to bed at three. He did not tell Whitfield. He would
+spend a considerable portion of the rest of his life
+understanding that this — not the folded page, not the phone
+call, not the bed — was the actual hinge, the moment where the
+door was open and lit and he stood in front of it and chose the
+hallway, because the hallway had her in it.
+
+·
+
 She knew none of it, that Friday night.
 
 That was what he would remember afterward, on the nights
@@ -4831,6 +5084,50 @@ symmetry that ever kills anyone.
 The dread didn't wake her that night.
 
 It just took its half of the pillow.
+
+·
+
+She woke at five with his arm across her and the specific
+unfamiliar problem of being happy.
+
+She lay in the dark and audited it, because that was what she
+did with everything, and the audit produced results that
+alarmed her.
+
+*Assets:* a brother stable and transferring. A restaurant
+running. A napkin agreement performing to terms. Fourteen names
+in a lane. A man asleep behind her whose breathing she had
+already, in some involuntary quarter of her nervous system,
+begun to use as a clock.
+
+*Liabilities:* one lie told to Salvatore Moretti in front of
+nineteen witnesses, compounding daily. One ledger in a floor
+safe eight feet below this bed. One enforcer who had been told
+by his own arithmetic that the bookkeeper was the last obstacle
+between him and a quiet retirement. Five weeks until a quarter
+closed and a reconciliation came due that would end at least
+one man's life.
+
+*Off-book:* everything that mattered.
+
+She got up at five-forty, put on his shirt because it was
+nearest, and stood at the kitchen window with a glass of water,
+looking down at the street, and thought — with the plain,
+unsentimental clarity that visits people at that hour — *I am
+going to have to tell him about the book, and it is going to
+cost me this, and I am going to do it anyway, and I would
+rather do it on a day I choose.*
+
+Sunday, she decided. She'd tell him Sunday. In daylight,
+standing up, with the case in the room where it belonged, per
+his own clause.
+
+It was, at that moment, six days away.
+
+She went down at ten to five-fifty to start the coffee, and
+found the kitchen lights already on, and the ovens up, and
+Lucia at the marble making a laminated dough that no Saturday
+in the schedule had ever called for.
 
 ·
 
@@ -5281,6 +5578,61 @@ put his own neck under it without being asked.
 Sunday. Two days.
 
 The clock gave her until Saturday night.
+
+·
+
+He had planned Sunday too.
+
+That was the part that would sit worst afterward — that they had
+both, independently, in different rooms, on the same week, picked
+the same day, for the same reason, out of the same instinct
+about how a thing like this should be done.
+
+He had it written out. He had *rehearsed* it, in the car, out
+loud, twice, like a man practicing a toast.
+
+*Sunday, daylight, standing up, somewhere neutral. Not your
+apartment and not the office. I'd say the riverwalk, but the
+riverwalk is ours and I don't want to spoil it, so: the diner.
+Ohio Street, where the napkin happened.*
+
+*Here's what I've known since before I met you.*
+
+He'd drafted the words. Twelve versions. The last one had no
+adjectives in it at all, which was how he knew it was
+finished:
+
+*The original case memo, dated September fourteenth, names your
+father's ledger as a target item and identifies you as its
+probable custodian. That memo is the reason I requested this
+file. I sat down at your table on the first day knowing it. I
+have known it every day since, including the day you gave me
+fourteen names and the night you let me stay. I should have told
+you before any of it. I'm telling you now, before there is
+anything else you can lose by not knowing.*
+
+And then the part that mattered, the part he had built over
+eleven days of not sleeping:
+
+*And here is what I'm going to do about it. Tomorrow I'm going
+to Whitfield and I'm going to disclose the relationship, and
+that ends my role in this case. Before I do, I want you sitting
+with Okafor, because the minute I'm off it, the people who take
+it over will have no reason on earth to be careful with you.
+Whatever that book is, it belongs in front of a US Attorney with
+your lawyer's hand on it and immunity on the table, not in a
+safe in a building the government has a warrant for. I can't
+tell you what's in the warrant. I can tell you to be somewhere
+else when it lands, and I can tell you the word 'somewhere' is
+doing a lot of work in that sentence.*
+
+Sunday.
+
+He folded the page and put it in his breast pocket beside the
+duplicate invoice, which is where it was — both of them, the
+confession and the crime, in the same pocket, over the same
+heart — when his phone lit up on Friday at 4:15 in the afternoon
+with a go-code four hours early.
 
 ·
 
