@@ -899,7 +899,59 @@ usually with a name on it.
 
 ·
 
-She spent the weekend after the interview doing what she had
+There was a thing that happened at the end of that first
+interview which neither of them mentioned to anyone, and which
+both of them thought about for months.
+
+He had packed the recorder and the pad, and stood, and then had
+stopped with one hand on the back of the chair.
+
+"Ms. Moretti. One question that isn't part of this."
+
+"Then it isn't part of this."
+
+"Understood. I'll ask it anyway and you can decline." He had
+squared himself to her the way he squared to doorways. "In
+2019, in the September filings for the linen entity, there's a
+seven with a shaking crossbar. One. In four hundred pages of
+otherwise identical numerals." A pause. "Was that you or
+somebody else?"
+
+Elena stood at her own four-top with her hands on the back of a
+chair and the whole room going very quiet around her.
+
+*Nobody* had noticed that. Not the accountant who reviewed the
+filings, not the family, not the state. She had noticed it in
+2019, the week after she'd made it, and had considered pulling
+the page and re-copying it and had decided not to, because the
+tremor in that crossbar was her father's hand arriving in hers
+on the day he could no longer hold a pen and she had wanted one
+of them to survive in a document somewhere.
+
+"It was me," she said. "It was a bad week."
+
+"Right." He nodded once, and picked up his coat. "Thank you for
+the coffee."
+
+That was all. He left. She stood at the table for some minutes
+afterward with her hands on the chairback.
+
+And in a car on Halsted, Cole Brennan sat for a moment before
+starting the engine, because a woman had just told him a true
+thing about her own handwriting for no reason at all, and he
+had felt it land, and he had recognized the feeling from the
+kitchen table of a payroll clerk named Ana Reyes, and the
+recognition had gone through him like cold water.
+
+*Careful,* he told himself.
+
+He wrote *seven, 9/2019 — confirmed subject's hand, bad week*
+in his pad, which was the first entry in what would eventually
+become thirty-one pages, and drove back to the office.
+
+·
+
+She spent the weekend after the interview doing what she hadShe spent the weekend after the interview doing what she had
 done before every audit of her adult life, which was to become
 her own adversary.
 
@@ -7100,6 +7152,54 @@ Four words. The first false entry of his career had been
 about his own scalp and a car door. The second one weighed
 more than the building.
 
+He used the four minutes properly, which was the worst part.
+He was not a man who acted on impulse; he had never once in his
+life acted on impulse; and so what happened in the evidence
+annex was not a lapse but a *decision*, taken deliberately, with
+the clock in view, by a man in full possession of the relevant
+sections.
+
+Minute one: he read the invoice again and confirmed the coding
+against his own memory of eleven years of samples.
+
+Minute two: he ran the lawful options.
+
+*Take it to Whitfield tonight.* Result: the invoice becomes the
+centerpiece of a laundering theory against E. Moretti, argued by
+people who cannot read her hand, and the only witness who can
+explain it is a compromised agent whose testimony would be
+destroyed on cross in a morning.
+
+*Do nothing and let it be processed.* Same result, eleven days
+later, with the added feature that he would have watched it
+happen.
+
+*Write the analysis first, then produce both copies.* The
+correct answer, and he saw it — it was right there, it was
+plainly the right answer, and it required only that he trust a
+system that had, twice in his career, at the exact moment it
+mattered, been operated by ordinary people in an ordinary hurry.
+
+Minute three: he thought about Ana Reyes's file being carried
+out of a building in a gym bag.
+
+Minute four: he thought about what the invoice would look like
+in the hands of a prosecutor who had never met Elena Moretti,
+and about how long it would take her to be charged, and about
+what being charged does to a person in a family like hers — not
+in court, in the *neighborhood*, where the charge is the
+verdict and always has been.
+
+At the end of the four minutes he did not tell himself it was
+right.
+
+That was the only thing he'd have to say for himself later, at
+a hearing, in a hallway, and to a woman at a railing: he never
+once told himself it was right. He folded a page into his
+pocket knowing exactly what it was, and wrote four false words
+in a margin knowing exactly what they were, and did it anyway,
+and dated it that night in a file on his own machine.
+
 He drove home with the page ticking in his pocket like a
 debt and sat down at his kitchen table and, on his personal
 machine, unfiled and unfileable, wrote a memorandum:
@@ -8073,7 +8173,72 @@ useless without her.
 
 She wrote it anyway. It took four nights.
 
+On day ten she took the thirty-one pages to the riverwalk,
+because she could not read them in the apartment above a sealed
+restaurant and she was not going to read them in a lawyer's
+office.
+
+She read them standing up, at the railing, under the Kinzie
+Street bridge, with the wind coming off the water and the pages
+in a plastic sleeve because it had rained that morning.
+
+By page nine she had stopped being angry, which frightened her.
+
+Anger had been the structure of eleven days. Anger was what had
+gotten fourteen people placed and a decoding key written and a
+lawyer sworn at, and she was aware that under it, load-bearing,
+was a grief she had no intention of visiting.
+
+And here was a document, in block letters, methodically
+removing the anger's foundations one at a time — not by
+excusing anything, but by conceding *more* than she had
+accused him of.
+
+She had accused him, in her head, for eleven days, of using
+her.
+
+Page fourteen: *At no point did I ask her for information she
+had not already decided to give. This is not a defense. It is
+the specific reason my conduct was survivable for her and not
+for me: I gave up the protections of the reporting structure
+and received nothing that improved my case. What I received was
+her company, which I wanted, and I have declined four
+opportunities to characterize this differently.*
+
+She stood at the railing and read that paragraph three times
+and then put her hand flat on the cold iron and let the wind
+take her hair around and cried for about forty seconds, which
+was a record, and which nobody saw.
+
+Then she went home and re-read the whole thing with a pencil.
+
+The pencil was the point. She could not have said this to
+anyone, and Okafor would have thought she'd lost her mind, but
+the pencil was the entire ceremony: a person had submitted an
+account, and she was going to *audit* it, line by line,
+verifying every date against her own records, exactly the way
+she would have audited a vendor she intended to keep — because
+you do not audit people you have written off. You write them
+off *instead of* auditing them.
+
+She found two errors. Both trivial, both against him: he had
+misdated the riverwalk by a day, and had overstated by one the
+number of times he had driven past her street, because he had
+counted a night in January when he had, in fact, turned around
+at Halsted.
+
+She noted them in the margin, in the narrow upright hand, and
+felt — obscurely, absurdly, with a lift under her sternum she
+did not report to anyone for weeks — that the errors were the
+best thing in the document.
+
+A man who fabricates does not get his own crimes slightly
+wrong in his own disfavor.
+
+·
+
 On day eleven she called Farrah Okafor at nine-fifty on a
+Sunday nightOn day eleven she called Farrah Okafor at nine-fifty on a
 Sunday night and said: *I need the proffer.*
 
 ·
@@ -9948,6 +10113,57 @@ shoulder: you don't come out clean. Nobody does. You come out
 
 *Amends offered,* she wrote against it, at last, in the only hand
 that had authority over that account. *Accepted. Repairing.*
+
+·
+
+They walked the building together before they left it for the
+last time — not planned; Lucia simply did not go out the alley
+door, and Elena followed her, and the two of them went through
+the whole place in the dark with a flashlight from the prep
+drawer.
+
+The walk-in, emptied by a health inspector, its latch still
+original.
+
+The dry store, where a water stain on the ceiling had been
+shaped like Sicily since 2009 and had been pointed out to every
+new hire as an orientation ritual.
+
+The dining room, chairs up, table six where a woman had once
+choked on a bone in 2013 and Lucia had come out of the kitchen
+and dealt with it in nine seconds and then gone back and
+finished plating twelve covers without mentioning it.
+
+The four-top by the window.
+
+Elena stopped there. Lucia let her.
+
+"That's where he sat," Lucia said, after a while. Not a
+question.
+
+"First day. February third, two in the afternoon. He put a
+recorder on the tablecloth and asked me about linen inventory
+for forty minutes." Elena put two fingers on the bare wood.
+"I've been telling myself for a month that everything after
+that was a mistake."
+
+"And?"
+
+"And I did the arithmetic yesterday, properly, both columns."
+She took her hand back. "It wasn't."
+
+Lucia turned the flashlight toward the pass, and the beam went
+across forty years of steel and stainless and the little window
+where the plates had traveled.
+
+"My mother had a saying about a house," she said. "When you
+leave one — you don't take anything. You take the *habits*. You
+find out in the new place which ones came with you, and those
+are the ones that were yours and not the house's." She snapped
+off the light. "Everything else was rent."
+
+They went out through the kitchen, because neither of them
+could have gone out the front.
 
 ·
 
