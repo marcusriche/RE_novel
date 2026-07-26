@@ -1,0 +1,401 @@
+{
+  "Seed_ID": "01KYF6MB0CBHSYJG5CC2TKW0WD",
+  "Release_Date": "2026-09-01",
+  "Distribution_Posture": "",
+  "Pseudonym": "Sable Voss",
+  "Series_Name": "Moretti Family",
+  "Title": "Safe Passage",
+  "Subgenre": "Mafia/Dark",
+  "Heat_Level": 4,
+  "Ending_Type": "HEA",
+  "Premise_Logline": "The family calls in the passage debt she has owed since she was nineteen: move one man to the border — the same man they never intend to let arrive.",
+  "A_Plot": "A runs the ordered passage, works out mid-route that the delivery is a disposal, and tries to land B alive without forfeiting the people she has quietly moved before him.",
+  "B_Plot": "The private list of eleven people A has moved off the family's books becomes D's leverage the moment she deviates from the route.",
+  "Mandatory_Set_Pieces_with_Phase": [
+    {
+      "beat": "the passage debt is called in at the yard: A is handed B and a fixed route",
+      "phase": 0
+    },
+    {
+      "beat": "first deviation: A takes an unlisted crossing and loses the family's eyes",
+      "phase": 2
+    },
+    {
+      "beat": "freighter layover: A and B trade the truth about what the delivery is",
+      "phase": 4
+    },
+    {
+      "beat": "consent negotiation before first C3 contact",
+      "phase": 5
+    },
+    {
+      "beat": "the handover at the border yard resolves on the page",
+      "phase": 7
+    }
+  ],
+  "Central_Tropes": [
+    "forced_proximity",
+    "reluctant_allies_to_lovers",
+    "morally_gray_heroine",
+    "only_one_bed",
+    "secret_debt"
+  ],
+  "Trope_Payoff_Schedule": [
+    {
+      "trope": "forced_proximity",
+      "arm_phase": 0,
+      "window": [
+        2,
+        5
+      ]
+    },
+    {
+      "trope": "reluctant_allies_to_lovers",
+      "arm_phase": 1,
+      "window": [
+        4,
+        7
+      ]
+    },
+    {
+      "trope": "only_one_bed",
+      "arm_phase": 2,
+      "window": [
+        4,
+        4
+      ]
+    },
+    {
+      "trope": "morally_gray_heroine",
+      "arm_phase": 0,
+      "window": [
+        5,
+        8
+      ]
+    },
+    {
+      "trope": "secret_debt",
+      "arm_phase": 0,
+      "window": [
+        6,
+        8
+      ]
+    }
+  ],
+  "Antagonistic_Force": {
+    "name": "D",
+    "kind": "person",
+    "descriptor": "the family's road boss; holds both the passage debt and the disposal order"
+  },
+  "Allies_Confidants": [
+    {
+      "name": "C",
+      "kind": "person",
+      "descriptor": "A's yard mechanic and dispatcher; the only other person who knows the unlisted routes"
+    }
+  ],
+  "Dominant_Pair": [
+    "A",
+    "B"
+  ],
+  "Initial_CER_Seed": [
+    {
+      "id": "CE-01",
+      "type": "Debt",
+      "w": 0.9,
+      "u": 0.15,
+      "deadline": {
+        "phase": 5
+      }
+    },
+    {
+      "id": "CE-02",
+      "type": "Threat",
+      "w": 0.8,
+      "u": 0.2,
+      "deadline": {
+        "phase": 6
+      }
+    },
+    {
+      "id": "CE-03",
+      "type": "Secret",
+      "w": 0.6,
+      "u": 0.25,
+      "deadline": {
+        "phase": 4
+      }
+    },
+    {
+      "id": "CE-04",
+      "type": "Promise",
+      "w": 0.4,
+      "u": 0.1,
+      "deadline": {
+        "phase": 7
+      }
+    }
+  ],
+  "Arc_Profile_ID": "Mafia/Dark",
+  "Initial_Relationship_State": [
+    {
+      "from": "A",
+      "to": "B",
+      "attraction_sexual": 0.35,
+      "attraction_romantic": 0.1,
+      "trust": 0.15,
+      "resentment": 0.45,
+      "respect": 0.3,
+      "fear": 0.2
+    },
+    {
+      "from": "B",
+      "to": "A",
+      "attraction_sexual": 0.4,
+      "attraction_romantic": 0.15,
+      "trust": 0.05,
+      "resentment": 0.5,
+      "respect": 0.35,
+      "fear": 0.45
+    }
+  ],
+  "Operational_Clock": {
+    "story_days": 19,
+    "calendar_anchor": "2026-05-04"
+  },
+  "Continuity_Constraints": [
+    "the ledger case from Book One is closed and public; every party knows the family is being watched",
+    "A owes the passage debt from Book One; it is called in on story day 1 and cannot be transferred",
+    "the route is physical and continuous - no scene relocates the pair without an on-page leg",
+    "B's federal testimony date is fixed at story day 19 and never moves",
+    "A and D are never in the same room until Phase 6"
+  ],
+  "VK_Kernel_ID": "VK-EN-MD-01",
+  "POV": "third_limited_dual",
+  "Tense": "past",
+  "Narrative_Distance": "close",
+  "Register": "controlled_dark",
+  "Sentence_Rhythm_Targets": {
+    "avg_clause_len": 8,
+    "fragment_tolerance": 0.55,
+    "run_on_tolerance": 0.1,
+    "punctuation_habits": "terse periods; sparse em dash; no semicolons in dialogue"
+  },
+  "Signature_Moves": [
+    "distance and fuel math surfacing under emotional load",
+    "doors and exits counted on entry",
+    "promises phrased as delivery terms"
+  ],
+  "Taboo_List_and_Sensitive_Notes": {
+    "hard_no": [
+      "sexual content involving minors",
+      "non-consensual sexual content on-page",
+      "sexual coercion as a route to intimacy between the leads",
+      "graphic torture on-page"
+    ],
+    "handled_off_page": [
+      "the disposal of previous passengers",
+      "the relocation details of B's family"
+    ],
+    "notes": "All intimacy is consent-gated by the 4.5 architecture. The custody imbalance between A and B is named on the page and never used as a route to contact; coercion pressure runs through D and the debt."
+  },
+  "Brand_Lexicon": {
+    "banned": [
+      "orbs",
+      "smirked",
+      "chuckled darkly",
+      "little one",
+      "suddenly"
+    ],
+    "preferred": [
+      "manifest",
+      "diesel",
+      "water",
+      "iron",
+      "cold"
+    ]
+  },
+  "Redundancy_Rules": {
+    "surface_block_tighten": {
+      "Ph4": 3,
+      "Ph5": 3
+    },
+    "note": "tightens the Ph4-5 default window of 2; windows may tighten, never loosen"
+  },
+  "Platform_Hook_Profile": {
+    "chapter_end_threshold": 0.7,
+    "alternate_intensity": true
+  },
+  "Tu_Usted_Profile": "",
+  "Voce_Senhor_Profile": "",
+  "Tension_Engine": "obligation_and_pursuit",
+  "Series_Potential": "open",
+  "Hook_Line": "She owes the family one passage. They just handed her the man they never intend to let arrive.",
+  "Keywords_01": "dark mafia romance",
+  "Keywords_02": "forced proximity romance",
+  "Keywords_03": "road trip romantic suspense",
+  "Keywords_04": "morally gray heroine romance",
+  "Keywords_05": "organized crime romance",
+  "Keywords_06": "slow burn dark romance",
+  "Keywords_07": "on the run romance suspense",
+  "Keywords_08": "mafia romance",
+  "Keywords_09": "dark romance",
+  "Keywords_10": "forced proximity",
+  "Keywords_11": "romantic suspense",
+  "Keywords_12": "on the run romance",
+  "Keywords_13": "crime family romance",
+  "Keywords_14": "dark mafia romance books",
+  "Keywords_15": "forced proximity dark romance",
+  "Blurb_Draft": "I have moved people the family wanted gone and people the family never knew existed, and I have never once asked which was which. That is the price of the passage they bought me at nineteen, and this week they came to collect it. One man. One route. Nineteen days to the border, and orders not to deviate. Except the man in my passenger seat is a federal witness with a date in court, the route runs through three yards where nobody expects him to arrive breathing, and somewhere between the lake and the line I stopped counting him as cargo. I can deliver him or I can keep him. There is no manifest for both.",
+  "Comparable_Titles": [
+    "Danielle Lori - The Maddest Obsession",
+    "Ana Huang - King of Wrath",
+    "Katee Robert - The Marriage Contract"
+  ],
+  "Launch_Price_Tier": "USD_4_99",
+  "Promo_Platform_Compatibility": {
+    "amazon_ads": true,
+    "meta_ads": true,
+    "bookbub_ads": true,
+    "newsletter_promos": true
+  },
+  "Time_Period": "contemporary",
+  "Decade": "2020s",
+  "City_Or_Region": "Chicago to the Michigan lakeshore and the Ontario border",
+  "Country": "USA",
+  "Environment": "industrial_corridor",
+  "Season": "late_spring",
+  "Climate": "humid_continental",
+  "Cultural_Tone": "organized_crime_noir",
+  "Terrain_Type": "lakeshore_and_freight_corridor",
+  "Travel_Access": "road_rail_water",
+  "Historical_Accuracy_Level": "contemporary_realistic",
+  "Locale_Signature": [
+    "a truck yard's sodium lights burning through lake fog",
+    "the long grey seam where the freighter channel meets the breakwater"
+  ],
+  "Pairing_Type": "MF",
+  "Dynamic": "forced_proximity",
+  "Chemistry_Tone": "wary_magnetic",
+  "Meet_Cute": "delivered_into_her_custody",
+  "First_Kiss_Phase": 4,
+  "First_Intimacy_Phase": 5,
+  "Breakup_Beat": "orders_obeyed",
+  "Reunion_Mode": "costly_proof",
+  "Gender_A": "female",
+  "Age_A": 33,
+  "Archetype_A": "debt_bound_operator",
+  "Occupation_Primary_A": "owner-operator of a small freight and courier yard",
+  "Occupation_Secondary_A": "unofficial passage broker",
+  "Goal_External_A": "discharge the passage debt and get the yard out from under the family",
+  "Goal_Internal_A": "to stop being something that is owed",
+  "Wound_A": "her own passage was bought for her at nineteen, priced without her consent, and never written off",
+  "Flaw_A": "routes people instead of knowing them - it is how she keeps them alive and how she keeps them at distance",
+  "Secret_A": "she has moved eleven people off the family's books and kept the list",
+  "Backstory_A": "Brought into the country at nineteen on a passage the family arranged and priced; built a legitimate yard on the proceeds of illegitimate routes; has spent a decade paying interest on a favor she never agreed to.",
+  "Physical_Description_A": "Short and weather-worn; hands scarred from cargo straps; hair cut to stay out of the way; a coat she can sleep in.",
+  "Voice_Verbal_Tic_A": "gives distances and arrival times where a feeling was asked for",
+  "Body_Language_Default_A": "checks the mirrors and the exits before she answers",
+  "Growth_Arc_A": "self_worth_reclaimed",
+  "Fear_Profile_A": "the list being found; owing again; arriving somewhere with no way back out",
+  "Love_Language_A": "acts_of_service",
+  "Attachment_Style_A": "fearful_avoidant",
+  "Gender_B": "male",
+  "Age_B": 34,
+  "Archetype_B": "reformed_insider_witness",
+  "Occupation_Primary_B": "former transport foreman for the family",
+  "Occupation_Secondary_B": "federal witness under a protective agreement",
+  "Goal_External_B": "reach the testimony date alive",
+  "Goal_Internal_B": "to be known by one person who understands exactly what he was",
+  "Wound_B": "he drove the family's routes for eleven years without asking what the cargo was, and once it was a person",
+  "Flaw_B": "confesses to be absolved rather than to be known",
+  "Secret_B": "he recognises the yard - he routed A's own passage at nineteen",
+  "Backstory_B": "Raised inside the family's transport arm and given its routes at twenty-three; walked into a federal office the week after a delivery he could not stop replaying.",
+  "Physical_Description_B": "Tall, thinned out by six months of waiting; a driver's tan that stops at the wrist.",
+  "Voice_Verbal_Tic_B": "says what he did before he says why",
+  "Body_Language_Default_B": "sits where he can see the road behind them",
+  "Growth_Arc_B": "accountability_without_erasure",
+  "Fear_Profile_B": "dying before the record exists; being remembered only as what he drove",
+  "Love_Language_B": "words_of_affirmation",
+  "Attachment_Style_B": "anxious_preoccupied",
+  "Inciting_Incident_Type": "debt_called_in",
+  "Subplot_A": "C's yard licence is the collateral D threatens the first time A leaves the route",
+  "Subplot_B": "the eleven names on A's private list surface one at a time as the family audits her routes",
+  "Midpoint_Type": "shared_discovery",
+  "Black_Moment_Type": "orders_carried_out",
+  "Climax_Mode": "handover_subverted",
+  "Resolution_Mode": "debt_discharged",
+  "Save_The_Cat_Beat": "spends_her_own_cover_on_a_stranger",
+  "All_Is_Lost_Beat": "delivered_to_the_yard",
+  "Finale_Type": "testimony_and_reckoning",
+  "Epilogue_Included": true,
+  "Pacing_Style": "escalating_pressure",
+  "Scene_Density": "standard",
+  "Dialogue_Ratio": 6,
+  "Comedy": 1,
+  "Darkness": 8,
+  "Suspense": 9,
+  "Cussing": 6,
+  "Violence": 6,
+  "Interiority_Ratio": 6,
+  "Lyricality": 4,
+  "Humor_Type": "gallows",
+  "Burn_Rate": "medium_burn",
+  "Book_Number": 2,
+  "Title_Slug": "",
+  "Title_Style": "iconic_phrase",
+  "Cover_Cue_Main": "woman at the open door of a freight truck, back to camera, headlights behind her",
+  "Cover_Cue_Background": "lake fog over a night truck yard, sodium lights",
+  "Cover_Color_Mood": "black_amber",
+  "Cover_Type": "photographic_moody",
+  "Cover_Dimensions": {
+    "KDP": {
+      "width_px": 1600,
+      "height_px": 2560
+    }
+  },
+  "Back_Cover_Copy": "She owes the family one passage, and the family has finally named it: one man, one route, no deviations. Nineteen days to the border. Nineteen days to decide whether she is the delivery or the last thing standing between him and the water.",
+  "Dedication_Line": "For everyone still paying off a road they never chose.",
+  "Content_Warnings_Public": [
+    "organized crime and gun violence",
+    "explicit sexual content",
+    "coercion and threats by third parties",
+    "human smuggling and exploitation",
+    "an off-page death"
+  ],
+  "ISBN_Print": "unassigned",
+  "ISBN_Ebook": "unassigned",
+  "Binding_Type": "ebook",
+  "Pre_Order_Duration": 14,
+  "Publishing_Channels": "",
+  "File_ID": "F-SAFE-PASSAGE-B02",
+  "Template_Version": "5.0",
+  "Cover_Preset_ID": "COV-MD-01",
+  "Blurb_Preset_ID": "BLB-MD-01",
+  "Outline_Preset_ID": "OUT-MD-01",
+  "Agent_Profile": "path_a_day_one",
+  "QA_Flags": [],
+  "Sensitivity_Flags": [
+    "dark_content_review",
+    "trafficking_depiction_review"
+  ],
+  "Revision_Pattern": "standard_three_pass",
+  "VK_Kernel_Override": "",
+  "Model_Binding_ID": "nemotron3u-nvfp4-trtllm",
+  "Serving_Profile_ID": "profile_bundle_default",
+  "Generation_Date": "2026-07-26",
+  "Word_Count_Target": 80000,
+  "Word_Count_Actual": 0,
+  "Editor_Pass_Count": 1,
+  "Human_Contribution_Log_Ref": "HCL-SAFE-PASSAGE-B02",
+  "Cache_Profile_ID": "CACHE-VK-EN-MD-01-MORETTI",
+  "Launch_Date": "",
+  "First_Week_Sales": "",
+  "First_30Day_Sales": "",
+  "Completion_Rate": "",
+  "Dropoff_Pattern_Summary": "",
+  "Review_Sentiment_Score": "",
+  "Average_Rating": "",
+  "Pre_Order_Count": "",
+  "KU_Page_Reads_Cumulative": ""
+}

@@ -23,23 +23,23 @@ import argparse
 import json
 from pathlib import Path
 
+import importlib
+
 import main as eng
 from binding.offline_client import OfflineBindingClient
-from binding.schedule import (SCENE, PHASE_BLOCKS, FRACTURE_SCENES, CHAPTERS,
-                              DISPLAY)
 
 ROOT = Path(__file__).resolve().parent
 ART = ROOT / "artifacts"
 
 
-def expected_phase(scene: int) -> int:
+def expected_phase(scene: int, PHASE_BLOCKS) -> int:
     for ph, (a, b) in PHASE_BLOCKS.items():
         if a <= scene <= b:
             return ph
     raise ValueError(scene)
 
 
-def install_fracture_initiator() -> None:
+def install_fracture_initiator(FRACTURE_SCENES) -> None:
     orig = eng.evaluate_phase
 
     def evaluate_phase(state, T_scene):
@@ -70,9 +70,17 @@ def edge_snapshot(state: eng.EngineState) -> dict:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--seed", default="seed/seed_row.json")
+    ap.add_argument("--schedule", default="binding.schedule")
+    ap.add_argument("--out", default="artifacts")
     ap.add_argument("--scenes", type=int, default=45)
     ap.add_argument("--path", choices=["A", "B"], default="B")
     args = ap.parse_args()
+
+    sched = importlib.import_module(args.schedule)
+    SCENE, PHASE_BLOCKS = sched.SCENE, sched.PHASE_BLOCKS
+    FRACTURE_SCENES, CHAPTERS, DISPLAY = (sched.FRACTURE_SCENES,
+                                          sched.CHAPTERS, sched.DISPLAY)
+    out_dir = ROOT / args.out
 
     seed = eng.load_seed(args.seed)
     assert int(seed.get("Editor_Pass_Count", 1)) >= 1, "R22 gate"
@@ -91,9 +99,9 @@ def main() -> int:
         "pov": seed["POV"], "tense": seed["Tense"],
         "register": seed["Register"],
     }
-    install_fracture_initiator()
+    install_fracture_initiator(FRACTURE_SCENES)
 
-    client = OfflineBindingClient()
+    client = OfflineBindingClient(args.schedule)
     client.state = state
 
     print(f"Seed {seed['Seed_ID']} - {seed['Title']} - {seed['Subgenre']} - "
@@ -102,7 +110,7 @@ def main() -> int:
     problems = []
     while state.scene <= state.scenes_total and state.phase <= 8:
         n = state.scene
-        want_ph = expected_phase(n)
+        want_ph = expected_phase(n, PHASE_BLOCKS)
         if state.phase != want_ph:
             problems.append(f"scene {n}: phase {state.phase}, expected {want_ph}")
         eng.run_scene(state, client)
@@ -126,8 +134,8 @@ def main() -> int:
     for p in problems:
         print("  PROBLEM:", p)
 
-    ART.mkdir(exist_ok=True)
-    (ART / "scene_ledger.json").write_text(json.dumps({
+    out_dir.mkdir(exist_ok=True)
+    (out_dir / "scene_ledger.json").write_text(json.dumps({
         "seed_id": seed["Seed_ID"], "title": seed["Title"],
         "binding_configuration": "offline-agent-v1",
         "path": args.path, "scenes_total": state.scenes_total,
@@ -138,7 +146,7 @@ def main() -> int:
     }, indent=2), encoding="utf-8")
 
     # -------- renderer work orders ------------------------------------
-    lines = ["# Scene Briefs - Clean Exit (Seed 01KYDG7NWVMNN9C7DTKZ76F54Q)",
+    lines = [f"# Scene Briefs - {seed['Title']} (Seed {seed['Seed_ID']})",
              "",
              "PRIMARY-PROSE work orders emitted by the scene loop under the",
              "offline-agent-v1 binding. One block per shipped scene; the",
@@ -167,13 +175,13 @@ def main() -> int:
             ]
             lines += [f"  - {b}" for b in sch["beats"]]
             lines.append("")
-    (ART / "scene_briefs.md").write_text("\n".join(lines), encoding="utf-8")
+    (out_dir / "scene_briefs.md").write_text("\n".join(lines), encoding="utf-8")
 
     # -------- run summary ----------------------------------------------
     ph_geom = {}
     for r in client.records:
         ph_geom.setdefault(r["phase"], []).append(r["scene"])
-    summary = ["# Run summary - Clean Exit", "",
+    summary = [f"# Run summary - {seed['Title']}", "",
                f"- binding configuration: offline-agent-v1 (no calibration "
                f"card; floors provisional per R11)",
                f"- scenes shipped: {ok_scenes}/{state.scenes_total}",
@@ -188,9 +196,9 @@ def main() -> int:
     summary += ["", "## CE lifecycle (final)", ""]
     for c in state.cer:
         summary.append(f"- {c.id}: {c.status} (w={c.w:.2f}, u={c.u:.2f})")
-    (ART / "run_summary.md").write_text("\n".join(summary) + "\n",
+    (out_dir / "run_summary.md").write_text("\n".join(summary) + "\n",
                                         encoding="utf-8")
-    print("artifacts written:", ", ".join(p.name for p in sorted(ART.iterdir())))
+    print("artifacts written:", ", ".join(p.name for p in sorted(out_dir.iterdir())))
     return 1 if problems else 0
 
 

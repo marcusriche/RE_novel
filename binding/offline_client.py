@@ -34,9 +34,9 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+import importlib
+
 import main as eng
-from binding.schedule import (SCENE, PHASE_BLOCKS, ADVANCE_SCENES,
-                              FRACTURE_SCENES, DISPLAY)
 
 DECOY_FAMILIES = ["probe_test", "deflect_withhold", "bargain_trade",
                   "reveal_misfire", "demand_threaten", "realign_betray",
@@ -47,14 +47,17 @@ DECOY_ACTORS = [("B", "A"), ("C", "A"), ("D", "A"), ("A", "C"), ("B", "D")]
 class OfflineBindingClient(eng.ModelClient):
     """Deterministic schedule-driven binding (configuration offline-agent-v1)."""
 
-    def __init__(self) -> None:
+    def __init__(self, schedule: str = "binding.schedule") -> None:
+        self.sched_mod = importlib.import_module(schedule)
+        self.SCENE = self.sched_mod.SCENE
+        self.DISPLAY = self.sched_mod.DISPLAY
         self.state: Optional[eng.EngineState] = None   # attached by the driver
         self.records: List[Dict[str, Any]] = []
         self._cur: Dict[str, Any] = {}
 
     # ------------------------------------------------------------------ util
     def _sched(self, scene: int) -> Dict[str, Any]:
-        return SCENE[scene]
+        return self.SCENE[scene]
 
     def _scene_no(self, digest: Dict[str, Any]) -> int:
         return int(digest["scene"])
@@ -250,7 +253,7 @@ class OfflineBindingClient(eng.ModelClient):
         n = plan["scene"]
         sch = self._sched(n)
         self._cur["band_at_draft"] = band
-        who = DISPLAY.get(sch["pov"], sch["pov"])
+        who = self.DISPLAY.get(sch["pov"], sch["pov"])
         lines = [f"[SCENE {n:02d} BRIEF] {sch['title']} - POV {who} - "
                  f"day {sch['day']} - {sch['loc']} - band {band}",
                  f"move: {sch['family']} {sch['actor']}->{sch['target']} - "
