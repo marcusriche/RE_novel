@@ -825,6 +825,101 @@ usually with a name on it.
 
 ·
 
+She spent the weekend after the interview doing what she had
+done before every audit of her adult life, which was to become
+her own adversary.
+
+Saturday, after close, she sat down at the desk with a legal pad
+and wrote at the top: *IF I WERE HIM.*
+
+Then she built the government's case against her family from
+scratch, out of nothing but what a competent investigator could
+lawfully obtain, and she did it well, because doing it badly
+would have been the same as not doing it.
+
+*What he has:* Ten years of filings, all in one hand. Vendor
+paper from every supplier in the district, which he had
+apparently already collected, because Peraza had called her
+Thursday full of apology and pride in equal measure. Bank
+records by subpoena. Whatever the wires had given him, which
+she had to assume was everything said on any phone in the
+organization for at least a year, because that was the only
+prudent assumption.
+
+*What that gets him:* A wall. She had built the wall; she knew
+its dimensions. Ten years of immaculate compliance is not
+evidence of crime, it is evidence of a bookkeeper, and no jury
+in America convicts a restaurant of having tidy paperwork.
+
+*What breaks the wall:* A person. It always was, in every case
+she had ever read about, in the whole miserable literature of
+her family's business. Not a document. A person who decides,
+one afternoon, for reasons that never appear in the file, to
+start talking.
+
+She sat with the pad for a while.
+
+*Who breaks?*
+
+She wrote the list. It took eleven minutes and it was, she
+recognized afterward, the single most disloyal document she had
+ever produced, and she produced it in the service of loyalty,
+which was the kind of joke her life specialized in.
+
+*Petey R.* — short, scared, three kids in Catholic school. He'd
+break in an afternoon if they got him alone with an accountant
+and a photograph of his own bank balance.
+
+*Angelo* — knew nothing, would say everything he knew, which
+was nothing, and would do enormous damage anyway by describing
+Sunday dinners.
+
+*Sonny D.* — vain. Vanity talks. He'd take a meeting purely to
+find out how important he was.
+
+*Nico* — never. Or rather: not until the arithmetic said so,
+and then instantly, completely, and with a marina in his
+sister's husband's name to explain.
+
+*Sal* — never, in any circumstance, at any age, under any
+pressure. He'd die at that table, and would consider it a good
+death, and in a way it was.
+
+*Lucia* —
+
+She looked at the name for a while.
+
+Then she wrote, beside it, *nothing to give,* and moved on,
+because Lucia knew about menus and deliveries and which cousin
+was sleeping where, and none of it was chargeable, and the
+government did not indict people for knowing the schedule.
+
+She was wrong, of course, and the wrongness was not an
+intelligence failure. It was a category error, the kind you can
+only make about someone you love: she had asked *what does she
+know* and had never asked *what does she owe.*
+
+At the bottom of the page she wrote the true answer to the
+question the whole exercise had been circling.
+
+*Who breaks the wall?* — *Me. The wall is my handwriting. I am
+the only person alive who can testify to what any of it means,
+and everyone in this family knows it, and that has been the
+central fact of my life since I was twenty-two and nobody has
+ever said it out loud.*
+
+She tore the pad down to that page, burned the rest in the
+alley in a metal bin the porters used for grease-soaked linens,
+and stood watching a legal pad's worth of her family go up in a
+February alley at one in the morning.
+
+The last page she kept. She put it in the safe, on top of the
+ledger, which was already becoming a habit — the safe as a
+place where she filed the things she had decided and had not
+yet dated.
+
+·
+
 Nico Gravano came on a Tuesday, at four in the afternoon,
 carrying two espressos on a saucer like an apology, which meant
 it wasn't one.
@@ -1448,7 +1543,61 @@ it as *not yet*. The distinction between those words was her
 entire remaining margin of safety, and she was now living in
 it.
 
-Lucia found her at midnight staring at the locked drawer.
+She spent the next three days finding out how carefully she was
+being watched, using the only instrument she trusted, which was
+paper.
+
+The method was her father's and it was elegant: you do not look
+for a watcher. You give the watcher something to report, and
+then you see where it comes back.
+
+Test one. On Monday she mentioned to the produce driver, in
+passing, that she was thinking of moving the linen order to a
+new vendor. On Wednesday Sal's office called about the linen
+order. *Two days, through the produce channel, to the top.*
+Known route, expected latency, no information.
+
+Test two. On Tuesday she told Marco, alone, in the walk-in,
+that she might close Mondays through Lent. Nothing came back.
+Ever. *Marco is not a channel.* She had known that. It was good
+to have it in ink.
+
+Test three, the expensive one. On Thursday she left, on the
+office desk, face-up, a hand-written note to herself: *call
+Abruzzo re: D's transfer — Fri a.m.*
+
+She did not call Abruzzo.
+
+On Saturday Nico's driver asked her, in the alley, making
+conversation, how the transfer paperwork was coming.
+
+Elena went upstairs and sat on the edge of her bed for a while
+with her coat still on.
+
+Somebody was reading her desk. Not the safe — the *desk*, the
+surface, the notes she left for herself, which meant somebody
+came in after close, which meant somebody had a key and knew
+the porter rotation, which meant it was somebody from inside the
+building or somebody who had been told the building's habits by
+a person inside it.
+
+Her whole professional life was the proposition that if you
+write everything down, the truth becomes findable. She was
+discovering the corollary, which nobody had ever mentioned: if
+you write everything down and somebody else is reading it, you
+have simply been keeping their books for them.
+
+She went back down at midnight and cleared the desk to bare
+wood, and made a new rule for herself, which she kept for the
+remaining two months of her old life: nothing on paper in that
+office that she had not decided to publish.
+
+It was, she reflected later, the exact moment she had started
+living like a spy in her own family, and the strangest part was
+how little it changed. She had been doing it since she was
+sixteen. All that was new was the word.
+
+Lucia found her at midnight staring at the locked drawer.Lucia found her at midnight staring at the locked drawer.
 
 "You didn't eat." She set down a plate — the kitchen's last
 torta, two forks, though she took neither chair. Lucia's
@@ -2041,6 +2190,76 @@ The file was getting thick. Even she could see that.
 
 ·
 
+The nineteenth of February was the anniversary, and Cole did
+what he had done on the nineteenth of February for two years,
+which was to drive out to a cemetery in Hillside with no flowers,
+because Ana Reyes's mother had asked him once, very politely, in
+the third month, not to bring flowers.
+
+He stood at the stone for eleven minutes. He never talked to it;
+he had tried that the first year and it had felt like a
+performance for an audience of one, and he had contempt for
+performances.
+
+What he did instead was give the accounting.
+
+*This year:* one organized-crime file, eight months in. Six
+wiretaps. A dead partner's ghost still filed face-down on a
+shelf. Two hundred and twelve pages of a family's paper read
+twice. A commendation he could not look at.
+
+And, this year, an item he had not had to report at a graveside
+before: *a woman I should not be talking to, who I have talked
+to four times outside protocol, twice at two in the morning.*
+
+He stood in the cold and let the arithmetic run.
+
+The obvious reading was the ugly one, and he made himself look
+at it squarely, because a man who won't look at the ugly reading
+is a man building a defense. *You are doing this again. A woman
+inside a criminal organization, a private channel, a promise
+nobody has authorized, and you at the center of it deciding
+what's safe.* That was, structurally, Ana. That was the exact
+shape.
+
+But the shape wasn't the whole entry, and he had spent a winter
+being taught by a bookkeeper that shapes are how people lie to
+themselves with real facts.
+
+Because with Ana, he had promised the institution's protection
+and delivered it, and the institution had leaked, and she had
+died of *his faith in the mechanism.*
+
+And with Elena Moretti he had promised nothing at all. He had
+told her a true thing about her brother's ribs at two in the
+morning, at his own cost, and she had priced it correctly and
+had asked him for nothing, and every single exchange between
+them had been transacted in the open with both parties knowing
+the terms.
+
+*She isn't a witness,* he thought, standing at the stone. *She's
+a counterparty.*
+
+It was the most honest sentence he'd assembled in a year, and he
+recognized as he assembled it that it was also the most
+dangerous, because a man who has stopped seeing a subject as a
+witness has stopped being an investigator, and there is a form
+for that, and the form gets filed by other people.
+
+He drove back into the city with the heater on.
+
+At a light on Harlem it occurred to him — with the small cold
+clarity that arrives at red lights — that he had just spent
+eleven minutes at a murdered woman's grave doing an accounting
+in a format he had learned in the last three weeks from someone
+else, and that his own private ledger had, at some point in
+February, without any decision on his part, adopted a house
+style.
+
+The light changed. He drove.
+
+·
+
 On the eleventh floor that same week, Cole wrote a memo he never
 sent.
 
@@ -2553,7 +2772,63 @@ He went to bed and did not amend it.
 
 ·
 
+There was one more thing in that Monday meeting, and it did not
+go on the corkboard.
+
+At the end, when the room was clearing, Whitfield said, without
+looking up from her folder: "Brennan. The Reyes anniversary was
+last week."
+
+"It was."
+
+"You take the day?"
+
+"I took eleven minutes."
+
+She did look up then. Dana Whitfield had been a case agent in
+Newark for nine years before she was anybody's supervisor, and
+whatever else the job had taken from her it had left her the
+ability to look at a person.
+
+"You know what nobody says at those inquiries," she said. "The
+finding was *no fault*. That's a real finding, it isn't a
+courtesy — I read the file before I took this desk. Locke sold
+it. The unit's handling was sound. You were the one who put the
+program on her in the first place, which is the correct
+procedure and also the reason you can't sleep, and there's no
+box on any form for that."
+
+Cole stood in the doorway with his coffee.
+
+"There's a version of this job," Whitfield said, "where a man
+decides that since the rules didn't save her, the rules are the
+problem. I've seen four agents go that way. All four of them
+were good, and all four of them were sure they were the
+exception, and every one of them ended up doing more damage
+than Locke did, because Locke was only a thief." She closed the
+folder. "The rules didn't kill her, Brennan. A man did. Don't
+convert the wrong one."
+
+"No, ma'am."
+
+He carried that down the hall and into the elevator and out
+onto Dearborn, and it sat in him all week, and the following
+Thursday he walked into a restaurant with seventeen boxes on
+the tablecloths and let a woman show him a five-month absence
+in a catering account and said nothing about it to anybody.
+
+He thought about Whitfield's four agents fairly often after
+that.
+
+He never did decide whether he'd been the fifth, or whether
+there was a fifth kind she hadn't met, and by the time anyone
+was in a position to rule on the question he had already
+handed in his credentials and answered it himself.
+
+·
+
 The production review took place at the restaurant, by
+his arrangementThe production review took place at the restaurant, by
 his arrangement, between services, and it was — though no
 form would ever hold the word — beautiful.
 
