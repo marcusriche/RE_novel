@@ -6551,6 +6551,76 @@ bookkeeper's spine, three feet from six agents,
 because the supplement covered the premises and
 nobody had sworn out the woman.
 
+Lucia stood in the kitchen door for the whole of it, because an
+agent had told her to stay where she was and because her legs
+had stopped negotiating.
+
+She watched them take the office apart through the pass window
+— the same little window forty years of plates had traveled
+through — and she watched two young men in windbreakers carry
+out the filing cabinets she had helped Gio Moretti move up the
+back stair in 2004, and she watched a woman with a camera
+photograph the floor safe standing open and empty.
+
+And she watched Elena.
+
+That was the part Lucia would carry: her friend at the host
+stand, not resisting anything, answering questions with her
+chin level, telling a federal agent where the second cabinet
+key hung and asking him please not to break the walk-in latch
+because it was original. Managing the destruction of her own
+life the way she managed a Saturday with two servers out.
+
+Then Elena turned, and found the tall one in the gray coat
+inside the tape, and Lucia — who had known that face since it
+had been a girl of nine standing on a milk crate at that same
+pass — watched it close.
+
+She had seen Elena Moretti frightened twice in twenty years,
+and angry perhaps four times. She had never once seen this. It
+was not grief. It was the specific expression of a woman doing
+arithmetic at high speed and arriving somewhere.
+
+*I did this,* Lucia thought, standing in her doorway with her
+hands in her apron.
+
+It was not true, and she knew it was not true, and it did not
+matter in the slightest. She had told a man in a car outside a
+laundromat what hours a woman kept. She had reported a
+government car and not said *the same*. She had watched a
+federal officer laugh at a table in her dining room in a
+snowstorm and had written *Elena worked*, and had lain awake
+being proud of the omission, and here it all was in vests.
+
+An agent asked her name. She gave it. He asked her position and
+she said *chef*, and he wrote *cook*, and she did not correct
+him, because correcting him was the kind of small dignity a
+person spends when they have any left.
+
+They walked Elena out past her.
+
+Twelve feet. Lucia knew, with the terrible clarity of a woman
+who has spent her life reading a face across a pass, exactly
+what she was supposed to do — say something, put out a hand,
+say *cara* — and she knew equally that any of it would have
+made things worse in a room full of federal agents, and she
+stood absolutely still with the flour drying on her hands and
+let her friend go past her without a word.
+
+Elena's eyes went sideways once as she passed. One look, half a
+second. It was not accusation. It was worse: it was
+instruction.
+
+*Be somewhere with witnesses.*
+
+Lucia stood in the kitchen door for eleven minutes after the
+last vehicle pulled out. Then she went and found a bucket, and
+began — because there was nothing else on this earth she knew
+how to do with her hands — to clean the floor of a restaurant
+that would not open again.
+
+·
+
 In the transport, watching the blue lights strobe
 off the river through the wire mesh, Elena sat very
 still and did the arithmetic of what remained.
@@ -6778,6 +6848,97 @@ morning with her father's ledger flat against her spine.
 Behind her, in room B, Cole Brennan sat alone with the recorder
 still running and his hands still flat on the table, until the
 tape ran out and the machine clicked itself off.
+
+·
+
+Cole spent them writing.
+
+That was all. He had no badge, no case, no building to go to,
+and a Bureau-issued instruction to have no contact with anyone
+connected to the file, which was, as far as he could determine,
+everyone he had spoken to since September.
+
+So he sat at his kitchen table with a legal pad and wrote her
+the accounting.
+
+Thirty-one pages, in block letters, on ruled paper, because he
+did not trust himself to write it on a screen where things
+could be softened by revision. He wrote it in the only form he
+knew, which was the form of a report he would have been proud
+to file:
+
+*I. CHRONOLOGY OF KNOWLEDGE.*
+
+September 14: the original case memo, its language quoted
+verbatim, and the fact that he had read it before he had ever
+heard her name spoken aloud. October: his request for the file
+and the true reason for the request, which had nothing to do
+with her and which he set out anyway because a chronology with
+a hole in it is a lie. February 3: the interview, at which he
+sat down knowing. February 14: the phone call, and the sections
+it broke. February 21: the riverwalk. March 2: the napkin, and
+the fourteen names, and the specific moment he decided not to
+say it — which he could date to the minute, because he
+remembered the diner's clock, and because a man remembers the
+exact hour he chose a hallway.
+
+*II. WHAT I DID WITH WHAT I KNEW.*
+*III. WHAT IT COST YOU.*
+*IV. WHAT IT COST OTHERS.*
+*V. WHAT I HAVE DONE ABOUT IT AND WHAT REMAINS UNDONE.*
+
+He wrote about the folded page and the margin note. He wrote
+about the garage and the eleven unfiled days. He wrote the
+sentence *I did not tell Whitfield on the Wednesday because the
+right answer would have put you in a raid with nobody in the
+room, and I have concluded since that this was a preference and
+not a reason.*
+
+He did not, anywhere in thirty-one pages, ask her for anything.
+He read it four times to make sure. Twice he found a sentence
+that was quietly arguing and struck it out and wrote the plain
+version underneath, and the plain version was always worse for
+him, and that was how he knew it was right.
+
+He wrote an index because it was thirty-one pages and she
+should not have to hunt.
+
+On day nine he mailed it. Certified, to Okafor's office, with a
+cover note asking counsel to review it first and provide it to
+her client only if counsel judged it appropriate — because the
+last thing he was going to do, at the end of a season of
+deciding what she could hold, was put a document in her hands
+that her lawyer hadn't cleared.
+
+Okafor called him on day ten. It was, technically, a violation
+of the no-contact instruction, and both of them knew it, and
+she talked fast.
+
+"I've read it. She'll get it tomorrow." A pause. "Investigator,
+I've been practicing eleven years. I have never received a
+document like this from a law enforcement officer and I want you
+to understand that in my professional judgment you have handed
+my client's future adversaries a loaded weapon."
+
+"I know."
+
+"You've documented, in your own handwriting, every element of
+several offenses."
+
+"I know what's in it. I wrote it twice."
+
+Okafor was quiet for a second.
+
+"Why?"
+
+"Because she audits everything," Cole said, "and an accounting
+you can't verify isn't an accounting. If I'd sent her something
+safe, she'd have known it was safe, and she'd have been right to
+throw it away."
+
+The line hummed.
+
+"Well," Okafor said. "God help you both." And hung up.
 
 ·
 
@@ -7464,6 +7625,80 @@ liquidated at market — and signed.
 
 ·
 
+At the end of the fourth hour, when the court reporter had been
+sent for coffee and the case agent had gone out to make a call,
+Priya Raman closed her folder and said something that was not
+on the record.
+
+"Ms. Moretti. May I ask you something as a person and not as a
+prosecutor."
+
+"You can ask."
+
+"You've been decoding your own criminal conduct for four hours
+without once trying to characterize it. In nineteen years I
+have never had a cooperator do that. Not one." Raman turned her
+pen over. "Everybody explains. They can't help it — I did what
+I did because, I never meant, I was afraid of. You've given me
+nine transactions in your own handwriting and you have not
+offered me a single mitigating adverb."
+
+"Would you like some?"
+
+"No," Raman said. "I'd like to know why you're withholding
+them."
+
+Elena looked at the table for a moment.
+
+"Because I've watched every man in my family explain himself
+for thirty years," she said. "My uncle explains. He is
+*magnificent* at it — he can explain a man's broken ribs into a
+kindness inside four sentences, and the terrible part is that
+he believes it while he's saying it. That's what the explaining
+is *for*. It's not to persuade you. It's to make the thing
+bearable to carry, and once it's bearable you can do it again."
+She kept her hands flat. "I posted my brother's name to nine
+transactions I knew were false. If I say one sentence about why,
+I'll be able to live with it. And I'd rather not be able to live
+with it. That's the only guarantee I have that I won't do it
+again."
+
+Raman looked at her for a long moment.
+
+"That's not a legal strategy," she said. "You understand that.
+Juries want to forgive people."
+
+"Then they can forgive me on the facts or not at all."
+
+"And your uncle's lawyers are going to spend two days making
+you say the number of transactions out loud."
+
+"Nine," Elena said. "I'll say it as many times as they'd like.
+It doesn't change on repetition. That's the whole advantage of
+a true number."
+
+The AUSA sat back and looked at her — a long, frank, entirely
+unprofessional look — and then reached over and turned her
+pen around and set it down.
+
+"I'm going to tell you the thing I usually don't tell people
+until the verdict," Raman said. "I've had a hundred and some
+cooperators. Most of them lie to me in the first two hours and
+we spend a year finding out how much. Four or five didn't lie
+at all, and every one of those cases went the distance." She
+stood, and gathered the folder. "You should know your counsel
+fought me hard for that immunity. She didn't need to. I'd have
+given it to you in the second hour."
+
+"Why?"
+
+"Because the government has spent eight months trying to figure
+out how the Moretti organization actually worked," Raman said,
+"and you told me in four, and you didn't sell me one word of
+it."
+
+·
+
 He was at the riverwalk railing at dusk, under the
 Kinzie Street bridge, where the ice had been.
 
@@ -7972,7 +8207,76 @@ river.
 
 ·
 
-She was at the railing. He had half known.
+She read the thirty-one pages in one sitting, at her kitchen
+table, on the day Okafor released them to her, with a pot of
+coffee and a pencil.
+
+It took four hours and she used the pencil the whole way
+through, because she was not reading it as a woman reading a
+letter. She was reading it as an auditor reading a submitted
+account, which was the only way she knew how to be honest with
+anything, and which was — though he could not possibly have
+known it — the exact reading he had written it to survive.
+
+She checked his chronology against her own calendar. The
+February 14 call: 1:54 a.m., which matched her phone log to the
+minute. The riverwalk: the twenty-first, which matched the
+weather report she looked up. The diner: March 2, which matched
+the napkin she still had in an envelope in a book on her shelf.
+The four minutes in the evidence annex, which she could not
+verify and did not need to, because a man who inflates his own
+crimes is a man performing, and this document did not once
+inflate.
+
+Page eleven, she read three times.
+
+*I did not tell you at the tablecloth because I was an
+investigator and you were a subject and there is no version of
+the manual in which I tell you. I did not tell you at the
+riverwalk because I wanted you to come to the railing again. I
+did not tell you at the diner because you had just handed me
+fourteen names and I did not want to be the reason you stopped
+trusting the arrangement. I did not tell you in your apartment
+because you had built me a room with the case outside it and I
+wanted to be inside the room. Only the first of these is a
+reason. The rest are preferences, and I have arranged them in
+descending order of how well they held up when I wrote them
+down.*
+
+Elena set the pencil down at that one and looked out her
+kitchen window for a while.
+
+She had spent her whole life reading documents men wrote to
+protect themselves. She had never in twenty-nine years read one
+written by a man methodically dismantling his own defenses in
+his own handwriting, in numbered sections, with an index.
+
+Page twenty-six, at the end of the section titled WHAT IT COST
+OTHERS, one line:
+
+*Ana Reyes is not in this document as a mitigation. She is in
+it because I have spent two years telling myself that what
+happened to her taught me something, and this winter is the
+first evidence I have that it did not.*
+
+Page thirty-one, the last:
+
+*I am not asking for anything. If you want the balance of this
+in person you can have it. If you don't, the account still
+stands as stated and nothing in it is contingent on your
+answer. — C.B.*
+
+She sat with it a long time.
+
+Then she took a fresh sheet of ruled paper and, in the narrow
+upright hand, in two columns, did the only thing she knew how
+to do with an account she had audited and found accurate.
+
+She footed it.
+
+·
+
+She was at the railing. He had half known.She was at the railing. He had half known.
 
 The city ran its early dark, and the water moved, and Elena
 Moretti stood where the whole account had been refused a
