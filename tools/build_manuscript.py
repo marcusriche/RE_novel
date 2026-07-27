@@ -31,6 +31,12 @@ BOOKS = {
         "chapters": 24,
         "epilogue": False,
     },
+    "stonevow": {
+        "dir": "manuscript_stonevow",
+        "out": "STONEVOW.md",
+        "chapters": 40,
+        "epilogue": False,
+    },
 }
 
 

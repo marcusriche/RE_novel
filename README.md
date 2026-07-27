@@ -1,9 +1,9 @@
-# RE_novel — Romance Engine v5.0, implemented, with three produced novels
+# RE_novel — Romance Engine v5.0, implemented, with four produced novels
 
 This repository implements the **Romance Engine** (Consolidated Operating
 Document v5.0, with Addendum M and the Calibration Corpus v0.1 in force) and
 uses it to produce complete novels from rows of the Unified Seed Matrix.
-Three titles have been produced, all through the same orchestrator and the
+Four titles have been produced, all through the same orchestrator and the
 same binding:
 
 > **Book 1 — Seed `01KYDG7NWVMNN9C7DTKZ76F54Q`, *Clean Exit*** (Sable Voss,
@@ -19,21 +19,27 @@ same binding:
 > Halliday, Kelvin Row #1) — Rom-Com/Workplace, sapphic fake-dating,
 > Heat 2, HFN, community radio in Glasgow, autumn, 46-day story clock.
 > **62,271 words.**
+>
+> **Book 4 — Seed `01KYG7SSJ4GP1XF3A7QYFR6F0D`, *Stonevow*** (Iona Rask,
+> The Rime Wards #1) — Romantasy, fated-binding / forced-proximity,
+> Heat 3, HFN, the secondary-world northern line at Highstone Cairn,
+> dual first-person POV, 88-day story clock. **111,060 words.**
 
 ## Layout
 
 | Path | What it is |
 |---|---|
-| `main.py` | The reference orchestrator (deterministic core §15.8, canonical scene loop §11.1, executable §15 fixture). Used verbatim as supplied, for both books. |
-| `seed/` | The Unified Seed Matrix workbooks and the extracted seed rows (`seed_row.json`, `seed_row_safe_passage.json`, `seed_row_kelvin.json`) — §16 Unified_Seed_Row. |
+| `main.py` | The reference orchestrator (deterministic core §15.8, canonical scene loop §11.1, executable §15 fixture). Used verbatim as supplied, for all four books. |
+| `seed/` | The Unified Seed Matrix workbooks and the extracted seed rows (`seed_row.json`, `seed_row_safe_passage.json`, `seed_row_kelvin.json`, `seed_row_stonevow.json`) — §16 Unified_Seed_Row. |
 | `tools/seed_from_xlsx.py` | Stdlib-only xlsx → seed-row extractor. Takes `<matrix.xlsx> [row_index]`. |
 | `tools/build_manuscript.py` | Assembles a book's chapter files into the single deliverable and reports word counts. |
-| `binding/` | The **offline-agent-v1 binding configuration** (Addendum M): `offline_client.py` (the `ModelClient` adapter, schedule-selectable) + one authored editorial schedule per title (`schedule.py`, `schedule_safe_passage.py`, `schedule_out_of_office.py`). |
+| `binding/` | The **offline-agent-v1 binding configuration** (Addendum M): `offline_client.py` (the `ModelClient` adapter, schedule-selectable) + one authored editorial schedule per title (`schedule.py`, `schedule_safe_passage.py`, `schedule_out_of_office.py`, `schedule_stonevow.py`). |
 | `run_book.py` | Driver: runs the §11.1 loop over a seed row. `--seed / --schedule / --out / --scenes / --path`. |
-| `artifacts/`, `artifacts_safe_passage/`, `artifacts_out_of_office/` | Per book: `scene_ledger.json` (per-scene structural ledger), `scene_briefs.md` (PRIMARY-PROSE work orders), `run_summary.md`. |
+| `artifacts/`, `artifacts_safe_passage/`, `artifacts_out_of_office/`, `artifacts_stonevow/` | Per book: `scene_ledger.json` (per-scene structural ledger), `scene_briefs.md` (PRIMARY-PROSE work orders), `run_summary.md`. |
 | `manuscript/` | *Clean Exit* — 16 chapters + epilogue, plus the per-title IP log. `CLEAN_EXIT.md` is the assembled deliverable. |
 | `manuscript_safe_passage/` | *Safe Passage* — 17 chapters + epilogue, plus the per-title IP log. `SAFE_PASSAGE.md` is the assembled deliverable. |
 | `manuscript_out_of_office/` | *Out of Office* — 24 chapters, no epilogue (`Epilogue_Included = false`), plus the per-title IP log, blurb, and cover. `OUT_OF_OFFICE.md` is the assembled deliverable. |
+| `manuscript_stonevow/` | *Stonevow* — 40 chapters, no epilogue (`Epilogue_Included = false`), dual first-person POV, plus the per-title IP log, blurb, and cover. `STONEVOW.md` is the assembled deliverable. |
 
 ## How to verify
 
@@ -56,7 +62,14 @@ python3 run_book.py \
   --out artifacts_out_of_office \
   --scenes 45
 
-python3 tools/build_manuscript.py              # rebuild all three assembled manuscripts
+# Book 4
+python3 run_book.py \
+  --seed seed/seed_row_stonevow.json \
+  --schedule binding.schedule_stonevow \
+  --out artifacts_stonevow \
+  --scenes 45
+
+python3 tools/build_manuscript.py              # rebuild all four assembled manuscripts
 python3 tools/seed_from_xlsx.py seed/Romance_Engine_Unified_Seed_Matrix.xlsx 2
 ```
 
@@ -93,13 +106,13 @@ deterministic configuration that runs with no network access:
   still evaluated unmodified.
 
 The adapter surface really is one `ModelClient` subclass, as Addendum M
-claims: adding Book 2 and Book 3 each required only a new schedule module
+claims: adding Books 2, 3, and 4 each required only a new schedule module
 and a seed row, and no change whatsoever to `main.py`.
 
 No calibration card exists for this configuration, so all floors and ρ
 readings are **provisional**, exactly as R11 requires; the ED floor (0.45,
-provisional) was evaluated on every shipped winner in both books and never
-failed.
+provisional) was evaluated on every shipped winner in all four books and
+never failed.
 
 ## Book 1 — *Clean Exit*
 
@@ -195,3 +208,52 @@ failed.
 - **Blurb and cover**: `manuscript_out_of_office/BLURB.md` and
   `manuscript_out_of_office/cover/` (source HTML/SVG plus the rendered
   cover image, at the seed's `Cover_Dimensions`).
+
+## Book 4 — *Stonevow*
+
+- **Scene count**: 45 scenes against the Romantasy arc profile
+  `E = [12,10,10,10,8,12,12,8,8]`, halved to `[6,5,5,5,4,6,6,4,4]` — same
+  halving discipline as Books 1–3, so all four titles are directly
+  comparable at the same scene count. Final run: 45 scenes, final phase 8,
+  **0 review flags**, 0 unrealized deltas — the cleanest first-real
+  convergence of the four titles (clean on the second full engine run).
+- **Set pieces** land in their seeded phases: the binding rite that opens
+  the book (Ph0), the first ward set together at the Long Reach cairn
+  (Ph2), the frozen village and its sealed record at Calder's Reach (Ph4),
+  the consent negotiation before first C3 contact (Ph5), and the great
+  northern cairn's mutual-form attempt resolving on the page (Ph7).
+- **Consent architecture (§4.5)**: the rite-cord binding itself is
+  involuntary (ch. 1), but every escalation past it is separately asked —
+  the terms sheet negotiated on the record the same night (ch. 3), the
+  cairn-field question asked and answered by both leads in turn before
+  anything happens between them (ch. 12), first intimacy
+  (`First_Intimacy_Phase = 5`) granted on the page inside the negotiated
+  window (ch. 25), and the mutual rite itself re-asked, unbound, in front
+  of witnesses, at the Great Northern Cairn (ch. 35) — explicitly framed on
+  the page as the difference between a compelled cost and a chosen one.
+- **CE lifecycle**: CE-04 (Absence, the second lost village) closes at
+  Calder's Reach; CE-03 (Threat, the crack in the Long Reach cairn) and
+  CE-01 (Obligation, Sela's exemption debt) both close together at the
+  mutual rite's success; CE-02 (Revelation, the mutual form's existence)
+  closes when it is first stated aloud to Keeper Ossory (ch. 27), honoring
+  the seed's `Continuity_Constraints` bar on naming it to any institutional
+  figure before Phase 6.
+- **One scheduling repair** was required during dry runs — a phase-advance
+  drift across six of the eight transitions, traced to authored `T_scene`
+  targets that didn't actually clear their phase's ceiling. Itemized in the
+  IP log; the schedule was wrong and the engine's refusal to advance was
+  the evidence.
+- **Word count**: seed target `Word_Count_Target = 110000`.
+  `Word_Count_Actual` = **111,060** (40 chapters, no epilogue per
+  `Epilogue_Included = false`, dual first-person POV realized as
+  alternating "(Isla)"/"(Aldric)" chapter headers). R22 editor pass and
+  full constraint verification logged in
+  `manuscript_stonevow/HCL-STONEVOW-B01.md`, including a self-discovered
+  and corrected continuity issue (the mutual rite's specific form named to
+  institutional figures before its scheduled Phase 6 disclosure) and a
+  self-discovered dialogue-tag bug (POV characters' own lines occasionally
+  tagged in the third person during enrichment) affecting nine lines
+  across seven chapters, all corrected.
+- **Blurb and cover**: `manuscript_stonevow/BLURB.md` and
+  `manuscript_stonevow/cover/` (source HTML/SVG plus the rendered cover
+  image, at the seed's `Cover_Dimensions`, KDP 1600×2560).

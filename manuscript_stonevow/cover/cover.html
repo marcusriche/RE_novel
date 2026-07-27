@@ -1,0 +1,150 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Stonevow — cover</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 1600px;
+    height: 2560px;
+    overflow: hidden;
+    background: #0a1420;
+    font-family: Georgia, 'Times New Roman', serif;
+  }
+  .cover {
+    position: relative;
+    width: 1600px;
+    height: 2560px;
+  }
+</style>
+</head>
+<body>
+<div class="cover">
+<svg width="1600" height="2560" viewBox="0 0 1600 2560" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- ice-blue sky, deep at top, paling toward the horizon -->
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1c30"/>
+      <stop offset="45%" stop-color="#173a55"/>
+      <stop offset="72%" stop-color="#3d6a85"/>
+      <stop offset="100%" stop-color="#e8c88a"/>
+    </linearGradient>
+    <!-- low winter sun glow -->
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffe9b0" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#f2b95c" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#f2b95c" stop-opacity="0"/>
+    </radialGradient>
+    <!-- glass / frost side of the valley (right) -->
+    <linearGradient id="frostSide" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a9d3e8"/>
+      <stop offset="100%" stop-color="#dce9ee"/>
+    </linearGradient>
+    <!-- grass side of the valley (left) -->
+    <linearGradient id="grassSide" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4a5f42"/>
+      <stop offset="100%" stop-color="#8a9a68"/>
+    </linearGradient>
+    <linearGradient id="cairnGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6b7580"/>
+      <stop offset="100%" stop-color="#3c444d"/>
+    </linearGradient>
+    <linearGradient id="frostCreep" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#eaf6fb" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#eaf6fb" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e8c06a"/>
+      <stop offset="100%" stop-color="#f2d98f"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="2560" fill="url(#sky)"/>
+
+  <!-- low winter sun -->
+  <circle cx="800" cy="980" r="520" fill="url(#sunGlow)"/>
+  <circle cx="800" cy="980" r="88" fill="#fff3d6" opacity="0.9"/>
+
+  <!-- the valley split by the rime-line: grass (left) vs glass/frost (right) -->
+  <path d="M 0 1340 L 800 1220 L 800 2000 L 0 2000 Z" fill="url(#grassSide)"/>
+  <path d="M 1600 1340 L 800 1220 L 800 2000 L 1600 2000 Z" fill="url(#frostSide)"/>
+
+  <!-- the rime-line itself, a hard bright seam down the middle -->
+  <line x1="800" y1="1200" x2="800" y2="2000" stroke="#f4fbff" stroke-width="14" opacity="0.9"/>
+  <g stroke="#f4fbff" stroke-width="4" opacity="0.6">
+    <line x1="750" y1="1260" x2="800" y2="1290"/>
+    <line x1="850" y1="1320" x2="800" y2="1350"/>
+    <line x1="735" y1="1430" x2="800" y2="1460"/>
+    <line x1="865" y1="1520" x2="800" y2="1550"/>
+    <line x1="740" y1="1650" x2="800" y2="1680"/>
+  </g>
+
+  <!-- distant fold of hills -->
+  <path d="M 0 1250 Q 400 1150 800 1220 Q 1200 1150 1600 1250 L 1600 1340 L 0 1340 Z"
+        fill="#25415a" opacity="0.55"/>
+
+  <!-- ground plane -->
+  <rect x="0" y="2000" width="1600" height="560" fill="#0e1f2c"/>
+  <path d="M 0 2000 Q 800 1930 1600 2000 L 1600 2560 L 0 2560 Z" fill="#0a1720"/>
+
+  <!-- the standing cairn -->
+  <g>
+    <path d="M 700 2360
+             L 675 2140
+             C 671 2060, 690 1990, 738 1945
+             L 800 1885
+             L 868 1945
+             C 916 1990, 935 2060, 931 2140
+             L 906 2360
+             Z"
+          fill="url(#cairnGrad)" stroke="#20262c" stroke-width="8"/>
+    <!-- the crack -->
+    <path d="M 802 1955 L 790 2075 L 810 2180 L 794 2330" fill="none"
+          stroke="#0a1116" stroke-width="7" opacity="0.75"/>
+    <!-- frost racing up the stone -->
+    <path d="M 690 2360 C 712 2180, 690 2065, 740 1955 C 770 1905, 830 1905, 862 1955
+             C 912 2020, 895 2135, 912 2260 L 912 2360 Z"
+          fill="url(#frostCreep)" opacity="0.85"/>
+  </g>
+
+  <!-- lone figure, both hands laid on the cairn -->
+  <g>
+    <path d="M 590 2560
+             L 578 2340
+             C 575 2250, 620 2185, 685 2160
+             L 694 2157
+             L 694 2070
+             L 724 2048
+             L 724 2145
+             L 736 2157
+             C 792 2185, 830 2246, 830 2330
+             L 830 2560
+             Z"
+          fill="#131b22"/>
+    <circle cx="708" cy="2000" r="66" fill="#131b22"/>
+    <!-- arm reaching to the cairn -->
+    <path d="M 766 2130 C 812 2100, 858 2065, 890 2015" fill="none"
+          stroke="#131b22" stroke-width="34" stroke-linecap="round"/>
+  </g>
+
+  <!-- title block -->
+  <text x="800" y="360" text-anchor="middle" font-size="168" font-weight="700"
+        fill="#fbf4e4" letter-spacing="10" font-family="Georgia, serif">STONEVOW</text>
+
+  <rect x="600" y="410" width="400" height="6" fill="url(#gold)"/>
+
+  <text x="800" y="480" text-anchor="middle" font-size="44" fill="#e8c88a"
+        letter-spacing="5" font-family="Georgia, serif" font-style="italic">The Rime Wards, Book One</text>
+
+  <!-- bottom band: author name -->
+  <rect x="0" y="2420" width="1600" height="140" fill="#0a1420"/>
+  <text x="800" y="2508" text-anchor="middle" font-size="60" fill="#f2d98f"
+        letter-spacing="8" font-family="Georgia, serif">IONA RASK</text>
+
+</svg>
+</div>
+</body>
+</html>

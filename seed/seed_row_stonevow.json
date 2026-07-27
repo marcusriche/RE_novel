@@ -1,0 +1,407 @@
+{
+  "Seed_ID": "01KYG7SSJ4GP1XF3A7QYFR6F0D",
+  "Release_Date": "2026-11-01",
+  "Distribution_Posture": "",
+  "Pseudonym": "Iona Rask",
+  "Series_Name": "The Rime Wards",
+  "Title": "Stonevow",
+  "Subgenre": "Romantasy",
+  "Heat_Level": 3,
+  "Ending_Type": "HFN",
+  "Premise_Logline": "The wards that hold back the cold are paid for in lives, and the rite has bound the last wardwright of the northern line to the man who volunteered to be spent — giving her one winter to rewrite a vow older than the crown, or bury him like every hearth before him.",
+  "A_Plot": "A must hold forty miles of failing cairns through the season, and works out that the sacrificial rite she was taught is a corruption of an older mutual one — while the bond shows her, night by night, exactly how much of B it is spending.",
+  "B_Plot": "B bought his sister's exemption with his own binding, and hides how fast the cold is taking him so that neither A nor the rite-keepers put C forward in his place.",
+  "Mandatory_Set_Pieces_with_Phase": [
+    {
+      "beat": "the binding rite pairs A and B before the assembly",
+      "phase": 0
+    },
+    {
+      "beat": "first ward set together: A feels what the stone takes out of B",
+      "phase": 2
+    },
+    {
+      "beat": "the frozen village beyond the line, and the predecessor's rite-record found in its cairn",
+      "phase": 4
+    },
+    {
+      "beat": "consent negotiation before first C3 contact",
+      "phase": 5
+    },
+    {
+      "beat": "the great northern cairn is re-set by the mutual rite, on the page",
+      "phase": 7
+    }
+  ],
+  "Central_Tropes": [
+    "arranged_bond",
+    "magic_bond",
+    "touch_starved",
+    "sacrificial_love_interest",
+    "found_family"
+  ],
+  "Trope_Payoff_Schedule": [
+    {
+      "trope": "arranged_bond",
+      "arm_phase": 0,
+      "window": [
+        2,
+        6
+      ]
+    },
+    {
+      "trope": "magic_bond",
+      "arm_phase": 0,
+      "window": [
+        2,
+        7
+      ]
+    },
+    {
+      "trope": "touch_starved",
+      "arm_phase": 1,
+      "window": [
+        3,
+        5
+      ]
+    },
+    {
+      "trope": "sacrificial_love_interest",
+      "arm_phase": 2,
+      "window": [
+        6,
+        8
+      ]
+    },
+    {
+      "trope": "found_family",
+      "arm_phase": 3,
+      "window": [
+        5,
+        8
+      ]
+    }
+  ],
+  "Antagonistic_Force": {
+    "name": "the Rime",
+    "kind": "condition",
+    "descriptor": "the advancing cold that consumes warmth, then growth, then memory; it has no intent, cannot be bargained with, and only ever moves forward"
+  },
+  "Allies_Confidants": [
+    {
+      "name": "C",
+      "kind": "person",
+      "descriptor": "A's apprentice wardwright, next in line to be bound if B fails"
+    },
+    {
+      "name": "E",
+      "kind": "person",
+      "descriptor": "B's sister, whose exemption his binding paid for; keeps the village's grain record"
+    }
+  ],
+  "Dominant_Pair": [
+    "A",
+    "B"
+  ],
+  "Initial_CER_Seed": [
+    {
+      "id": "CE-01",
+      "type": "Obligation",
+      "w": 0.88,
+      "u": 0.1,
+      "deadline": {
+        "phase": 7
+      }
+    },
+    {
+      "id": "CE-02",
+      "type": "Revelation",
+      "w": 0.7,
+      "u": 0.45,
+      "deadline": {
+        "phase": 6
+      }
+    },
+    {
+      "id": "CE-03",
+      "type": "Threat",
+      "w": 0.6,
+      "u": 0.05,
+      "deadline": {
+        "phase": 8
+      }
+    },
+    {
+      "id": "CE-04",
+      "type": "Absence",
+      "w": 0.45,
+      "u": 0.3,
+      "deadline": {
+        "phase": 4
+      }
+    }
+  ],
+  "Arc_Profile_ID": "Romantasy",
+  "Initial_Relationship_State": [
+    {
+      "from": "A",
+      "to": "B",
+      "attraction_sexual": 0.25,
+      "attraction_romantic": 0.15,
+      "trust": 0.3,
+      "resentment": 0.2,
+      "respect": 0.55,
+      "fear": 0.5
+    },
+    {
+      "from": "B",
+      "to": "A",
+      "attraction_sexual": 0.4,
+      "attraction_romantic": 0.35,
+      "trust": 0.5,
+      "resentment": 0.1,
+      "respect": 0.6,
+      "fear": 0.1
+    }
+  ],
+  "Operational_Clock": {
+    "story_days": 88,
+    "calendar_anchor": "Ward-Year 214, first frost of Coldwake (internal calendar)"
+  },
+  "Continuity_Constraints": [
+    "the bond is symmetric within the scene: any cost one lead takes, the other registers before the scene ends",
+    "wards can only be set at a standing cairn and never at a distance; every ward is set on the page at its stone",
+    "the Rime advances and never retreats during the story clock; each night's advance is fixed and tracked",
+    "no character states the mutual form of the rite before Phase 6",
+    "the calendar, realm, and geography are internal; no real-world nation, place, or date is named"
+  ],
+  "VK_Kernel_ID": "VK-EN-RF-01",
+  "POV": "first_person_dual",
+  "Tense": "past",
+  "Narrative_Distance": "interior",
+  "Register": "lyric_austere",
+  "Sentence_Rhythm_Targets": {
+    "avg_clause_len": 13,
+    "fragment_tolerance": 0.25,
+    "run_on_tolerance": 0.4,
+    "punctuation_habits": "long compound sentences; semicolons permitted in narration; em dash for interruption, not menace"
+  },
+  "Signature_Moves": [
+    "cold and warmth measured in domestic units - kettles, breath, the back of a hand",
+    "vows quoted and then taken apart word by word",
+    "landscape described by what it has stopped doing"
+  ],
+  "Taboo_List_and_Sensitive_Notes": {
+    "hard_no": [
+      "sexual content involving minors",
+      "non-consensual sexual content on-page",
+      "the bond used as a substitute for consent between the leads",
+      "sexual coercion as a route to intimacy between the leads"
+    ],
+    "handled_off_page": [
+      "the deaths of previous hearths",
+      "the freezing of the outer villages"
+    ],
+    "notes": "Heat 3: on-page but not explicit. The magical bond creates compulsion pressure by design; it NEVER constitutes or replaces a consent grant. Every escalation is negotiated on the page while both leads are unbound in the moment, per the 4.5 architecture."
+  },
+  "Brand_Lexicon": {
+    "banned": [
+      "orbs",
+      "smirked",
+      "chuckled darkly",
+      "mate",
+      "fated"
+    ],
+    "preferred": [
+      "cairn",
+      "frost",
+      "hearth",
+      "vow",
+      "thaw"
+    ]
+  },
+  "Redundancy_Rules": {
+    "surface_block_tighten": {
+      "Ph2": 3,
+      "Ph5": 3,
+      "Ph7": 4
+    },
+    "note": "ward-setting is a repeated ritual action; tightens the ritual phases hardest so the rite does not template across its four stagings. Windows may tighten, never loosen."
+  },
+  "Platform_Hook_Profile": {
+    "chapter_end_threshold": 0.6,
+    "alternate_intensity": true
+  },
+  "Tu_Usted_Profile": "",
+  "Voce_Senhor_Profile": "",
+  "Tension_Engine": "shared_cost_and_advancing_deadline",
+  "Series_Potential": "duology",
+  "Hook_Line": "The wards hold because someone pays for them. This winter the rite named the one man she refuses to spend.",
+  "Keywords_01": "romantasy",
+  "Keywords_02": "slow burn fantasy romance",
+  "Keywords_03": "magic bond romance",
+  "Keywords_04": "arranged bond fantasy romance",
+  "Keywords_05": "sacrificial hero fantasy romance",
+  "Keywords_06": "found family fantasy romance",
+  "Keywords_07": "epic winter fantasy romance duology",
+  "Keywords_08": "romantasy",
+  "Keywords_09": "fantasy romance",
+  "Keywords_10": "magic bond romance",
+  "Keywords_11": "romantic fantasy",
+  "Keywords_12": "winter fantasy romance",
+  "Keywords_13": "arranged marriage fantasy romance",
+  "Keywords_14": "romantasy duology books",
+  "Keywords_15": "slow burn fantasy romance books",
+  "Blurb_Draft": "The wards hold because someone pays for them. That is the whole of the arrangement: a wardwright to shape the stone, a hearth to feed it, and a name read aloud at the binding so the village knows whose funeral to expect. I have set forty-one wards. I buried the man who taught me and the woman who kept him warm, and I have never once asked for a hearth of my own. Then the rite named him — an orchard-keeper who volunteered, who traded his own body for his sister's exemption, who treats the cold like a rumour and me like a person rather than an office. Three months of winter. Forty miles of failing cairns. And a bond that lets me feel exactly how much of him the stone is taking.",
+  "Comparable_Titles": [
+    "Rebecca Ross - Divine Rivals",
+    "Hannah Whitten - For the Wolf",
+    "Carissa Broadbent - The Serpent and the Wings of Night"
+  ],
+  "Launch_Price_Tier": "USD_5_99",
+  "Promo_Platform_Compatibility": {
+    "amazon_ads": true,
+    "meta_ads": true,
+    "bookbub_ads": true,
+    "newsletter_promos": true
+  },
+  "Time_Period": "secondary_world",
+  "Decade": "not_applicable_secondary_world",
+  "City_Or_Region": "Highstone Cairn and the northern ward-line",
+  "Country": "the warded realm of Sarne (secondary world)",
+  "Environment": "highland_settlement",
+  "Season": "onset_of_winter",
+  "Climate": "subarctic_encroaching",
+  "Cultural_Tone": "austere_communal_north",
+  "Terrain_Type": "moor_and_cairn_highland",
+  "Travel_Access": "foot_and_pony_track",
+  "Historical_Accuracy_Level": "secondary_world_internal_consistency",
+  "Locale_Signature": [
+    "cairn-stones sweating meltwater in a field of standing frost",
+    "the rime-line drawn across the valley like a tide mark, grass on one side and glass on the other"
+  ],
+  "Pairing_Type": "MF",
+  "Dynamic": "bonded_strangers",
+  "Chemistry_Tone": "reverent_aching",
+  "Meet_Cute": "bound_at_the_rite",
+  "First_Kiss_Phase": 3,
+  "First_Intimacy_Phase": 5,
+  "Breakup_Beat": "vow_renounced_to_protect",
+  "Reunion_Mode": "chosen_rebinding",
+  "Gender_A": "female",
+  "Age_A": 31,
+  "Archetype_A": "last_practitioner",
+  "Occupation_Primary_A": "wardwright of the northern line",
+  "Occupation_Secondary_A": "keeper of the cairn-records",
+  "Goal_External_A": "hold the northern wards through the season without spending B",
+  "Goal_Internal_A": "to stop pricing herself in what she can pay out",
+  "Wound_A": "as an apprentice she completed the rite that spent her mentor's hearth, and was thanked for it",
+  "Flaw_A": "takes the cost herself in silence and calls it discipline",
+  "Secret_A": "she has been feeding the failing wards her own heat, outside the rite, for two years",
+  "Backstory_A": "Bound to the northern line at nineteen and left sole practitioner at twenty-six when her mentor walked into the cold; has kept forty miles of cairns standing on an apprentice's training and her own body.",
+  "Physical_Description_A": "Rawboned and weather-cut; stone-dust worn into the creases of her hands; hair bound back hard; always half a shade too pale.",
+  "Voice_Verbal_Tic_A": "answers in seasons and stone-weights when asked how she feels",
+  "Body_Language_Default_A": "warms her hands on whatever is nearest, whether or not it is warm",
+  "Growth_Arc_A": "shared_burden",
+  "Fear_Profile_A": "spending another person; the line breaking on her watch; being thanked for it",
+  "Love_Language_A": "physical_touch",
+  "Attachment_Style_A": "dismissive_avoidant",
+  "Gender_B": "male",
+  "Age_B": 28,
+  "Archetype_B": "volunteer_hearth",
+  "Occupation_Primary_B": "orchard-keeper and grafter",
+  "Occupation_Secondary_B": "recorder for the village council",
+  "Goal_External_B": "survive the season without his sister's exemption being reopened",
+  "Goal_Internal_B": "to be something other than the price he paid",
+  "Wound_B": "he watched his family's orchard stop growing over a single week when the line moved, and could do nothing but record it",
+  "Flaw_B": "gives before he is asked, so that no one ever gets to ask him for more",
+  "Secret_B": "he has lost the feeling in his left hand; the bond is taking him faster than the records allow for",
+  "Backstory_B": "Raised on the last orchard above the line; put his own name forward at the rite the week his sister's was drawn, and has told no one that the choice was not entirely brave.",
+  "Physical_Description_B": "Broad through the shoulders, sun-lined despite the season; grafting scars across both thumbs; runs hot enough to sleep uncovered.",
+  "Voice_Verbal_Tic_B": "names things by their grafting season",
+  "Body_Language_Default_B": "puts himself between other people and the wind",
+  "Growth_Arc_B": "refuses_martyrdom",
+  "Fear_Profile_B": "being remembered only as a payment; his sister's name going back into the rite",
+  "Love_Language_B": "acts_of_service",
+  "Attachment_Style_B": "secure",
+  "Inciting_Incident_Type": "binding_rite_assigned",
+  "Subplot_A": "C trains openly to take B's place at the next binding, and A cannot argue against it without admitting what she has been feeding the wards",
+  "Subplot_B": "the crown's ward-commissioner is quietly costing out the abandonment of the northern line, and needs this winter's failures on the record",
+  "Midpoint_Type": "true_cost_revealed",
+  "Black_Moment_Type": "sacrifice_attempted_alone",
+  "Climax_Mode": "rite_rewritten",
+  "Resolution_Mode": "cost_shared_openly",
+  "Save_The_Cat_Beat": "thaws a stranger's byre at her own cost",
+  "All_Is_Lost_Beat": "the northern cairn cracks",
+  "Finale_Type": "ritual_finale_with_open_cost",
+  "Epilogue_Included": false,
+  "Pacing_Style": "seasonal_countdown",
+  "Scene_Density": "long_immersive_scenes",
+  "Dialogue_Ratio": 5,
+  "Comedy": 3,
+  "Darkness": 6,
+  "Suspense": 6,
+  "Cussing": 2,
+  "Violence": 5,
+  "Interiority_Ratio": 8,
+  "Lyricality": 8,
+  "Humor_Type": "dry_understatement",
+  "Burn_Rate": "accelerated_burn",
+  "Book_Number": 1,
+  "Title_Slug": "",
+  "Title_Style": "coined_compound",
+  "Cover_Cue_Main": "a lone figure on a moor with both hands laid on a standing cairn, frost racing up the stone",
+  "Cover_Cue_Background": "a valley split by the rime-line, low winter sun, glass on one side and grass on the other",
+  "Cover_Color_Mood": "ice_blue_gold",
+  "Cover_Type": "illustrated_symbolic",
+  "Cover_Dimensions": {
+    "KDP": {
+      "width_px": 1600,
+      "height_px": 2560
+    }
+  },
+  "Back_Cover_Copy": "A wardwright shapes the stone. A hearth feeds it. The line holds until one of them runs out. Three months of winter, forty miles of failing cairns, and a bond that makes every cost she takes his as well.",
+  "Dedication_Line": "For everyone who has been someone else's warmth and wanted, once, to be kept.",
+  "Content_Warnings_Public": [
+    "fantasy violence and injury",
+    "magical body horror (cold-sickness)",
+    "on-page sexual content",
+    "grief and bereavement",
+    "off-page character deaths"
+  ],
+  "ISBN_Print": "unassigned",
+  "ISBN_Ebook": "unassigned",
+  "Binding_Type": "ebook",
+  "Pre_Order_Duration": 30,
+  "Publishing_Channels": "",
+  "File_ID": "F-STONEVOW-B01",
+  "Template_Version": "5.0",
+  "Cover_Preset_ID": "COV-RF-01",
+  "Blurb_Preset_ID": "BLB-RF-01",
+  "Outline_Preset_ID": "OUT-RF-01",
+  "Agent_Profile": "path_a_day_one",
+  "QA_Flags": [],
+  "Sensitivity_Flags": [
+    "fantasy_violence_review",
+    "bodily_autonomy_review"
+  ],
+  "Revision_Pattern": "worldbuild_consistency_pass",
+  "VK_Kernel_Override": "",
+  "Model_Binding_ID": "nemotron3u-nvfp4-trtllm",
+  "Serving_Profile_ID": "profile_bundle_default",
+  "Generation_Date": "2026-07-26",
+  "Word_Count_Target": 110000,
+  "Word_Count_Actual": 0,
+  "Editor_Pass_Count": 1,
+  "Human_Contribution_Log_Ref": "HCL-STONEVOW-B01",
+  "Cache_Profile_ID": "CACHE-VK-EN-RF-01-RIMEWARDS",
+  "Launch_Date": "",
+  "First_Week_Sales": "",
+  "First_30Day_Sales": "",
+  "Completion_Rate": "",
+  "Dropoff_Pattern_Summary": "",
+  "Review_Sentiment_Score": "",
+  "Average_Rating": "",
+  "Pre_Order_Count": "",
+  "KU_Page_Reads_Cumulative": ""
+}
