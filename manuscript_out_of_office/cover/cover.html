@@ -1,0 +1,173 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Out of Office — cover</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 1600px;
+    height: 2560px;
+    overflow: hidden;
+    background: #0d3336;
+    font-family: Georgia, 'Times New Roman', serif;
+  }
+  .cover {
+    position: relative;
+    width: 1600px;
+    height: 2560px;
+  }
+</style>
+</head>
+<body>
+<div class="cover">
+<svg width="1600" height="2560" viewBox="0 0 1600 2560" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- background: teal basement gradient -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f3d40"/>
+      <stop offset="55%" stop-color="#0a2b2e"/>
+      <stop offset="100%" stop-color="#071f21"/>
+    </linearGradient>
+    <linearGradient id="bulbGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffb37a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ff7a59" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="coral" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff8a65"/>
+      <stop offset="100%" stop-color="#ff6f61"/>
+    </linearGradient>
+    <linearGradient id="windowGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c5359"/>
+      <stop offset="100%" stop-color="#0f3a3d"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="2560" fill="url(#bg)"/>
+
+  <!-- high basement window, upper band -->
+  <g opacity="0.9">
+    <rect x="120" y="140" width="1360" height="330" rx="6" fill="url(#windowGrad)" stroke="#092325" stroke-width="10"/>
+    <!-- window mullions -->
+    <line x1="120" y1="300" x2="1480" y2="300" stroke="#092325" stroke-width="10"/>
+    <line x1="590" y1="140" x2="590" y2="470" stroke="#092325" stroke-width="10"/>
+    <line x1="1030" y1="140" x2="1030" y2="470" stroke="#092325" stroke-width="10"/>
+
+    <!-- rain streaks, moving up the pane -->
+    <g stroke="#bfe9e6" stroke-opacity="0.55" stroke-width="4" stroke-linecap="round">
+      <line x1="180" y1="160" x2="150" y2="290"/>
+      <line x1="240" y1="150" x2="205" y2="295"/>
+      <line x1="320" y1="165" x2="280" y2="290"/>
+      <line x1="410" y1="155" x2="370" y2="295"/>
+      <line x1="500" y1="160" x2="460" y2="290"/>
+      <line x1="650" y1="150" x2="610" y2="295"/>
+      <line x1="730" y1="165" x2="690" y2="290"/>
+      <line x1="820" y1="155" x2="780" y2="295"/>
+      <line x1="900" y1="160" x2="860" y2="290"/>
+      <line x1="1080" y1="155" x2="1040" y2="295"/>
+      <line x1="1160" y1="165" x2="1120" y2="290"/>
+      <line x1="1250" y1="150" x2="1210" y2="295"/>
+      <line x1="1330" y1="160" x2="1290" y2="290"/>
+      <line x1="1410" y1="155" x2="1370" y2="295"/>
+
+      <line x1="200" y1="320" x2="165" y2="450"/>
+      <line x1="300" y1="330" x2="260" y2="455"/>
+      <line x1="430" y1="320" x2="390" y2="450"/>
+      <line x1="560" y1="330" x2="520" y2="455"/>
+      <line x1="700" y1="320" x2="660" y2="450"/>
+      <line x1="840" y1="330" x2="800" y2="455"/>
+      <line x1="960" y1="320" x2="920" y2="450"/>
+      <line x1="1100" y1="330" x2="1060" y2="455"/>
+      <line x1="1240" y1="320" x2="1200" y2="450"/>
+      <line x1="1380" y1="330" x2="1340" y2="455"/>
+    </g>
+  </g>
+
+  <!-- brick basement wall texture, subtle -->
+  <g opacity="0.12" stroke="#e8f6f4" stroke-width="2">
+    <line x1="0" y1="620" x2="1600" y2="620"/>
+    <line x1="0" y1="700" x2="1600" y2="700"/>
+    <line x1="0" y1="780" x2="1600" y2="780"/>
+    <line x1="0" y1="860" x2="1600" y2="860"/>
+  </g>
+
+  <!-- title block -->
+  <text x="800" y="720" text-anchor="middle" font-size="150" font-weight="700"
+        fill="#fdf6ef" letter-spacing="6" font-family="Georgia, serif">OUT OF</text>
+  <text x="800" y="860" text-anchor="middle" font-size="150" font-weight="700"
+        fill="#fdf6ef" letter-spacing="6" font-family="Georgia, serif">OFFICE</text>
+
+  <rect x="620" y="900" width="360" height="6" fill="url(#coral)"/>
+
+  <text x="800" y="965" text-anchor="middle" font-size="42" fill="#ffb59f"
+        letter-spacing="4" font-family="Georgia, serif" font-style="italic">Kelvin Row, Book One</text>
+
+  <!-- ON AIR bulb + mic stand, centred, above the figures -->
+  <g>
+    <circle cx="800" cy="1330" r="130" fill="url(#bulbGlow)"/>
+    <circle cx="800" cy="1330" r="46" fill="#ffcf9b" stroke="#ff8a5c" stroke-width="6"/>
+    <text x="800" y="1343" text-anchor="middle" font-size="26" font-weight="700"
+          fill="#5c2a10" letter-spacing="2" font-family="Georgia, serif">ON AIR</text>
+
+    <!-- mic stand -->
+    <line x1="800" y1="1450" x2="800" y2="1620" stroke="#0a2b2e" stroke-width="10"/>
+    <line x1="700" y1="1620" x2="900" y2="1620" stroke="#0a2b2e" stroke-width="12" stroke-linecap="round"/>
+    <ellipse cx="800" cy="1470" rx="46" ry="60" fill="#e9e2d6" stroke="#0a2b2e" stroke-width="8"/>
+    <g stroke="#0a2b2e" stroke-width="3" opacity="0.6">
+      <line x1="778" y1="1445" x2="822" y2="1445"/>
+      <line x1="774" y1="1460" x2="826" y2="1460"/>
+      <line x1="774" y1="1475" x2="826" y2="1475"/>
+      <line x1="774" y1="1490" x2="826" y2="1490"/>
+      <line x1="778" y1="1505" x2="822" y2="1505"/>
+    </g>
+  </g>
+
+  <!-- Figure A: leaning in toward the mic, coral silhouette, left -->
+  <g transform="rotate(8 700 1750)">
+    <path d="M 540 2010
+             L 528 1820
+             C 524 1735, 570 1668, 650 1650
+             L 700 1638
+             L 750 1650
+             C 795 1663, 822 1700, 822 1745
+             L 822 2010
+             Z"
+          fill="url(#coral)"/>
+    <circle cx="686" cy="1560" r="82" fill="url(#coral)"/>
+  </g>
+
+  <!-- Figure B: upright, composed, pretending not to lean — teal-white silhouette, right -->
+  <g>
+    <path d="M 918 2010
+             L 908 1800
+             C 905 1715, 948 1650, 1026 1638
+             L 1070 1632
+             L 1112 1646
+             C 1150 1660, 1174 1698, 1174 1740
+             L 1174 2010
+             Z"
+          fill="#e6f4f2"/>
+    <circle cx="1044" cy="1548" r="78" fill="#e6f4f2"/>
+    <!-- headphones, one cup off -->
+    <path d="M 978 1522 A 66 66 0 0 1 1108 1518" fill="none" stroke="#0a2b2e" stroke-width="11"/>
+    <circle cx="978" cy="1532" r="20" fill="#0a2b2e"/>
+    <circle cx="1108" cy="1528" r="20" fill="none" stroke="#0a2b2e" stroke-width="6"/>
+  </g>
+
+  <!-- floor buckets, small detail -->
+  <g fill="#0a2b2e" opacity="0.85">
+    <rect x="230" y="2260" width="70" height="60" rx="6"/>
+    <rect x="1330" y="2280" width="60" height="50" rx="6"/>
+  </g>
+
+  <!-- bottom band: author name -->
+  <rect x="0" y="2330" width="1600" height="230" fill="#071f21"/>
+  <text x="800" y="2460" text-anchor="middle" font-size="66" fill="#fdf6ef"
+        letter-spacing="8" font-family="Georgia, serif">WREN HALLIDAY</text>
+
+</svg>
+</div>
+</body>
+</html>

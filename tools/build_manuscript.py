@@ -17,19 +17,28 @@ BOOKS = {
         "dir": "manuscript",
         "out": "CLEAN_EXIT.md",
         "chapters": 16,
+        "epilogue": True,
     },
     "safe_passage": {
         "dir": "manuscript_safe_passage",
         "out": "SAFE_PASSAGE.md",
         "chapters": 17,
+        "epilogue": True,
+    },
+    "out_of_office": {
+        "dir": "manuscript_out_of_office",
+        "out": "OUT_OF_OFFICE.md",
+        "chapters": 24,
+        "epilogue": False,
     },
 }
 
 
-def order(n_chapters: int) -> list:
-    return (["00-front-matter.md"]
-            + [f"ch{i:02d}.md" for i in range(1, n_chapters + 1)]
-            + ["epilogue.md"])
+def order(n_chapters: int, epilogue: bool) -> list:
+    parts = ["00-front-matter.md"] + [f"ch{i:02d}.md" for i in range(1, n_chapters + 1)]
+    if epilogue:
+        parts.append("epilogue.md")
+    return parts
 
 
 def build(key: str) -> int:
@@ -37,7 +46,7 @@ def build(key: str) -> int:
     ms = ROOT / spec["dir"]
     parts, total = [], 0
     print(f"\n== {key} ==")
-    for name in order(spec["chapters"]):
+    for name in order(spec["chapters"], spec["epilogue"]):
         text = (ms / name).read_text(encoding="utf-8").strip()
         words = len(text.split())
         total += words

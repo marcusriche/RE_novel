@@ -1,0 +1,405 @@
+{
+  "Seed_ID": "01KYFVZ2V7QFV4DN2XRAAPHTQ3",
+  "Release_Date": "2026-10-01",
+  "Distribution_Posture": "",
+  "Pseudonym": "Wren Halliday",
+  "Series_Name": "Kelvin Row",
+  "Title": "Out of Office",
+  "Subgenre": "Rom-Com/Workplace",
+  "Heat_Level": 2,
+  "Ending_Type": "HFN",
+  "Premise_Logline": "To save her community radio station's funding, a manager promises the review panel a new on-air couple - then has six weeks to convince everyone, including the overnight engineer she volunteered, that they are one.",
+  "A_Plot": "A stages a six-week run of a live couples advice hour with B to satisfy the funding panel, and has to keep the performance credible while it quietly stops being one.",
+  "B_Plot": "B's anonymous late-night segment is the thing the panel actually wants to keep, and going public with the fake relationship threatens the one part of her life she has never had to perform.",
+  "Mandatory_Set_Pieces_with_Phase": [
+    {
+      "beat": "A promises the panel a couples show she does not have",
+      "phase": 0
+    },
+    {
+      "beat": "first broadcast: the on-air stunt kiss at the end of the hour",
+      "phase": 2
+    },
+    {
+      "beat": "listener call-in that neither of them can answer in character",
+      "phase": 4
+    },
+    {
+      "beat": "consent negotiation before first C3 contact",
+      "phase": 6
+    },
+    {
+      "beat": "the final broadcast runs off script and on the record",
+      "phase": 7
+    }
+  ],
+  "Central_Tropes": [
+    "fake_dating",
+    "grumpy_sunshine",
+    "workplace_proximity",
+    "mutual_pining",
+    "secret_identity_minor"
+  ],
+  "Trope_Payoff_Schedule": [
+    {
+      "trope": "fake_dating",
+      "arm_phase": 0,
+      "window": [
+        2,
+        7
+      ]
+    },
+    {
+      "trope": "grumpy_sunshine",
+      "arm_phase": 1,
+      "window": [
+        3,
+        6
+      ]
+    },
+    {
+      "trope": "mutual_pining",
+      "arm_phase": 2,
+      "window": [
+        4,
+        7
+      ]
+    },
+    {
+      "trope": "secret_identity_minor",
+      "arm_phase": 1,
+      "window": [
+        5,
+        7
+      ]
+    },
+    {
+      "trope": "workplace_proximity",
+      "arm_phase": 0,
+      "window": [
+        2,
+        6
+      ]
+    }
+  ],
+  "Antagonistic_Force": {
+    "name": "the funding review",
+    "kind": "institution",
+    "descriptor": "the three-year community media renewal panel and its audience-engagement metrics"
+  },
+  "Allies_Confidants": [
+    {
+      "name": "C",
+      "kind": "person",
+      "descriptor": "the station's teenage volunteer producer; runs the desk and the gossip"
+    },
+    {
+      "name": "E",
+      "kind": "person",
+      "descriptor": "A's former co-presenter, now on the panel and pretending not to know her"
+    }
+  ],
+  "Dominant_Pair": [
+    "A",
+    "B"
+  ],
+  "Initial_CER_Seed": [
+    {
+      "id": "CE-01",
+      "type": "Promise",
+      "w": 0.75,
+      "u": 0.3,
+      "deadline": {
+        "phase": 7
+      }
+    },
+    {
+      "id": "CE-02",
+      "type": "Revelation",
+      "w": 0.6,
+      "u": 0.4,
+      "deadline": {
+        "phase": 6
+      }
+    },
+    {
+      "id": "CE-03",
+      "type": "Absence",
+      "w": 0.45,
+      "u": 0.35,
+      "deadline": {
+        "phase": 5
+      }
+    },
+    {
+      "id": "CE-04",
+      "type": "Obligation",
+      "w": 0.4,
+      "u": 0.2,
+      "deadline": {
+        "phase": 4
+      }
+    }
+  ],
+  "Arc_Profile_ID": "Rom-Com/Workplace",
+  "Initial_Relationship_State": [
+    {
+      "from": "A",
+      "to": "B",
+      "attraction_sexual": 0.3,
+      "attraction_romantic": 0.35,
+      "trust": 0.55,
+      "resentment": 0.1,
+      "respect": 0.7,
+      "fear": 0.05
+    },
+    {
+      "from": "B",
+      "to": "A",
+      "attraction_sexual": 0.45,
+      "attraction_romantic": 0.5,
+      "trust": 0.4,
+      "resentment": 0.25,
+      "respect": 0.6,
+      "fear": 0.15
+    }
+  ],
+  "Operational_Clock": {
+    "story_days": 46,
+    "calendar_anchor": "2026-09-07"
+  },
+  "Continuity_Constraints": [
+    "the story is organised around six weekly live broadcasts; every phase advance crosses at least one of them",
+    "the funding decision lands on story day 44 and cannot be brought forward",
+    "the station never leaves Glasgow - no travel subplot",
+    "B's anonymous segment stays anonymous to the listeners through Phase 6",
+    "nothing said on air can be unsaid; broadcast is treated as a permanent record within the story"
+  ],
+  "VK_Kernel_ID": "VK-EN-RC-01",
+  "POV": "first_person_single",
+  "Tense": "present",
+  "Narrative_Distance": "immediate",
+  "Register": "wry_warm",
+  "Sentence_Rhythm_Targets": {
+    "avg_clause_len": 14,
+    "fragment_tolerance": 0.35,
+    "run_on_tolerance": 0.45,
+    "punctuation_habits": "comedic run-ons; parentheticals; em dash as timing, not menace"
+  },
+  "Signature_Moves": [
+    "broadcast links used as emotional deflection",
+    "self-interrupting asides that land the real feeling",
+    "sound described before faces are"
+  ],
+  "Taboo_List_and_Sensitive_Notes": {
+    "hard_no": [
+      "sexual content involving minors",
+      "non-consensual sexual content on-page",
+      "outing a character against their will as a comedic beat",
+      "the fake relationship used to obtain anything from the other lead"
+    ],
+    "handled_off_page": [
+      "the death of A's mother",
+      "the podcast made about B's last relationship"
+    ],
+    "notes": "Heat 2: intimacy is closed-door. The on-air performance never substitutes for consent between the leads - every escalation is negotiated off-mic first, per the 4.5 architecture."
+  },
+  "Brand_Lexicon": {
+    "banned": [
+      "orbs",
+      "smirked",
+      "chuckled darkly",
+      "sass",
+      "adorkable"
+    ],
+    "preferred": [
+      "static",
+      "levels",
+      "rain",
+      "tea",
+      "signal"
+    ]
+  },
+  "Redundancy_Rules": {
+    "surface_block_tighten": {
+      "Ph2": 3,
+      "Ph4": 3
+    },
+    "note": "broadcast scenes repeat structurally; tightens the Ph2 and Ph4 windows so the on-air framing does not template. Windows may tighten, never loosen."
+  },
+  "Platform_Hook_Profile": {
+    "chapter_end_threshold": 0.55,
+    "alternate_intensity": false
+  },
+  "Tu_Usted_Profile": "",
+  "Voce_Senhor_Profile": "",
+  "Tension_Engine": "performance_and_disclosure",
+  "Series_Potential": "standalone",
+  "Hook_Line": "She promised the funding panel a couple. She had six weeks and one very reluctant sound engineer.",
+  "Keywords_01": "sapphic romantic comedy",
+  "Keywords_02": "fake dating romance",
+  "Keywords_03": "workplace romance comedy",
+  "Keywords_04": "grumpy sunshine sapphic",
+  "Keywords_05": "slow burn wlw romance",
+  "Keywords_06": "closed door sapphic romance",
+  "Keywords_07": "second chance career romance",
+  "Keywords_08": "sapphic rom com",
+  "Keywords_09": "fake dating",
+  "Keywords_10": "lesbian romantic comedy",
+  "Keywords_11": "wlw romance",
+  "Keywords_12": "fake relationship romance",
+  "Keywords_13": "british romantic comedy",
+  "Keywords_14": "sapphic fake dating romance",
+  "Keywords_15": "funny lesbian romance books",
+  "Blurb_Draft": "Here is what I say to the funding panel, out loud, with my whole chest: yes, of course we have a new couples hour. Six weeks, live, Thursdays. Here is what I have at the point of saying it: a station with a leaking roof, a volunteer producer who is seventeen, and Nadia, who engineers the overnight slot and has said roughly eleven words to me in three years, four of which were about a cable. She agrees, which is the first surprise. She is funny on air, which is the second. And somewhere around week four, when the phone lines are open and a stranger asks how we knew, I realise I have stopped rehearsing the answer. We have two broadcasts left. I am running out of script.",
+  "Comparable_Titles": [
+    "Alexandria Bellefleur - Written in the Stars",
+    "Rachel Lynn Solomon - The Ex Talk",
+    "Casey McQuiston - One Last Stop"
+  ],
+  "Launch_Price_Tier": "USD_3_99",
+  "Promo_Platform_Compatibility": {
+    "amazon_ads": true,
+    "meta_ads": true,
+    "bookbub_ads": true,
+    "newsletter_promos": true
+  },
+  "Time_Period": "contemporary",
+  "Decade": "2020s",
+  "City_Or_Region": "Glasgow",
+  "Country": "Scotland",
+  "Environment": "urban_neighbourhood",
+  "Season": "autumn",
+  "Climate": "temperate_maritime",
+  "Cultural_Tone": "wry_civic_scottish",
+  "Terrain_Type": "riverside_tenement_district",
+  "Travel_Access": "walk_and_subway",
+  "Historical_Accuracy_Level": "contemporary_realistic",
+  "Locale_Signature": [
+    "a red ON AIR bulb burning through a tenement basement's condensation",
+    "rain moving up the Clyde in visible sheets, seen from the fire escape"
+  ],
+  "Pairing_Type": "FF",
+  "Dynamic": "fake_dating",
+  "Chemistry_Tone": "bickering_tender",
+  "Meet_Cute": "forced_on_air_pairing",
+  "First_Kiss_Phase": 2,
+  "First_Intimacy_Phase": 6,
+  "Breakup_Beat": "contract_ends",
+  "Reunion_Mode": "public_correction",
+  "Gender_A": "female",
+  "Age_A": 34,
+  "Archetype_A": "overextended_caretaker_manager",
+  "Occupation_Primary_A": "station manager, community radio",
+  "Occupation_Secondary_A": "weekend presenter",
+  "Goal_External_A": "win the three-year renewal and keep the station on air",
+  "Goal_Internal_A": "to want something out loud, once, and let it be heard",
+  "Wound_A": "spent her twenties being the reliable one through her mother's illness; nobody ever asked what she wanted",
+  "Flaw_A": "makes herself indispensable so she never has to risk being chosen",
+  "Secret_A": "she has had a job offer in London sitting unanswered for five weeks",
+  "Backstory_A": "Came to the station as a volunteer at nineteen and never left; took over the management when the founder retired and has been quietly funding the gaps out of her own account ever since.",
+  "Physical_Description_A": "Tall, perpetually in a coat she has not taken off; reading glasses pushed up and forgotten; a lanyard she fidgets with.",
+  "Voice_Verbal_Tic_A": "cues herself out of hard conversations in radio-link phrasing",
+  "Body_Language_Default_A": "reaches for something to adjust - a fader, a mug, the angle of a mic",
+  "Growth_Arc_A": "stated_desire",
+  "Fear_Profile_A": "being surplus to requirements; asking and being told no on the record",
+  "Love_Language_A": "quality_time",
+  "Attachment_Style_A": "anxious_preoccupied",
+  "Gender_B": "female",
+  "Age_B": 39,
+  "Archetype_B": "guarded_technician",
+  "Occupation_Primary_B": "overnight sound engineer",
+  "Occupation_Secondary_B": "sound designer for a fringe theatre company",
+  "Goal_External_B": "keep the overnight slot and the studio she rebuilt by hand",
+  "Goal_Internal_B": "to be heard as herself rather than as the person behind the desk",
+  "Wound_B": "her last relationship was conducted in public and ended there; a popular podcast about it still exists",
+  "Flaw_B": "edits herself in real time; treats honesty as something to be mixed down",
+  "Secret_B": "she is the anonymous voice behind the station's most-loved late-night segment",
+  "Backstory_B": "Toured as a live engineer for a decade, came off the road after the podcast made her a recognisable story, and took the one shift where nobody would ask her to talk.",
+  "Physical_Description_B": "Compact, forearms of someone who lifts flight cases; grey coming in at the temples and left alone; one headphone cup always off.",
+  "Voice_Verbal_Tic_B": "answers emotional questions with levels, timings and durations",
+  "Body_Language_Default_B": "listens to the room with her head tilted a few degrees off centre",
+  "Growth_Arc_B": "unedited_self",
+  "Fear_Profile_B": "becoming a public story again; being loved as a bit",
+  "Love_Language_B": "acts_of_service",
+  "Attachment_Style_B": "dismissive_avoidant",
+  "Inciting_Incident_Type": "public_promise_made_in_error",
+  "Subplot_A": "the volunteer roster collapses as the review deadline closes in, and C tries to hold it together alone",
+  "Subplot_B": "B's theatre contract offers a way out of the overnight slot she keeps insisting she does not want",
+  "Midpoint_Type": "the_performance_becomes_true_off_mic",
+  "Black_Moment_Type": "private_moment_broadcast",
+  "Climax_Mode": "off_script_broadcast",
+  "Resolution_Mode": "terms_renegotiated",
+  "Save_The_Cat_Beat": "covers_a_volunteers_shift_at_three_am",
+  "All_Is_Lost_Beat": "renewal_refused",
+  "Finale_Type": "live_on_air_finale",
+  "Epilogue_Included": false,
+  "Pacing_Style": "episodic_escalation",
+  "Scene_Density": "dense_short_scenes",
+  "Dialogue_Ratio": 8,
+  "Comedy": 8,
+  "Darkness": 2,
+  "Suspense": 3,
+  "Cussing": 4,
+  "Violence": 0,
+  "Interiority_Ratio": 5,
+  "Lyricality": 3,
+  "Humor_Type": "banter_and_self_deprecation",
+  "Burn_Rate": "delayed_burn",
+  "Book_Number": 1,
+  "Title_Slug": "",
+  "Title_Style": "pun_wordplay",
+  "Cover_Cue_Main": "two illustrated women either side of a studio mic, one leaning in, one pretending not to",
+  "Cover_Cue_Background": "flat-illustrated basement studio, rain on a high window, ON AIR bulb lit",
+  "Cover_Color_Mood": "teal_coral",
+  "Cover_Type": "illustrated_character",
+  "Cover_Dimensions": {
+    "KDP": {
+      "width_px": 1600,
+      "height_px": 2560
+    }
+  },
+  "Back_Cover_Copy": "Six weeks. Six broadcasts. One relationship that exists entirely on air and nowhere else - until it starts existing everywhere else too. The funding panel wanted proof of community engagement. Nobody warned them what they would get.",
+  "Dedication_Line": "For the people who keep the lights on in buildings nobody funds.",
+  "Content_Warnings_Public": [
+    "on-page grief for a parent",
+    "closed-door sexual content",
+    "alcohol use",
+    "a past relationship made public without consent"
+  ],
+  "ISBN_Print": "unassigned",
+  "ISBN_Ebook": "unassigned",
+  "Binding_Type": "ebook",
+  "Pre_Order_Duration": 21,
+  "Publishing_Channels": "",
+  "File_ID": "F-OUT-OF-OFFICE-B01",
+  "Template_Version": "5.0",
+  "Cover_Preset_ID": "COV-RC-01",
+  "Blurb_Preset_ID": "BLB-RC-01",
+  "Outline_Preset_ID": "OUT-RC-01",
+  "Agent_Profile": "path_a_day_one",
+  "QA_Flags": [],
+  "Sensitivity_Flags": [
+    "sapphic_rep_read",
+    "bereavement_content_review"
+  ],
+  "Revision_Pattern": "comedy_timing_pass",
+  "VK_Kernel_Override": "",
+  "Model_Binding_ID": "nemotron3u-nvfp4-trtllm",
+  "Serving_Profile_ID": "profile_bundle_default",
+  "Generation_Date": "2026-07-26",
+  "Word_Count_Target": 62000,
+  "Word_Count_Actual": 0,
+  "Editor_Pass_Count": 1,
+  "Human_Contribution_Log_Ref": "HCL-OUT-OF-OFFICE-B01",
+  "Cache_Profile_ID": "CACHE-VK-EN-RC-01-KELVINROW",
+  "Launch_Date": "",
+  "First_Week_Sales": "",
+  "First_30Day_Sales": "",
+  "Completion_Rate": "",
+  "Dropoff_Pattern_Summary": "",
+  "Review_Sentiment_Score": "",
+  "Average_Rating": "",
+  "Pre_Order_Count": "",
+  "KU_Page_Reads_Cumulative": ""
+}

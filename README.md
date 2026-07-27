@@ -1,10 +1,10 @@
-# RE_novel — Romance Engine v5.0, implemented, with two produced novels
+# RE_novel — Romance Engine v5.0, implemented, with three produced novels
 
 This repository implements the **Romance Engine** (Consolidated Operating
 Document v5.0, with Addendum M and the Calibration Corpus v0.1 in force) and
-uses it to produce complete novels from rows of the Unified Seed Matrix. Two
-titles have been produced, both through the same orchestrator and the same
-binding:
+uses it to produce complete novels from rows of the Unified Seed Matrix.
+Three titles have been produced, all through the same orchestrator and the
+same binding:
 
 > **Book 1 — Seed `01KYDG7NWVMNN9C7DTKZ76F54Q`, *Clean Exit*** (Sable Voss,
 > Moretti Family #1) — Mafia/Dark, enemies-to-lovers, Heat 4, HEA, Chicago,
@@ -14,20 +14,26 @@ binding:
 > the matrix) — Mafia/Dark, forced-proximity / reluctant-allies-to-lovers,
 > HEA, the Great Lakes freight corridor Chicago→Port Huron, May, 19-day
 > story clock. **71,217 words.**
+>
+> **Book 3 — Seed `01KYFVZ2V7QFV4DN2XRAAPHTQ3`, *Out of Office*** (Wren
+> Halliday, Kelvin Row #1) — Rom-Com/Workplace, sapphic fake-dating,
+> Heat 2, HFN, community radio in Glasgow, autumn, 46-day story clock.
+> **62,271 words.**
 
 ## Layout
 
 | Path | What it is |
 |---|---|
 | `main.py` | The reference orchestrator (deterministic core §15.8, canonical scene loop §11.1, executable §15 fixture). Used verbatim as supplied, for both books. |
-| `seed/` | The Unified Seed Matrix workbooks and the extracted seed rows (`seed_row.json`, `seed_row_safe_passage.json`) — §16 Unified_Seed_Row. |
+| `seed/` | The Unified Seed Matrix workbooks and the extracted seed rows (`seed_row.json`, `seed_row_safe_passage.json`, `seed_row_kelvin.json`) — §16 Unified_Seed_Row. |
 | `tools/seed_from_xlsx.py` | Stdlib-only xlsx → seed-row extractor. Takes `<matrix.xlsx> [row_index]`. |
 | `tools/build_manuscript.py` | Assembles a book's chapter files into the single deliverable and reports word counts. |
-| `binding/` | The **offline-agent-v1 binding configuration** (Addendum M): `offline_client.py` (the `ModelClient` adapter, schedule-selectable) + one authored editorial schedule per title (`schedule.py`, `schedule_safe_passage.py`). |
+| `binding/` | The **offline-agent-v1 binding configuration** (Addendum M): `offline_client.py` (the `ModelClient` adapter, schedule-selectable) + one authored editorial schedule per title (`schedule.py`, `schedule_safe_passage.py`, `schedule_out_of_office.py`). |
 | `run_book.py` | Driver: runs the §11.1 loop over a seed row. `--seed / --schedule / --out / --scenes / --path`. |
-| `artifacts/`, `artifacts_safe_passage/` | Per book: `scene_ledger.json` (per-scene structural ledger), `scene_briefs.md` (PRIMARY-PROSE work orders), `run_summary.md`. |
+| `artifacts/`, `artifacts_safe_passage/`, `artifacts_out_of_office/` | Per book: `scene_ledger.json` (per-scene structural ledger), `scene_briefs.md` (PRIMARY-PROSE work orders), `run_summary.md`. |
 | `manuscript/` | *Clean Exit* — 16 chapters + epilogue, plus the per-title IP log. `CLEAN_EXIT.md` is the assembled deliverable. |
 | `manuscript_safe_passage/` | *Safe Passage* — 17 chapters + epilogue, plus the per-title IP log. `SAFE_PASSAGE.md` is the assembled deliverable. |
+| `manuscript_out_of_office/` | *Out of Office* — 24 chapters, no epilogue (`Epilogue_Included = false`), plus the per-title IP log, blurb, and cover. `OUT_OF_OFFICE.md` is the assembled deliverable. |
 
 ## How to verify
 
@@ -43,12 +49,19 @@ python3 run_book.py \
   --schedule binding.schedule_safe_passage \
   --out artifacts_safe_passage
 
-python3 tools/build_manuscript.py              # rebuild both assembled manuscripts
+# Book 3
+python3 run_book.py \
+  --seed seed/seed_row_kelvin.json \
+  --schedule binding.schedule_out_of_office \
+  --out artifacts_out_of_office \
+  --scenes 45
+
+python3 tools/build_manuscript.py              # rebuild all three assembled manuscripts
 python3 tools/seed_from_xlsx.py seed/Romance_Engine_Unified_Seed_Matrix.xlsx 2
 ```
 
 The fixture requires no binding (Addendum M's proof instrument); `run_book.py`
-re-runs all 45 scenes of either title deterministically — same ledger, same
+re-runs all 45 scenes of any title deterministically — same ledger, same
 briefs, byte for byte.
 
 ## The binding configuration (Addendum M compliance)
@@ -80,8 +93,8 @@ deterministic configuration that runs with no network access:
   still evaluated unmodified.
 
 The adapter surface really is one `ModelClient` subclass, as Addendum M
-claims: adding Book 2 required a new schedule module and a seed row, and no
-change whatsoever to `main.py`.
+claims: adding Book 2 and Book 3 each required only a new schedule module
+and a seed row, and no change whatsoever to `main.py`.
 
 No calibration card exists for this configuration, so all floors and ρ
 readings are **provisional**, exactly as R11 requires; the ED floor (0.45,
@@ -139,3 +152,46 @@ failed.
 - **Word count**: the seed's band is 70,000–90,000. `Word_Count_Actual` =
   **71,217** (17 chapters + epilogue). R22 editor pass and full constraint
   verification logged in `manuscript_safe_passage/HCL-SAFE-PASSAGE-B02.md`.
+
+## Book 3 — *Out of Office*
+
+- **Scene count**: 45 scenes against the Rom-Com/Workplace arc profile
+  `E = [10,12,12,8,10,10,10,8,10]`, halved to `[5,6,6,4,5,5,5,4,5]` since
+  every entry is even — same halving discipline as Books 1–2, so all three
+  titles are directly comparable at the same scene count. Final run: 45
+  scenes, final phase 8, **0 review flags**, 0 unrealized deltas.
+- **Set pieces** land in their seeded phases: the panel promise made with
+  nothing to back it (Ph0), the on-air stunt kiss at the end of broadcast
+  one (Ph2), the listener call-in neither presenter can answer in character
+  (Ph4), the consent negotiation before first C3 contact (Ph6), and the
+  final broadcast running off script and onto the record (Ph7).
+- **Consent architecture (§4.5)**: initial terms (no unplanned physical
+  contact, the overnight desk stays off the record, a stop-word ends any
+  segment immediately) are negotiated on the record, in writing, witnessed
+  by a third party (ch. 3); the scripted stunt kiss is separately asked and
+  granted off mic the night before broadcast one (ch. 6); the first
+  *unscripted* kiss is asked and granted on Nadia's own terms (ch. 15);
+  first intimacy (`First_Intimacy_Phase = 6`) is granted on the page inside
+  the negotiated Phase 6 window, with the standing request to be asked
+  again, repeatedly, honoured explicitly (ch. 18).
+- **CE lifecycle**: CE-04 (Obligation) closes first; CE-03 (Absence, the
+  mother's voicemail tape) closes with company present rather than alone;
+  CE-02 (Revelation, Nadia's anonymous segment) closes privately between the
+  leads before it is ever disclosed to the show's audience; CE-01 (Promise)
+  misfires when the hot-mic accident breaks it and pays verbatim (L7
+  discipline) at the origin scene and again at the final broadcast.
+- **Five scheduling repairs** were required during dry runs — a scene-
+  authoring `TypeError`, a phase-advance drift across all eight transitions
+  traced to a one-scene-early delta placement, six delta-cap violations
+  fixed at the source rather than relying on inferred repair behaviour, a
+  regression this introduced into the Phase 7→8 crossing, and three missing
+  CE `close=[...]` calls. Each is itemized in the IP log; in every case the
+  schedule was wrong and the engine's rejection or refusal to advance was
+  the evidence.
+- **Word count**: seed target `Word_Count_Target = 62000`. `Word_Count_Actual`
+  = **62,271** (24 chapters, no epilogue per `Epilogue_Included = false`).
+  R22 editor pass and full constraint verification logged in
+  `manuscript_out_of_office/HCL-OUT-OF-OFFICE-B01.md`.
+- **Blurb and cover**: `manuscript_out_of_office/BLURB.md` and
+  `manuscript_out_of_office/cover/` (source HTML/SVG plus the rendered
+  cover image, at the seed's `Cover_Dimensions`).
